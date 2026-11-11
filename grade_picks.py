@@ -210,6 +210,8 @@ def main():
             if p["stake_pct"] <= 0:
                 continue
             res, units, score = grade(p, scores.get((day, p["home"], p["away"])))
+            if res == "no game found" and day >= today - pd.Timedelta(days=1):
+                res = "pending"  # tonight's or last night's game, not final yet
             rows.append({"date": day, "model": model, "game": f"{p['away']} @ {p['home']}",
                          "bet": p["bet"], "odds": p["odds"], "model_p": p["model_p"],
                          "fair_p": p["fair_p"], "edge": p["edge"],
