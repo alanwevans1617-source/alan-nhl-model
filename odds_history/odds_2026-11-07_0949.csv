@@ -1,0 +1,13 @@
+pulled_at,start,book,home,away,home_ml,away_ml,total_line,over,under
+2026-11-07 09:49,2026-11-07 13:40,betmgm,Washington Capitals,Florida Panthers,-120,100,6.0,-118,-102
+2026-11-07 09:49,2026-11-07 14:10,betmgm,Nashville Predators,St. Louis Blues,-110,-110,6.0,-105,-115
+2026-11-07 09:49,2026-11-07 18:10,betmgm,Seattle Kraken,New York Rangers,110,-135,6.5,-102,-118
+2026-11-07 09:49,2026-11-07 20:10,betmgm,Toronto Maple Leafs,Montreal Canadiens,100,-120,6.5,-118,-102
+2026-11-07 09:49,2026-11-07 20:10,betmgm,New York Islanders,New Jersey Devils,125,-150,6.0,-105,-115
+2026-11-07 09:49,2026-11-07 20:10,betmgm,Ottawa Senators,Utah Mammoth,-102,-118,6.5,-115,-105
+2026-11-07 09:49,2026-11-07 21:10,betmgm,Carolina Hurricanes,Chicago Blackhawks,-475,360,6.0,-125,105
+2026-11-07 09:49,2026-11-07 21:10,betmgm,Dallas Stars,San Jose Sharks,-300,240,6.0,-120,100
+2026-11-07 09:49,2026-11-07 21:10,betmgm,Minnesota Wild,Tampa Bay Lightning,118,-145,6.0,-125,105
+2026-11-07 09:49,2026-11-07 22:10,betmgm,Colorado Avalanche,Detroit Red Wings,-225,185,6.5,-105,-115
+2026-11-07 09:49,2026-11-07 22:10,betmgm,Los Angeles Kings,Pittsburgh Penguins,-130,105,6.0,-130,105
+2026-11-07 09:49,2026-11-07 23:10,betmgm,Edmonton Oilers,Vancouver Canucks,-350,280,7.0,105,-130
