@@ -1,0 +1,21 @@
+                                    game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+        Anaheim Ducks @ New York Rangers    New York Rangers ML  -155    0.570   0.583 -0.013       -0.061       0.00
+        Anaheim Ducks @ New York Rangers       Anaheim Ducks ML   130    0.430   0.417  0.013       -0.012       0.00
+        Anaheim Ducks @ New York Rangers               Over 6.5  -110    0.468   0.500 -0.032       -0.106       0.00
+        Anaheim Ducks @ New York Rangers              Under 6.5  -110    0.532   0.500  0.032        0.015       0.41
+Colorado Avalanche @ Philadelphia Flyers Philadelphia Flyers ML   200    0.332   0.318  0.014       -0.003       0.00
+Colorado Avalanche @ Philadelphia Flyers  Colorado Avalanche ML  -250    0.668   0.682 -0.014       -0.065       0.00
+Colorado Avalanche @ Philadelphia Flyers               Over 6.0  -115    0.481   0.511 -0.030       -0.101       0.00
+Colorado Avalanche @ Philadelphia Flyers              Under 6.0  -105    0.519   0.489  0.030        0.014       0.36
+   San Jose Sharks @ Toronto Maple Leafs Toronto Maple Leafs ML  -135    0.545   0.553 -0.007       -0.051       0.00
+   San Jose Sharks @ Toronto Maple Leafs     San Jose Sharks ML   115    0.455   0.447  0.007       -0.023       0.00
+   San Jose Sharks @ Toronto Maple Leafs               Over 6.5  -130    0.525   0.543 -0.018       -0.072       0.00
+   San Jose Sharks @ Toronto Maple Leafs              Under 6.5   110    0.475   0.457  0.018       -0.002       0.00
+      Pittsburgh Penguins @ Utah Mammoth        Utah Mammoth ML  -190    0.605   0.626 -0.020       -0.076       0.00
+      Pittsburgh Penguins @ Utah Mammoth Pittsburgh Penguins ML   155    0.395   0.374  0.020        0.006       0.10
+      Pittsburgh Penguins @ Utah Mammoth               Over 6.5  -135    0.542   0.553 -0.011       -0.057       0.00
+      Pittsburgh Penguins @ Utah Mammoth              Under 6.5   115    0.458   0.447  0.011       -0.015       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+model_p is blended 50% model / 50% market (no-vig); min edge 2%.

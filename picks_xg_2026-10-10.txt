@@ -1,0 +1,60 @@
+                                    game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     Philadelphia Flyers @ Boston Bruins         Boston Bruins ML  -145    0.590   0.566  0.025       -0.002       0.00
+     Philadelphia Flyers @ Boston Bruins   Philadelphia Flyers ML   120    0.410   0.434 -0.025       -0.099       0.00
+     Philadelphia Flyers @ Boston Bruins                 Over 5.5  -115    0.524   0.511  0.013       -0.021       0.00
+     Philadelphia Flyers @ Boston Bruins                Under 5.5  -105    0.476   0.489 -0.013       -0.070       0.00
+   Vancouver Canucks @ New Jersey Devils     New Jersey Devils ML  -285    0.619   0.710 -0.090       -0.164       0.00
+   Vancouver Canucks @ New Jersey Devils     Vancouver Canucks ML   230    0.381   0.290  0.090        0.257       2.00
+   Vancouver Canucks @ New Jersey Devils                 Over 6.5   100    0.493   0.478  0.015       -0.014       0.00
+   Vancouver Canucks @ New Jersey Devils                Under 6.5  -120    0.507   0.522 -0.015       -0.071       0.00
+       Edmonton Oilers @ San Jose Sharks       San Jose Sharks ML   135    0.413   0.409  0.005       -0.029       0.00
+       Edmonton Oilers @ San Jose Sharks       Edmonton Oilers ML  -160    0.587   0.591 -0.005       -0.047       0.00
+       Edmonton Oilers @ San Jose Sharks                 Over 6.5  -120    0.520   0.522 -0.002       -0.047       0.00
+       Edmonton Oilers @ San Jose Sharks                Under 6.5   100    0.480   0.478  0.002       -0.040       0.00
+       Minnesota Wild @ Florida Panthers      Florida Panthers ML  -130    0.475   0.543 -0.067       -0.159       0.00
+       Minnesota Wild @ Florida Panthers        Minnesota Wild ML   110    0.525   0.457  0.067        0.102       2.00
+       Minnesota Wild @ Florida Panthers                 Over 5.5  -120    0.539   0.522  0.017       -0.012       0.00
+       Minnesota Wild @ Florida Panthers                Under 5.5   100    0.461   0.478 -0.017       -0.078       0.00
+           Utah Mammoth @ Buffalo Sabres        Buffalo Sabres ML  -110    0.506   0.500  0.006       -0.035       0.00
+           Utah Mammoth @ Buffalo Sabres          Utah Mammoth ML  -110    0.494   0.500 -0.006       -0.056       0.00
+           Utah Mammoth @ Buffalo Sabres                 Over 6.5   100    0.464   0.478 -0.014       -0.072       0.00
+           Utah Mammoth @ Buffalo Sabres                Under 6.5  -120    0.536   0.522  0.014       -0.017       0.00
+Carolina Hurricanes @ Chicago Blackhawks    Chicago Blackhawks ML   200    0.312   0.318 -0.006       -0.064       0.00
+Carolina Hurricanes @ Chicago Blackhawks   Carolina Hurricanes ML  -250    0.688   0.682  0.006       -0.037       0.00
+Carolina Hurricanes @ Chicago Blackhawks                 Over 6.0  -102    0.536   0.483  0.054        0.062       1.58
+Carolina Hurricanes @ Chicago Blackhawks                Under 6.0  -118    0.464   0.517 -0.054       -0.143       0.00
+Toronto Maple Leafs @ Colorado Avalanche    Colorado Avalanche ML  -220    0.721   0.658  0.063        0.048       2.00
+Toronto Maple Leafs @ Colorado Avalanche   Toronto Maple Leafs ML   180    0.279   0.342 -0.063       -0.218       0.00
+Toronto Maple Leafs @ Colorado Avalanche                 Over 6.5  -125    0.518   0.532 -0.014       -0.067       0.00
+Toronto Maple Leafs @ Colorado Avalanche                Under 6.5   105    0.482   0.468  0.014       -0.013       0.00
+ Columbus Blue Jackets @ St. Louis Blues       St. Louis Blues ML  -125    0.495   0.532 -0.037       -0.109       0.00
+ Columbus Blue Jackets @ St. Louis Blues Columbus Blue Jackets ML   105    0.505   0.468  0.037        0.035       0.84
+ Columbus Blue Jackets @ St. Louis Blues                 Over 6.0  -110    0.428   0.500 -0.072       -0.182       0.00
+ Columbus Blue Jackets @ St. Louis Blues                Under 6.0  -110    0.572   0.500  0.072        0.092       2.00
+      Dallas Stars @ Pittsburgh Penguins   Pittsburgh Penguins ML   150    0.507   0.381  0.126        0.268       2.00
+      Dallas Stars @ Pittsburgh Penguins          Dallas Stars ML  -185    0.493   0.619 -0.126       -0.241       0.00
+      Dallas Stars @ Pittsburgh Penguins                 Over 6.5  -102    0.437   0.483 -0.045       -0.134       0.00
+      Dallas Stars @ Pittsburgh Penguins                Under 6.5  -118    0.563   0.517  0.045        0.040       1.17
+  Detroit Red Wings @ Montreal Canadiens    Montreal Canadiens ML  -200    0.554   0.639 -0.084       -0.169       0.00
+  Detroit Red Wings @ Montreal Canadiens     Detroit Red Wings ML   165    0.446   0.361  0.084        0.181       2.00
+  Detroit Red Wings @ Montreal Canadiens                 Over 6.5   100    0.489   0.478  0.010       -0.023       0.00
+  Detroit Red Wings @ Montreal Canadiens                Under 6.5  -120    0.511   0.522 -0.010       -0.063       0.00
+   Nashville Predators @ Ottawa Senators       Ottawa Senators ML  -160    0.616   0.591  0.025        0.001       0.00
+   Nashville Predators @ Ottawa Senators   Nashville Predators ML   135    0.384   0.409 -0.025       -0.098       0.00
+   Nashville Predators @ Ottawa Senators                 Over 6.0   100    0.489   0.478  0.011       -0.022       0.00
+   Nashville Predators @ Ottawa Senators                Under 6.0  -120    0.511   0.522 -0.011       -0.063       0.00
+Tampa Bay Lightning @ New York Islanders    New York Islanders ML   145    0.438   0.391  0.047        0.072       1.24
+Tampa Bay Lightning @ New York Islanders   Tampa Bay Lightning ML  -175    0.562   0.609 -0.047       -0.116       0.00
+Tampa Bay Lightning @ New York Islanders                 Over 5.5  -115    0.576   0.511  0.065        0.077       2.00
+Tampa Bay Lightning @ New York Islanders                Under 5.5  -105    0.424   0.489 -0.065       -0.172       0.00
+          Anaheim Ducks @ Calgary Flames        Calgary Flames ML   100    0.392   0.478 -0.086       -0.216       0.00
+          Anaheim Ducks @ Calgary Flames         Anaheim Ducks ML  -120    0.608   0.522  0.086        0.114       2.00
+          Anaheim Ducks @ Calgary Flames                 Over 6.5  -105    0.463   0.489 -0.026       -0.096       0.00
+          Anaheim Ducks @ Calgary Flames                Under 6.5  -115    0.537   0.511  0.026        0.004       0.00
+Los Angeles Kings @ Vegas Golden Knights  Vegas Golden Knights ML  -170    0.623   0.602  0.021       -0.011       0.00
+Los Angeles Kings @ Vegas Golden Knights     Los Angeles Kings ML   140    0.377   0.398 -0.021       -0.095       0.00
+Los Angeles Kings @ Vegas Golden Knights                 Over 6.0  -118    0.471   0.517 -0.047       -0.131       0.00
+Los Angeles Kings @ Vegas Golden Knights                Under 6.0  -102    0.529   0.483  0.047        0.049       1.24
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

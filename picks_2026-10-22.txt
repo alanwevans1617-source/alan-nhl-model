@@ -1,0 +1,20 @@
+                                  game                    bet  odds  model_p  fair_p  edge  ev_per_unit  stake_pct
+     Anaheim Ducks @ New Jersey Devils       Anaheim Ducks ML   180    0.446   0.342 0.104        0.249       2.00
+     Anaheim Ducks @ New Jersey Devils              Under 6.5   110    0.525   0.457 0.067        0.103       2.00
+   Nashville Predators @ Boston Bruins       Boston Bruins ML  -155    0.626   0.583 0.043        0.030       1.16
+   Nashville Predators @ Boston Bruins              Under 6.0  -102    0.533   0.483 0.050        0.056       1.42
+Florida Panthers @ Pittsburgh Penguins Pittsburgh Penguins ML  -105    0.549   0.489 0.060        0.072       1.89
+New York Rangers @ Toronto Maple Leafs    New York Rangers ML  -110    0.539   0.500 0.039        0.029       0.80
+New York Rangers @ Toronto Maple Leafs              Under 6.5  -115    0.588   0.511 0.077        0.099       2.00
+     San Jose Sharks @ Ottawa Senators     Ottawa Senators ML  -135    0.649   0.553 0.097        0.130       2.00
+     San Jose Sharks @ Ottawa Senators              Under 6.5  -120    0.609   0.522 0.087        0.117       2.00
+Los Angeles Kings @ New York Islanders  New York Islanders ML  -110    0.608   0.500 0.108        0.161       2.00
+Los Angeles Kings @ New York Islanders              Under 5.5  -105    0.555   0.489 0.066        0.084       2.00
+          Winnipeg Jets @ Dallas Stars              Under 5.5  -110    0.605   0.500 0.105        0.155       2.00
+       Minnesota Wild @ Calgary Flames      Minnesota Wild ML  -200    0.693   0.639 0.054        0.039       1.97
+       Minnesota Wild @ Calgary Flames              Under 6.0  -110    0.539   0.500 0.039        0.029       0.80
+ Carolina Hurricanes @ Edmonton Oilers     Edmonton Oilers ML   115    0.503   0.447 0.055        0.081       1.77
+         Utah Mammoth @ Seattle Kraken      Seattle Kraken ML   145    0.436   0.391 0.045        0.068       1.18
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Rebuilt Oct 24 from graded_picks.csv: flagged picks only (the original file was overwritten).

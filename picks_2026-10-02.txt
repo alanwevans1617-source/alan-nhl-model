@@ -1,0 +1,23 @@
+                                     game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     New York Rangers @ Detroit Red Wings    Detroit Red Wings ML  -135    0.483   0.547 -0.063       -0.159       0.00
+     New York Rangers @ Detroit Red Wings     New York Rangers ML   110    0.517   0.453  0.063        0.085       1.93
+     New York Rangers @ Detroit Red Wings                Over 6.0  -105    0.435   0.489 -0.054       -0.151       0.00
+     New York Rangers @ Detroit Red Wings               Under 6.0  -115    0.565   0.511  0.054        0.056       1.62
+Washington Capitals @ Carolina Hurricanes  Carolina Hurricanes ML  -150    0.564   0.574 -0.010       -0.060       0.00
+Washington Capitals @ Carolina Hurricanes  Washington Capitals ML   125    0.436   0.426  0.010       -0.019       0.00
+Washington Capitals @ Carolina Hurricanes                Over 6.0  -120    0.485   0.522 -0.037       -0.112       0.00
+Washington Capitals @ Carolina Hurricanes               Under 6.0   100    0.515   0.478  0.037        0.031       0.77
+            Boston Bruins @ Winnipeg Jets        Winnipeg Jets ML  -120    0.404   0.522 -0.117       -0.258       0.00
+            Boston Bruins @ Winnipeg Jets        Boston Bruins ML   100    0.596   0.478  0.117        0.191       2.00
+            Boston Bruins @ Winnipeg Jets                Over 6.0  -110    0.425   0.500 -0.075       -0.189       0.00
+            Boston Bruins @ Winnipeg Jets               Under 6.0  -110    0.575   0.500  0.075        0.098       2.00
+           St. Louis Blues @ Dallas Stars         Dallas Stars ML  -190    0.583   0.625 -0.042       -0.111       0.00
+           St. Louis Blues @ Dallas Stars      St. Louis Blues ML   154    0.417   0.375  0.042        0.060       0.98
+           St. Louis Blues @ Dallas Stars                Over 6.0  -110    0.432   0.500 -0.068       -0.175       0.00
+           St. Louis Blues @ Dallas Stars               Under 6.0  -110    0.568   0.500  0.068        0.084       2.00
+     Anaheim Ducks @ Vegas Golden Knights Vegas Golden Knights ML  -210    0.620   0.647 -0.026       -0.085       0.00
+     Anaheim Ducks @ Vegas Golden Knights        Anaheim Ducks ML   170    0.380   0.353  0.026        0.026       0.00
+     Anaheim Ducks @ Vegas Golden Knights                Over 6.5  -120    0.478   0.522 -0.044       -0.124       0.00
+     Anaheim Ducks @ Vegas Golden Knights               Under 6.5   100    0.522   0.478  0.044        0.044       1.10
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

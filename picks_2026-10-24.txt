@@ -1,0 +1,51 @@
+                                        game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+         Anaheim Ducks @ Philadelphia Flyers   Philadelphia Flyers ML  -118    0.536   0.517  0.019       -0.009       0.00
+         Anaheim Ducks @ Philadelphia Flyers         Anaheim Ducks ML  -102    0.464   0.483 -0.019       -0.082       0.00
+         Anaheim Ducks @ Philadelphia Flyers                 Over 6.0  -105    0.378   0.489 -0.111       -0.262       0.00
+         Anaheim Ducks @ Philadelphia Flyers                Under 6.0  -115    0.622   0.511  0.111        0.163       2.00
+       Los Angeles Kings @ New Jersey Devils     New Jersey Devils ML  -200    0.580   0.639 -0.058       -0.130       0.00
+       Los Angeles Kings @ New Jersey Devils     Los Angeles Kings ML   165    0.420   0.361  0.058        0.112       1.70
+       Los Angeles Kings @ New Jersey Devils                 Over 6.0  -105    0.454   0.489 -0.035       -0.113       0.00
+       Los Angeles Kings @ New Jersey Devils                Under 6.0  -115    0.546   0.511  0.035        0.020       0.57
+          New York Rangers @ Ottawa Senators       Ottawa Senators ML  -125    0.516   0.532 -0.017       -0.072       0.00
+          New York Rangers @ Ottawa Senators      New York Rangers ML   105    0.484   0.468  0.017       -0.007       0.00
+          New York Rangers @ Ottawa Senators                 Over 6.0  -115    0.395   0.511 -0.115       -0.261       0.00
+          New York Rangers @ Ottawa Senators                Under 6.0  -105    0.605   0.489  0.115        0.180       2.00
+             San Jose Sharks @ Boston Bruins         Boston Bruins ML  -200    0.705   0.639  0.067        0.058       2.00
+             San Jose Sharks @ Boston Bruins       San Jose Sharks ML   165    0.295   0.361 -0.067       -0.219       0.00
+             San Jose Sharks @ Boston Bruins                 Over 6.5  -110    0.455   0.500 -0.045       -0.131       0.00
+             San Jose Sharks @ Boston Bruins                Under 6.5  -110    0.545   0.500  0.045        0.040       1.10
+        Buffalo Sabres @ Washington Capitals   Washington Capitals ML  -125    0.564   0.532  0.032        0.016       0.49
+        Buffalo Sabres @ Washington Capitals        Buffalo Sabres ML   105    0.436   0.468 -0.032       -0.107       0.00
+        Buffalo Sabres @ Washington Capitals                 Over 6.5  -115    0.467   0.511 -0.044       -0.128       0.00
+        Buffalo Sabres @ Washington Capitals                Under 6.5  -105    0.533   0.489  0.044        0.042       1.09
+       Carolina Hurricanes @ St. Louis Blues       St. Louis Blues ML   125    0.464   0.426  0.038        0.044       0.87
+       Carolina Hurricanes @ St. Louis Blues   Carolina Hurricanes ML  -150    0.536   0.574 -0.038       -0.106       0.00
+       Carolina Hurricanes @ St. Louis Blues                 Over 6.0  -120    0.570   0.522  0.049        0.046       1.37
+       Carolina Hurricanes @ St. Louis Blues                Under 6.0   100    0.430   0.478 -0.049       -0.141       0.00
+Vegas Golden Knights @ Columbus Blue Jackets Columbus Blue Jackets ML   115    0.427   0.444 -0.017       -0.082       0.00
+Vegas Golden Knights @ Columbus Blue Jackets  Vegas Golden Knights ML  -140    0.573   0.556  0.017       -0.018       0.00
+Vegas Golden Knights @ Columbus Blue Jackets                 Over 6.0  -120    0.488   0.522 -0.034       -0.106       0.00
+Vegas Golden Knights @ Columbus Blue Jackets                Under 6.0   100    0.512   0.478  0.034        0.025       0.62
+       Toronto Maple Leafs @ Edmonton Oilers       Edmonton Oilers ML  -185    0.630   0.619  0.011       -0.030       0.00
+       Toronto Maple Leafs @ Edmonton Oilers   Toronto Maple Leafs ML   150    0.370   0.381 -0.011       -0.075       0.00
+       Toronto Maple Leafs @ Edmonton Oilers                 Over 7.0   105    0.539   0.468  0.072        0.106       2.00
+       Toronto Maple Leafs @ Edmonton Oilers                Under 7.0  -125    0.461   0.532 -0.072       -0.171       0.00
+   Nashville Predators @ Pittsburgh Penguins   Pittsburgh Penguins ML  -140    0.584   0.556  0.028        0.002       0.00
+   Nashville Predators @ Pittsburgh Penguins   Nashville Predators ML   115    0.416   0.444 -0.028       -0.106       0.00
+   Nashville Predators @ Pittsburgh Penguins                 Over 6.5  -110    0.480   0.500 -0.020       -0.084       0.00
+   Nashville Predators @ Pittsburgh Penguins                Under 6.5  -110    0.520   0.500  0.020       -0.007       0.00
+          Tampa Bay Lightning @ Utah Mammoth          Utah Mammoth ML  -145    0.492   0.566 -0.074       -0.169       0.00
+          Tampa Bay Lightning @ Utah Mammoth   Tampa Bay Lightning ML   120    0.508   0.434  0.074        0.118       2.00
+          Tampa Bay Lightning @ Utah Mammoth                 Over 6.5  -118    0.481   0.517 -0.037       -0.112       0.00
+          Tampa Bay Lightning @ Utah Mammoth                Under 6.5  -102    0.519   0.483  0.037        0.028       0.72
+          Detroit Red Wings @ Calgary Flames        Calgary Flames ML   120    0.422   0.434 -0.012       -0.071       0.00
+          Detroit Red Wings @ Calgary Flames     Detroit Red Wings ML  -145    0.578   0.566  0.012       -0.024       0.00
+          Detroit Red Wings @ Calgary Flames                 Over 6.0  -110    0.403   0.500 -0.097       -0.231       0.00
+          Detroit Red Wings @ Calgary Flames                Under 6.0  -110    0.597   0.500  0.097        0.140       2.00
+             Minnesota Wild @ Seattle Kraken        Seattle Kraken ML   135    0.460   0.409  0.051        0.081       1.51
+             Minnesota Wild @ Seattle Kraken        Minnesota Wild ML  -160    0.540   0.591 -0.051       -0.123       0.00
+             Minnesota Wild @ Seattle Kraken                 Over 6.0  -120    0.502   0.522 -0.020       -0.080       0.00
+             Minnesota Wild @ Seattle Kraken                Under 6.0   100    0.498   0.478  0.020       -0.004       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

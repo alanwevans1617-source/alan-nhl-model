@@ -1,0 +1,23 @@
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Winnipeg Jets @ Carolina Hurricanes Carolina Hurricanes ML  -295    0.720   0.711  0.009       -0.035       0.00
+ Winnipeg Jets @ Carolina Hurricanes       Winnipeg Jets ML   230    0.280   0.289 -0.009       -0.077       0.00
+ Winnipeg Jets @ Carolina Hurricanes               Over 6.0  -118    0.482   0.517 -0.035       -0.110       0.00
+ Winnipeg Jets @ Carolina Hurricanes              Under 6.0  -102    0.518   0.483  0.035        0.026       0.66
+Minnesota Wild @ Washington Capitals Washington Capitals ML  -110    0.500   0.500 -0.000       -0.046       0.00
+Minnesota Wild @ Washington Capitals      Minnesota Wild ML  -110    0.500   0.500  0.000       -0.045       0.00
+Minnesota Wild @ Washington Capitals               Over 6.0  -120    0.465   0.522 -0.057       -0.148       0.00
+Minnesota Wild @ Washington Capitals              Under 6.0   100    0.535   0.478  0.057        0.070       1.76
+  Utah Mammoth @ Philadelphia Flyers Philadelphia Flyers ML   135    0.414   0.409  0.005       -0.027       0.00
+  Utah Mammoth @ Philadelphia Flyers        Utah Mammoth ML  -160    0.586   0.591 -0.005       -0.047       0.00
+  Utah Mammoth @ Philadelphia Flyers               Over 6.0  -110    0.447   0.500 -0.053       -0.146       0.00
+  Utah Mammoth @ Philadelphia Flyers              Under 6.0  -110    0.553   0.500  0.053        0.055       1.51
+  Edmonton Oilers @ New York Rangers    New York Rangers ML  -130    0.457   0.537 -0.080       -0.192       0.00
+  Edmonton Oilers @ New York Rangers     Edmonton Oilers ML   105    0.543   0.463  0.080        0.114       2.00
+  Edmonton Oilers @ New York Rangers               Over 6.5  -115    0.483   0.511 -0.028       -0.098       0.00
+  Edmonton Oilers @ New York Rangers              Under 6.5  -105    0.517   0.489  0.028        0.010       0.00
+     Ottawa Senators @ Anaheim Ducks       Anaheim Ducks ML   100    0.425   0.478 -0.053       -0.149       0.00
+     Ottawa Senators @ Anaheim Ducks     Ottawa Senators ML  -120    0.575   0.522  0.053        0.054       1.61
+     Ottawa Senators @ Anaheim Ducks               Over 6.5  -135    0.538   0.547 -0.009       -0.064       0.00
+     Ottawa Senators @ Anaheim Ducks              Under 6.5   110    0.462   0.453  0.009       -0.029       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

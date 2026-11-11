@@ -1,0 +1,16 @@
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+       Colorado Avalanche @ Winnipeg Jets       Winnipeg Jets ML   165    0.387   0.361  0.026        0.027       0.00
+       Colorado Avalanche @ Winnipeg Jets  Colorado Avalanche ML  -200    0.613   0.639 -0.026       -0.081       0.00
+       Colorado Avalanche @ Winnipeg Jets               Over 6.5  -110    0.441   0.500 -0.059       -0.158       0.00
+       Colorado Avalanche @ Winnipeg Jets              Under 6.5  -110    0.559   0.500  0.059        0.067       1.85
+Pittsburgh Penguins @ Washington Capitals Washington Capitals ML  -160    0.504   0.591 -0.087       -0.181       0.00
+Pittsburgh Penguins @ Washington Capitals Pittsburgh Penguins ML   135    0.496   0.409  0.087        0.166       2.00
+Pittsburgh Penguins @ Washington Capitals               Over 6.5  -110    0.510   0.500  0.010       -0.027       0.00
+Pittsburgh Penguins @ Washington Capitals              Under 6.5  -110    0.490   0.500 -0.010       -0.064       0.00
+          Edmonton Oilers @ Anaheim Ducks       Anaheim Ducks ML   115    0.486   0.447  0.038        0.044       0.96
+          Edmonton Oilers @ Anaheim Ducks     Edmonton Oilers ML  -135    0.514   0.553 -0.038       -0.105       0.00
+          Edmonton Oilers @ Anaheim Ducks               Over 7.0   115    0.486   0.447  0.039        0.046       1.00
+          Edmonton Oilers @ Anaheim Ducks              Under 7.0  -135    0.514   0.553 -0.039       -0.106       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

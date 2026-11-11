@@ -1,0 +1,39 @@
+                                     game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+          Minnesota Wild @ Buffalo Sabres       Buffalo Sabres ML  -105    0.495   0.489  0.005       -0.034       0.00
+          Minnesota Wild @ Buffalo Sabres       Minnesota Wild ML  -115    0.505   0.511 -0.005       -0.055       0.00
+          Minnesota Wild @ Buffalo Sabres                Over 6.5   100    0.454   0.478 -0.024       -0.092       0.00
+          Minnesota Wild @ Buffalo Sabres               Under 6.5  -120    0.546   0.522  0.024        0.001       0.00
+ Carolina Hurricanes @ Montreal Canadiens   Montreal Canadiens ML   110    0.538   0.453  0.085        0.129       2.00
+ Carolina Hurricanes @ Montreal Canadiens  Carolina Hurricanes ML  -135    0.462   0.547 -0.085       -0.195       0.00
+ Carolina Hurricanes @ Montreal Canadiens                Over 6.0  -118    0.539   0.517  0.022       -0.004       0.00
+ Carolina Hurricanes @ Montreal Canadiens               Under 6.0  -102    0.461   0.483 -0.022       -0.088       0.00
+      Ottawa Senators @ Detroit Red Wings    Detroit Red Wings ML  -125    0.386   0.532 -0.147       -0.306       0.00
+      Ottawa Senators @ Detroit Red Wings      Ottawa Senators ML   105    0.614   0.468  0.147        0.259       2.00
+      Ottawa Senators @ Detroit Red Wings                Over 6.0  -115    0.423   0.511 -0.088       -0.210       0.00
+      Ottawa Senators @ Detroit Red Wings               Under 6.0  -105    0.577   0.489  0.088        0.127       2.00
+Nashville Predators @ Toronto Maple Leafs  Toronto Maple Leafs ML  -165    0.480   0.594 -0.114       -0.229       0.00
+Nashville Predators @ Toronto Maple Leafs  Nashville Predators ML   135    0.520   0.406  0.114        0.221       2.00
+Nashville Predators @ Toronto Maple Leafs                Over 6.0  -110    0.453   0.500 -0.047       -0.136       0.00
+Nashville Predators @ Toronto Maple Leafs               Under 6.0  -110    0.547   0.500  0.047        0.045       1.24
+         Utah Mammoth @ New Jersey Devils    New Jersey Devils ML  -125    0.383   0.532 -0.149       -0.310       0.00
+         Utah Mammoth @ New Jersey Devils         Utah Mammoth ML   105    0.617   0.468  0.149        0.265       2.00
+         Utah Mammoth @ New Jersey Devils                Over 6.0  -118    0.488   0.517 -0.029       -0.099       0.00
+         Utah Mammoth @ New Jersey Devils               Under 6.0  -102    0.512   0.483  0.029        0.014       0.00
+    New York Islanders @ New York Rangers     New York Rangers ML  -160    0.561   0.591 -0.030       -0.088       0.00
+    New York Islanders @ New York Rangers   New York Islanders ML   135    0.439   0.409  0.030        0.031       0.58
+    New York Islanders @ New York Rangers                Over 5.5  -120    0.437   0.522 -0.085       -0.199       0.00
+    New York Islanders @ New York Rangers               Under 5.5   100    0.563   0.478  0.085        0.126       2.00
+     St. Louis Blues @ Chicago Blackhawks   Chicago Blackhawks ML   125    0.366   0.426 -0.059       -0.176       0.00
+     St. Louis Blues @ Chicago Blackhawks      St. Louis Blues ML  -150    0.634   0.574  0.059        0.056       2.00
+     St. Louis Blues @ Chicago Blackhawks                Over 5.5  -120    0.518   0.522 -0.003       -0.050       0.00
+     St. Louis Blues @ Chicago Blackhawks               Under 5.5   100    0.482   0.478  0.003       -0.037       0.00
+    Vegas Golden Knights @ Seattle Kraken       Seattle Kraken ML   135    0.493   0.406  0.087        0.159       2.00
+    Vegas Golden Knights @ Seattle Kraken Vegas Golden Knights ML  -165    0.507   0.594 -0.087       -0.186       0.00
+    Vegas Golden Knights @ Seattle Kraken                Over 6.0  -118    0.442   0.517 -0.075       -0.183       0.00
+    Vegas Golden Knights @ Seattle Kraken               Under 6.0  -102    0.558   0.483  0.075        0.105       2.00
+     Florida Panthers @ Los Angeles Kings    Los Angeles Kings ML  -105    0.507   0.489  0.018       -0.010       0.00
+     Florida Panthers @ Los Angeles Kings     Florida Panthers ML  -115    0.493   0.511 -0.018       -0.079       0.00
+     Florida Panthers @ Los Angeles Kings                Over 6.0  -105    0.490   0.489  0.001       -0.043       0.00
+     Florida Panthers @ Los Angeles Kings               Under 6.0  -115    0.510   0.511 -0.001       -0.046       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

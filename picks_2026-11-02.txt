@@ -1,0 +1,19 @@
+                                   game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+   Vegas Golden Knights @ Boston Bruins        Boston Bruins ML   100    0.600   0.478  0.122        0.200       2.00
+   Vegas Golden Knights @ Boston Bruins Vegas Golden Knights ML  -120    0.400   0.522 -0.122       -0.267       0.00
+   Vegas Golden Knights @ Boston Bruins                Over 6.0  -120    0.499   0.522 -0.023       -0.085       0.00
+   Vegas Golden Knights @ Boston Bruins               Under 6.0   100    0.501   0.478  0.023        0.002       0.00
+   Detroit Red Wings @ Florida Panthers     Florida Panthers ML  -185    0.570   0.622 -0.053       -0.122       0.00
+   Detroit Red Wings @ Florida Panthers    Detroit Red Wings ML   154    0.430   0.378  0.053        0.092       1.50
+   Detroit Red Wings @ Florida Panthers                Over 6.0  -102    0.447   0.483 -0.035       -0.114       0.00
+   Detroit Red Wings @ Florida Panthers               Under 6.0  -118    0.553   0.517  0.035        0.021       0.62
+Colorado Avalanche @ Chicago Blackhawks   Chicago Blackhawks ML   190    0.277   0.330 -0.053       -0.198       0.00
+Colorado Avalanche @ Chicago Blackhawks   Colorado Avalanche ML  -235    0.723   0.670  0.053        0.031       1.83
+Colorado Avalanche @ Chicago Blackhawks                Over 6.5   100    0.472   0.478 -0.006       -0.055       0.00
+Colorado Avalanche @ Chicago Blackhawks               Under 6.5  -120    0.528   0.522  0.006       -0.033       0.00
+       Calgary Flames @ San Jose Sharks      San Jose Sharks ML  -120    0.552   0.522  0.030        0.011       0.00
+       Calgary Flames @ San Jose Sharks       Calgary Flames ML   100    0.448   0.478 -0.030       -0.103       0.00
+       Calgary Flames @ San Jose Sharks                Over 6.5   100    0.379   0.478 -0.099       -0.241       0.00
+       Calgary Flames @ San Jose Sharks               Under 6.5  -120    0.621   0.522  0.099        0.138       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

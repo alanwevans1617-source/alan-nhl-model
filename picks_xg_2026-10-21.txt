@@ -1,0 +1,12 @@
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Philadelphia Flyers @ Buffalo Sabres      Buffalo Sabres ML  -200    0.591   0.639 -0.047       -0.113       0.00
+Philadelphia Flyers @ Buffalo Sabres Philadelphia Flyers ML   165    0.409   0.361  0.047        0.083       1.26
+Philadelphia Flyers @ Buffalo Sabres               Over 6.0  -110    0.430   0.500 -0.070       -0.179       0.00
+Philadelphia Flyers @ Buffalo Sabres              Under 6.0  -110    0.570   0.500  0.070        0.088       2.00
+  Florida Panthers @ Ottawa Senators     Ottawa Senators ML  -110    0.559   0.500  0.059        0.067       1.83
+  Florida Panthers @ Ottawa Senators    Florida Panthers ML  -110    0.441   0.500 -0.059       -0.157       0.00
+  Florida Panthers @ Ottawa Senators               Over 5.5  -110    0.564   0.500  0.064        0.077       2.00
+  Florida Panthers @ Ottawa Senators              Under 5.5  -110    0.436   0.500 -0.064       -0.168       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

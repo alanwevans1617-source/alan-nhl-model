@@ -1,0 +1,7 @@
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Carolina Hurricanes @ Calgary Flames      Calgary Flames ML   180    0.253   0.342 -0.088       -0.290        0.0
+Carolina Hurricanes @ Calgary Flames Carolina Hurricanes ML  -220    0.747   0.658  0.088        0.086        2.0
+Carolina Hurricanes @ Calgary Flames               Over 6.0  -120    0.545   0.522  0.024        0.000        0.0
+Carolina Hurricanes @ Calgary Flames              Under 6.0   100    0.455   0.478 -0.024       -0.091        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

@@ -1,0 +1,19 @@
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Philadelphia Flyers @ Tampa Bay Lightning Tampa Bay Lightning ML  -220    0.631   0.658 -0.027       -0.082       0.00
+Philadelphia Flyers @ Tampa Bay Lightning Philadelphia Flyers ML   180    0.369   0.342  0.027        0.033       0.00
+Philadelphia Flyers @ Tampa Bay Lightning               Over 6.0   100    0.453   0.478 -0.026       -0.095       0.00
+Philadelphia Flyers @ Tampa Bay Lightning              Under 6.0  -120    0.547   0.522  0.026        0.003       0.00
+          Ottawa Senators @ Boston Bruins       Boston Bruins ML  -105    0.510   0.489  0.021       -0.005       0.00
+          Ottawa Senators @ Boston Bruins     Ottawa Senators ML  -115    0.490   0.511 -0.021       -0.083       0.00
+          Ottawa Senators @ Boston Bruins               Over 5.5  -120    0.546   0.522  0.025        0.002       0.00
+          Ottawa Senators @ Boston Bruins              Under 5.5   100    0.454   0.478 -0.025       -0.093       0.00
+      Winnipeg Jets @ Pittsburgh Penguins Pittsburgh Penguins ML  -180    0.683   0.616  0.066        0.062       2.00
+      Winnipeg Jets @ Pittsburgh Penguins       Winnipeg Jets ML   150    0.317   0.384 -0.066       -0.206       0.00
+      Winnipeg Jets @ Pittsburgh Penguins               Over 6.5  -105    0.547   0.489  0.058        0.068       1.79
+      Winnipeg Jets @ Pittsburgh Penguins              Under 6.5  -115    0.453   0.511 -0.058       -0.153       0.00
+           San Jose Sharks @ Dallas Stars        Dallas Stars ML  -200    0.603   0.639 -0.035       -0.095       0.00
+           San Jose Sharks @ Dallas Stars     San Jose Sharks ML   165    0.397   0.361  0.035        0.051       0.78
+           San Jose Sharks @ Dallas Stars               Over 6.5  -102    0.434   0.483 -0.049       -0.140       0.00
+           San Jose Sharks @ Dallas Stars              Under 6.5  -118    0.566   0.517  0.049        0.045       1.34
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

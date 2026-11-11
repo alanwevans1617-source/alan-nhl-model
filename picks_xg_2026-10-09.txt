@@ -1,0 +1,20 @@
+                                       game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Pittsburgh Penguins @ Columbus Blue Jackets Columbus Blue Jackets ML  -118    0.494   0.517 -0.024       -0.088       0.00
+Pittsburgh Penguins @ Columbus Blue Jackets   Pittsburgh Penguins ML  -102    0.506   0.483  0.024        0.003       0.00
+Pittsburgh Penguins @ Columbus Blue Jackets                 Over 6.5  -120    0.491   0.522 -0.030       -0.099       0.00
+Pittsburgh Penguins @ Columbus Blue Jackets                Under 6.5   100    0.509   0.478  0.030        0.017       0.43
+         Seattle Kraken @ Detroit Red Wings     Detroit Red Wings ML  -145    0.570   0.566  0.004       -0.037       0.00
+         Seattle Kraken @ Detroit Red Wings        Seattle Kraken ML   120    0.430   0.434 -0.004       -0.054       0.00
+         Seattle Kraken @ Detroit Red Wings                 Over 6.0  -115    0.456   0.511 -0.055       -0.148       0.00
+         Seattle Kraken @ Detroit Red Wings                Under 6.0  -105    0.544   0.489  0.055        0.063       1.65
+     New York Rangers @ Washington Capitals   Washington Capitals ML  -145    0.528   0.563 -0.035       -0.107       0.00
+     New York Rangers @ Washington Capitals      New York Rangers ML   118    0.472   0.437  0.035        0.028       0.59
+     New York Rangers @ Washington Capitals                 Over 5.5  -120    0.573   0.522  0.051        0.050       1.51
+     New York Rangers @ Washington Capitals                Under 5.5   100    0.427   0.478 -0.051       -0.146       0.00
+              Anaheim Ducks @ Winnipeg Jets         Winnipeg Jets ML  -125    0.535   0.532  0.003       -0.036       0.00
+              Anaheim Ducks @ Winnipeg Jets         Anaheim Ducks ML   105    0.465   0.468 -0.003       -0.047       0.00
+              Anaheim Ducks @ Winnipeg Jets                 Over 6.5  -102    0.460   0.483 -0.022       -0.089       0.00
+              Anaheim Ducks @ Winnipeg Jets                Under 6.5  -118    0.540   0.517  0.022       -0.003       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

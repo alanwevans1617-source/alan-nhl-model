@@ -1,0 +1,17 @@
+                                  game                    bet  odds  model_p  fair_p  edge  ev_per_unit  stake_pct
+     Anaheim Ducks @ New Jersey Devils       Anaheim Ducks ML   180    0.408   0.342 0.067        0.142       1.98
+     Anaheim Ducks @ New Jersey Devils              Under 6.5   110    0.496   0.457 0.038        0.042       0.95
+Florida Panthers @ Pittsburgh Penguins Pittsburgh Penguins ML  -105    0.530   0.489 0.041        0.035       0.91
+New York Rangers @ Toronto Maple Leafs    New York Rangers ML  -110    0.538   0.500 0.038        0.027       0.75
+New York Rangers @ Toronto Maple Leafs              Under 6.5  -115    0.558   0.511 0.047        0.043       1.24
+     San Jose Sharks @ Ottawa Senators     Ottawa Senators ML  -135    0.645   0.553 0.092        0.123       2.00
+     San Jose Sharks @ Ottawa Senators              Under 6.5  -120    0.592   0.522 0.070        0.085       2.00
+Los Angeles Kings @ New York Islanders  New York Islanders ML  -110    0.554   0.500 0.054        0.058       1.59
+          Winnipeg Jets @ Dallas Stars              Under 5.5  -110    0.538   0.500 0.038        0.027       0.75
+ Carolina Hurricanes @ Edmonton Oilers              Under 6.5  -102    0.514   0.483 0.031        0.018       0.46
+         Utah Mammoth @ Seattle Kraken      Seattle Kraken ML   145    0.430   0.391 0.039        0.054       0.92
+         Utah Mammoth @ Seattle Kraken              Under 6.5  -110    0.534   0.500 0.034        0.019       0.54
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Rebuilt Oct 24 from graded_picks.csv: flagged picks only (the original file was overwritten).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

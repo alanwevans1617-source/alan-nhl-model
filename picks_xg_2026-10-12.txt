@@ -1,0 +1,16 @@
+                                 game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+    Florida Panthers @ Buffalo Sabres       Buffalo Sabres ML  -115    0.555   0.511  0.044        0.037       1.07
+    Florida Panthers @ Buffalo Sabres     Florida Panthers ML  -105    0.445   0.489 -0.044       -0.131       0.00
+    Florida Panthers @ Buffalo Sabres                Over 6.0   100    0.501   0.478  0.023        0.002       0.00
+    Florida Panthers @ Buffalo Sabres               Under 6.0  -120    0.499   0.522 -0.023       -0.085       0.00
+  Ottawa Senators @ New Jersey Devils    New Jersey Devils ML  -118    0.451   0.517 -0.066       -0.167       0.00
+  Ottawa Senators @ New Jersey Devils      Ottawa Senators ML  -102    0.549   0.483  0.066        0.087       2.00
+  Ottawa Senators @ New Jersey Devils                Over 6.0  -105    0.471   0.489 -0.018       -0.080       0.00
+  Ottawa Senators @ New Jersey Devils               Under 6.0  -115    0.529   0.511  0.018       -0.011       0.00
+Vegas Golden Knights @ Minnesota Wild       Minnesota Wild ML  -110    0.519   0.500  0.019       -0.009       0.00
+Vegas Golden Knights @ Minnesota Wild Vegas Golden Knights ML  -110    0.481   0.500 -0.019       -0.082       0.00
+Vegas Golden Knights @ Minnesota Wild                Over 6.0  -110    0.454   0.500 -0.046       -0.134       0.00
+Vegas Golden Knights @ Minnesota Wild               Under 6.0  -110    0.546   0.500  0.046        0.043       1.17
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

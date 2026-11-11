@@ -1,0 +1,20 @@
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Philadelphia Flyers @ Washington Capitals Washington Capitals ML  -235    0.607   0.674 -0.067       -0.135       0.00
+Philadelphia Flyers @ Washington Capitals Philadelphia Flyers ML   195    0.393   0.326  0.067        0.160       2.00
+Philadelphia Flyers @ Washington Capitals               Over 6.0  -115    0.484   0.511 -0.027       -0.095       0.00
+Philadelphia Flyers @ Washington Capitals              Under 6.0  -105    0.516   0.489  0.027        0.007       0.00
+         Calgary Flames @ Edmonton Oilers     Edmonton Oilers ML  -190    0.641   0.626  0.015       -0.022       0.00
+         Calgary Flames @ Edmonton Oilers      Calgary Flames ML   155    0.359   0.374 -0.015       -0.083       0.00
+         Calgary Flames @ Edmonton Oilers               Over 6.5  -115    0.450   0.511 -0.061       -0.159       0.00
+         Calgary Flames @ Edmonton Oilers              Under 6.5  -105    0.550   0.489  0.061        0.074       1.95
+   New Jersey Devils @ Colorado Avalanche  Colorado Avalanche ML  -150    0.545   0.574 -0.030       -0.092       0.00
+   New Jersey Devils @ Colorado Avalanche   New Jersey Devils ML   125    0.455   0.426  0.030        0.024       0.00
+   New Jersey Devils @ Colorado Avalanche               Over 6.5  -105    0.455   0.489 -0.034       -0.112       0.00
+   New Jersey Devils @ Colorado Avalanche              Under 6.5  -115    0.545   0.511  0.034        0.019       0.55
+     Toronto Maple Leafs @ Seattle Kraken      Seattle Kraken ML   115    0.514   0.447  0.066        0.104       2.00
+     Toronto Maple Leafs @ Seattle Kraken Toronto Maple Leafs ML  -135    0.486   0.553 -0.066       -0.153       0.00
+     Toronto Maple Leafs @ Seattle Kraken               Over 6.5  -120    0.515   0.522 -0.007       -0.056       0.00
+     Toronto Maple Leafs @ Seattle Kraken              Under 6.5   100    0.485   0.478  0.007       -0.029       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

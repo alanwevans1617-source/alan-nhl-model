@@ -1,0 +1,47 @@
+                                       game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Columbus Blue Jackets @ Carolina Hurricanes   Carolina Hurricanes ML  -250    0.692   0.682  0.011       -0.031       0.00
+Columbus Blue Jackets @ Carolina Hurricanes Columbus Blue Jackets ML   200    0.308   0.318 -0.011       -0.077       0.00
+Columbus Blue Jackets @ Carolina Hurricanes                 Over 6.0  -110    0.486   0.500 -0.014       -0.073       0.00
+Columbus Blue Jackets @ Carolina Hurricanes                Under 6.0  -110    0.514   0.500  0.014       -0.018       0.00
+         Utah Mammoth @ Pittsburgh Penguins   Pittsburgh Penguins ML   115    0.519   0.447  0.072        0.117       2.00
+         Utah Mammoth @ Pittsburgh Penguins          Utah Mammoth ML  -135    0.481   0.553 -0.072       -0.163       0.00
+         Utah Mammoth @ Pittsburgh Penguins                 Over 6.5  -135    0.551   0.553 -0.002       -0.041       0.00
+         Utah Mammoth @ Pittsburgh Penguins                Under 6.5   115    0.449   0.447  0.002       -0.034       0.00
+        Winnipeg Jets @ Tampa Bay Lightning   Tampa Bay Lightning ML  -220    0.651   0.658 -0.007       -0.053       0.00
+        Winnipeg Jets @ Tampa Bay Lightning         Winnipeg Jets ML   180    0.349   0.342  0.007       -0.023       0.00
+        Winnipeg Jets @ Tampa Bay Lightning                 Over 6.0  -110    0.469   0.500 -0.031       -0.105       0.00
+        Winnipeg Jets @ Tampa Bay Lightning                Under 6.0  -110    0.531   0.500  0.031        0.014       0.39
+     Chicago Blackhawks @ Detroit Red Wings     Detroit Red Wings ML  -160    0.619   0.591  0.028        0.006       0.00
+     Chicago Blackhawks @ Detroit Red Wings    Chicago Blackhawks ML   135    0.381   0.409 -0.028       -0.104       0.00
+     Chicago Blackhawks @ Detroit Red Wings                 Over 5.5  -120    0.492   0.522 -0.029       -0.097       0.00
+     Chicago Blackhawks @ Detroit Red Wings                Under 5.5   100    0.508   0.478  0.029        0.015       0.00
+            Boston Bruins @ St. Louis Blues       St. Louis Blues ML  -115    0.405   0.511 -0.106       -0.243       0.00
+            Boston Bruins @ St. Louis Blues         Boston Bruins ML  -105    0.595   0.489  0.106        0.161       2.00
+            Boston Bruins @ St. Louis Blues                 Over 6.0   100    0.461   0.478 -0.017       -0.078       0.00
+            Boston Bruins @ St. Louis Blues                Under 6.0  -120    0.539   0.522  0.017       -0.011       0.00
+          Montreal Canadiens @ Dallas Stars          Dallas Stars ML  -180    0.584   0.616 -0.033       -0.092       0.00
+          Montreal Canadiens @ Dallas Stars    Montreal Canadiens ML   150    0.416   0.384  0.033        0.040       0.67
+          Montreal Canadiens @ Dallas Stars                 Over 6.0  -105    0.370   0.489 -0.119       -0.278       0.00
+          Montreal Canadiens @ Dallas Stars                Under 6.0  -115    0.630   0.511  0.119        0.178       2.00
+        New York Islanders @ Minnesota Wild        Minnesota Wild ML  -190    0.617   0.626 -0.009       -0.058       0.00
+        New York Islanders @ Minnesota Wild    New York Islanders ML   155    0.383   0.374  0.009       -0.023       0.00
+        New York Islanders @ Minnesota Wild                 Over 5.5  -120    0.450   0.522 -0.071       -0.174       0.00
+        New York Islanders @ Minnesota Wild                Under 5.5   100    0.550   0.478  0.071        0.099       2.00
+  Washington Capitals @ Nashville Predators   Nashville Predators ML  -110    0.482   0.500 -0.018       -0.080       0.00
+  Washington Capitals @ Nashville Predators   Washington Capitals ML  -110    0.518   0.500  0.018       -0.010       0.00
+  Washington Capitals @ Nashville Predators                 Over 6.5  -105    0.425   0.489 -0.064       -0.170       0.00
+  Washington Capitals @ Nashville Predators                Under 6.5  -115    0.575   0.511  0.064        0.074       2.00
+             Buffalo Sabres @ Anaheim Ducks         Anaheim Ducks ML   120    0.458   0.434  0.024        0.008       0.00
+             Buffalo Sabres @ Anaheim Ducks        Buffalo Sabres ML  -145    0.542   0.566 -0.024       -0.085       0.00
+             Buffalo Sabres @ Anaheim Ducks                 Over 6.5  -130    0.498   0.537 -0.039       -0.119       0.00
+             Buffalo Sabres @ Anaheim Ducks                Under 6.5   105    0.502   0.463  0.039        0.029       0.69
+        Ottawa Senators @ Los Angeles Kings     Los Angeles Kings ML   100    0.458   0.478 -0.020       -0.084       0.00
+        Ottawa Senators @ Los Angeles Kings       Ottawa Senators ML  -120    0.542   0.522  0.020       -0.006       0.00
+        Ottawa Senators @ Los Angeles Kings                 Over 6.0  -102    0.419   0.483 -0.064       -0.170       0.00
+        Ottawa Senators @ Los Angeles Kings                Under 6.0  -118    0.581   0.517  0.064        0.073       2.00
+        Vancouver Canucks @ San Jose Sharks       San Jose Sharks ML  -175    0.635   0.609  0.026       -0.001       0.00
+        Vancouver Canucks @ San Jose Sharks     Vancouver Canucks ML   145    0.365   0.391 -0.026       -0.107       0.00
+        Vancouver Canucks @ San Jose Sharks                 Over 6.5  -130    0.557   0.543  0.014       -0.015       0.00
+        Vancouver Canucks @ San Jose Sharks                Under 6.5   110    0.443   0.457 -0.014       -0.069       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

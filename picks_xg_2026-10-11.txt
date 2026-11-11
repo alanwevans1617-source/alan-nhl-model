@@ -1,0 +1,16 @@
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     Seattle Kraken @ Washington Capitals Washington Capitals ML  -220    0.605   0.658 -0.053       -0.120       0.00
+     Seattle Kraken @ Washington Capitals      Seattle Kraken ML   180    0.395   0.342  0.053        0.107       1.48
+     Seattle Kraken @ Washington Capitals               Over 6.5   100    0.439   0.478 -0.039       -0.122       0.00
+     Seattle Kraken @ Washington Capitals              Under 6.5  -120    0.561   0.522  0.039        0.029       0.86
+     Vancouver Canucks @ New York Rangers    New York Rangers ML  -285    0.668   0.710 -0.042       -0.098       0.00
+     Vancouver Canucks @ New York Rangers   Vancouver Canucks ML   230    0.332   0.290  0.042        0.096       1.05
+     Vancouver Canucks @ New York Rangers               Over 6.0  -120    0.543   0.522  0.021       -0.005       0.00
+     Vancouver Canucks @ New York Rangers              Under 6.0   100    0.457   0.478 -0.021       -0.086       0.00
+Carolina Hurricanes @ Philadelphia Flyers Philadelphia Flyers ML   170    0.361   0.353  0.007       -0.027       0.00
+Carolina Hurricanes @ Philadelphia Flyers Carolina Hurricanes ML  -210    0.639   0.647 -0.007       -0.056       0.00
+Carolina Hurricanes @ Philadelphia Flyers               Over 6.0  -102    0.488   0.483  0.005       -0.034       0.00
+Carolina Hurricanes @ Philadelphia Flyers              Under 6.0  -118    0.512   0.517 -0.005       -0.054       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

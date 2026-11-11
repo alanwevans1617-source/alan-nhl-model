@@ -1,0 +1,23 @@
+                                    game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+   Florida Panthers @ Chicago Blackhawks  Chicago Blackhawks ML   154    0.436   0.375  0.060        0.107       1.73
+   Florida Panthers @ Chicago Blackhawks    Florida Panthers ML  -190    0.564   0.625 -0.060       -0.139       0.00
+   Florida Panthers @ Chicago Blackhawks               Over 6.0  -118    0.473   0.517 -0.045       -0.126       0.00
+   Florida Panthers @ Chicago Blackhawks              Under 6.0  -102    0.527   0.483  0.045        0.044       1.12
+       New York Islanders @ Dallas Stars        Dallas Stars ML  -190    0.611   0.626 -0.014       -0.067       0.00
+       New York Islanders @ Dallas Stars  New York Islanders ML   155    0.389   0.374  0.014       -0.008       0.00
+       New York Islanders @ Dallas Stars               Over 5.5  -105    0.351   0.489 -0.138       -0.315       0.00
+       New York Islanders @ Dallas Stars              Under 5.5  -115    0.649   0.511  0.138        0.213       2.00
+      Montreal Canadiens @ Winnipeg Jets       Winnipeg Jets ML   100    0.501   0.478  0.023        0.002       0.00
+      Montreal Canadiens @ Winnipeg Jets  Montreal Canadiens ML  -120    0.499   0.522 -0.023       -0.086       0.00
+      Montreal Canadiens @ Winnipeg Jets               Over 6.0  -102    0.474   0.483 -0.008       -0.060       0.00
+      Montreal Canadiens @ Winnipeg Jets              Under 6.0  -118    0.526   0.517  0.008       -0.029       0.00
+Colorado Avalanche @ Nashville Predators Nashville Predators ML   195    0.385   0.326  0.059        0.136       1.75
+Colorado Avalanche @ Nashville Predators  Colorado Avalanche ML  -235    0.615   0.674 -0.059       -0.124       0.00
+Colorado Avalanche @ Nashville Predators               Over 6.5  -120    0.436   0.522 -0.086       -0.201       0.00
+Colorado Avalanche @ Nashville Predators              Under 6.5   100    0.564   0.478  0.086        0.129       2.00
+      Minnesota Wild @ Vancouver Canucks   Vancouver Canucks ML   165    0.308   0.361 -0.053       -0.183       0.00
+      Minnesota Wild @ Vancouver Canucks      Minnesota Wild ML  -200    0.692   0.639  0.053        0.037       1.86
+      Minnesota Wild @ Vancouver Canucks               Over 6.5  -105    0.475   0.489 -0.014       -0.072       0.00
+      Minnesota Wild @ Vancouver Canucks              Under 6.5  -115    0.525   0.511  0.014       -0.019       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

@@ -1,0 +1,11 @@
+                                    game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Montreal Canadiens @ Chicago Blackhawks  Chicago Blackhawks ML   140    0.401   0.398  0.003       -0.037       0.00
+ Montreal Canadiens @ Chicago Blackhawks  Montreal Canadiens ML  -170    0.599   0.602 -0.003       -0.049       0.00
+ Montreal Canadiens @ Chicago Blackhawks               Over 6.5   100    0.445   0.478 -0.033       -0.109       0.00
+ Montreal Canadiens @ Chicago Blackhawks              Under 6.5  -120    0.555   0.522  0.033        0.017       0.51
+Tampa Bay Lightning @ Colorado Avalanche  Colorado Avalanche ML  -120    0.564   0.522  0.042        0.034       1.02
+Tampa Bay Lightning @ Colorado Avalanche Tampa Bay Lightning ML   100    0.436   0.478 -0.042       -0.128       0.00
+Tampa Bay Lightning @ Colorado Avalanche               Over 6.5   100    0.469   0.478 -0.009       -0.061       0.00
+Tampa Bay Lightning @ Colorado Avalanche              Under 6.5  -120    0.531   0.522  0.009       -0.027       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

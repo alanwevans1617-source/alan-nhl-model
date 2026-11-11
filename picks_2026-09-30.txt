@@ -1,0 +1,15 @@
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Pittsburgh Penguins @ Philadelphia Flyers Philadelphia Flyers ML  -145    0.488   0.566 -0.077       -0.175       0.00
+Pittsburgh Penguins @ Philadelphia Flyers Pittsburgh Penguins ML   120    0.512   0.434  0.077        0.126       2.00
+Pittsburgh Penguins @ Philadelphia Flyers               Over 6.0  -115    0.571   0.511  0.060        0.068       1.95
+Pittsburgh Penguins @ Philadelphia Flyers              Under 6.0  -105    0.429   0.489 -0.060       -0.163       0.00
+ New York Islanders @ Toronto Maple Leafs Toronto Maple Leafs ML  -130    0.463   0.543 -0.080       -0.181       0.00
+ New York Islanders @ Toronto Maple Leafs  New York Islanders ML   110    0.537   0.457  0.080        0.127       2.00
+ New York Islanders @ Toronto Maple Leafs               Over 6.0  -110    0.481   0.500 -0.019       -0.082       0.00
+ New York Islanders @ Toronto Maple Leafs              Under 6.0  -110    0.519   0.500  0.019       -0.009       0.00
+   Los Angeles Kings @ Colorado Avalanche  Colorado Avalanche ML  -190    0.698   0.630  0.068        0.065       2.00
+   Los Angeles Kings @ Colorado Avalanche   Los Angeles Kings ML   160    0.302   0.370 -0.068       -0.214       0.00
+   Los Angeles Kings @ Colorado Avalanche               Over 6.5   100    0.325   0.478 -0.153       -0.349       0.00
+   Los Angeles Kings @ Colorado Avalanche              Under 6.5  -120    0.675   0.522  0.153        0.237       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

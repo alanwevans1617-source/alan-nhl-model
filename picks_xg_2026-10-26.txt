@@ -1,0 +1,16 @@
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Los Angeles Kings @ New York Rangers    New York Rangers ML  -135    0.580   0.553  0.028        0.010       0.00
+Los Angeles Kings @ New York Rangers   Los Angeles Kings ML   115    0.420   0.447 -0.028       -0.098       0.00
+Los Angeles Kings @ New York Rangers               Over 6.0  -102    0.438   0.483 -0.044       -0.132       0.00
+Los Angeles Kings @ New York Rangers              Under 6.0  -118    0.562   0.517  0.044        0.038       1.11
+Toronto Maple Leafs @ Calgary Flames      Calgary Flames ML   115    0.456   0.447  0.009       -0.019       0.00
+Toronto Maple Leafs @ Calgary Flames Toronto Maple Leafs ML  -135    0.544   0.553 -0.009       -0.053       0.00
+Toronto Maple Leafs @ Calgary Flames               Over 6.5  -120    0.451   0.522 -0.071       -0.173       0.00
+Toronto Maple Leafs @ Calgary Flames              Under 6.5   100    0.549   0.478  0.071        0.098       2.00
+ Detroit Red Wings @ Edmonton Oilers     Edmonton Oilers ML  -180    0.599   0.616 -0.017       -0.068       0.00
+ Detroit Red Wings @ Edmonton Oilers   Detroit Red Wings ML   150    0.401   0.384  0.017        0.002       0.00
+ Detroit Red Wings @ Edmonton Oilers               Over 7.0   110    0.353   0.446 -0.093       -0.258       0.00
+ Detroit Red Wings @ Edmonton Oilers              Under 7.0  -145    0.647   0.554  0.093        0.093       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

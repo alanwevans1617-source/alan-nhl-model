@@ -1,0 +1,12 @@
+                                    game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Pittsburgh Penguins @ Colorado Avalanche  Colorado Avalanche ML  -210    0.616   0.647 -0.030       -0.091       0.00
+Pittsburgh Penguins @ Colorado Avalanche Pittsburgh Penguins ML   170    0.384   0.353  0.030        0.037       0.54
+Pittsburgh Penguins @ Colorado Avalanche               Over 6.5  -130    0.523   0.537 -0.014       -0.075       0.00
+Pittsburgh Penguins @ Colorado Avalanche              Under 6.5   105    0.477   0.463  0.014       -0.022       0.00
+           Boston Bruins @ Anaheim Ducks       Anaheim Ducks ML  -110    0.479   0.500 -0.021       -0.086       0.00
+           Boston Bruins @ Anaheim Ducks       Boston Bruins ML  -110    0.521   0.500  0.021       -0.005       0.00
+           Boston Bruins @ Anaheim Ducks               Over 6.5  -105    0.482   0.489 -0.007       -0.059       0.00
+           Boston Bruins @ Anaheim Ducks              Under 6.5  -115    0.518   0.511  0.007       -0.031       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

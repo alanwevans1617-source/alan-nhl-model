@@ -1,0 +1,21 @@
+                                   game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+   Vegas Golden Knights @ Boston Bruins        Boston Bruins ML   100    0.504   0.478  0.026        0.008       0.21
+   Vegas Golden Knights @ Boston Bruins Vegas Golden Knights ML  -120    0.496   0.522 -0.026       -0.091       0.00
+   Vegas Golden Knights @ Boston Bruins                Over 6.0  -120    0.508   0.522 -0.013       -0.068       0.00
+   Vegas Golden Knights @ Boston Bruins               Under 6.0   100    0.492   0.478  0.013       -0.017       0.00
+   Detroit Red Wings @ Florida Panthers     Florida Panthers ML  -185    0.591   0.622 -0.031       -0.089       0.00
+   Detroit Red Wings @ Florida Panthers    Detroit Red Wings ML   154    0.409   0.378  0.031        0.038       0.61
+   Detroit Red Wings @ Florida Panthers                Over 6.0  -102    0.484   0.483  0.001       -0.042       0.00
+   Detroit Red Wings @ Florida Panthers               Under 6.0  -118    0.516   0.517 -0.001       -0.047       0.00
+Colorado Avalanche @ Chicago Blackhawks   Chicago Blackhawks ML   190    0.326   0.330 -0.004       -0.055       0.00
+Colorado Avalanche @ Chicago Blackhawks   Colorado Avalanche ML  -235    0.674   0.670  0.004       -0.039       0.00
+Colorado Avalanche @ Chicago Blackhawks                Over 6.5   100    0.470   0.478 -0.009       -0.061       0.00
+Colorado Avalanche @ Chicago Blackhawks               Under 6.5  -120    0.530   0.522  0.009       -0.028       0.00
+       Calgary Flames @ San Jose Sharks      San Jose Sharks ML  -120    0.529   0.522  0.007       -0.031       0.00
+       Calgary Flames @ San Jose Sharks       Calgary Flames ML   100    0.471   0.478 -0.007       -0.057       0.00
+       Calgary Flames @ San Jose Sharks                Over 6.5   100    0.448   0.478 -0.030       -0.103       0.00
+       Calgary Flames @ San Jose Sharks               Under 6.5  -120    0.552   0.522  0.030        0.011       0.34
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+model_p is blended 50% model / 50% market (no-vig); min edge 2%.
