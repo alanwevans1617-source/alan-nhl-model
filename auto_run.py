@@ -45,6 +45,7 @@ BOOK = "betmgm"
 
 LOCK_MINUTES = 75      # pick a game once it is this close to puck drop
 CLUSTER_MINUTES = 45   # ...and any game starting within this many minutes after it
+MAX_PULLS_PER_DAY = 8  # odds pulls per day (2 credits each): 8 x 2 x 31 days = 496, under the 500 free
 PREV_SEASON, CURR_SEASON = "20252026", "20262027"
 
 V3_ARGS = ["--alpha", "0.03", "--half-life", "90", "--xg-file", "xg_games.csv",
@@ -96,6 +97,8 @@ def save_state(st):
     # keep only the last 10 days of locked games
     days = sorted(st.get("locked", {}))
     st["locked"] = {d: st["locked"][d] for d in days[-10:]}
+    pd_ = st.get("odds_pulls", {})
+    st["odds_pulls"] = {d: pd_[d] for d in sorted(pd_)[-10:]}
     with open(STATE, "w", encoding="utf-8") as f:
         json.dump(st, f, indent=2, sort_keys=True)
 
@@ -197,6 +200,11 @@ def pull_odds(day, st):
     if not api_key:
         log("ODDS_API_KEY is not set; can't pull odds.")
         return {}
+    pulls = st.setdefault("odds_pulls", {})
+    if pulls.get(day, 0) >= MAX_PULLS_PER_DAY:
+        log(f"Daily cap reached ({MAX_PULLS_PER_DAY} odds pulls today); no more pulls until tomorrow.")
+        return {}
+    pulls[day] = pulls.get(day, 0) + 1  # count every request, even a failed one
     try:
         r = requests.get(ODDS_URL, timeout=30, params={
             "apiKey": api_key, "regions": "us", "markets": "h2h,totals",
@@ -208,7 +216,8 @@ def pull_odds(day, st):
         log(f"Odds API error {r.status_code}: {r.text[:200]}")
         return {}
     st["odds_credits_remaining"] = r.headers.get("x-requests-remaining")
-    log(f"Odds pulled. API credits remaining this month: {st['odds_credits_remaining']}")
+    log(f"Odds pulled ({pulls[day]} of {MAX_PULLS_PER_DAY} today). "
+        f"API credits remaining this month: {st['odds_credits_remaining']}")
     pulled = datetime.now(ET)
     rows = {}
     for ev in r.json():
