@@ -1,0 +1,55 @@
+name: NHL V3 auto
+
+on:
+  schedule:
+    # Every 20 minutes, 6 AM to 12:40 AM US Eastern (GitHub uses UTC).
+    - cron: "*/20 11-23 * * *"
+    - cron: "*/20 0-4 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        default: auto
+        options: [auto, morning, lock-now, dashboard]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nhl-auto
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      TZ: America/New_York
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Run V3
+        run: python auto_run.py --mode "${{ github.event.inputs.mode || 'auto' }}"
+
+      - name: Save results to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Auto update $(date '+%Y-%m-%d %H:%M %Z')"
+            git pull --rebase --autostash || true
+            git push
+          fi

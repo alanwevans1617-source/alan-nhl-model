@@ -1,0 +1,11 @@
+# big MoneyPuck downloads (re-downloaded each morning)
+moneypuck_all_teams.csv
+moneypuck_goalies.csv
+*.part
+# never commit API keys
+api_key.txt
+.env
+# local-only files
+dashboard.html
+goalies_debug.txt
+__pycache__/
