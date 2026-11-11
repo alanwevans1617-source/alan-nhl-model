@@ -1,0 +1,8 @@
+  moneypuck_all_teams.csv
+  moneypuck_goalies.csv
+  *.part
+  api_key.txt
+  .env
+  dashboard.html
+  goalies_debug.txt
+  __pycache__/
