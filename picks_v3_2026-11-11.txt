@@ -1,0 +1,37 @@
+                                 game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Tampa Bay Lightning @ Buffalo Sabres       Buffalo Sabres ML   110    0.458   0.457  0.001       -0.038       0.00
+ Tampa Bay Lightning @ Buffalo Sabres  Tampa Bay Lightning ML  -130    0.542   0.543 -0.001       -0.041       0.00
+ Tampa Bay Lightning @ Buffalo Sabres                Over 6.5  -115    0.489   0.511 -0.022       -0.086       0.00
+ Tampa Bay Lightning @ Buffalo Sabres               Under 6.5  -105    0.511   0.489  0.022       -0.002       0.00
+    New York Rangers @ Calgary Flames       Calgary Flames ML   120    0.462   0.434  0.027        0.016       0.00
+    New York Rangers @ Calgary Flames     New York Rangers ML  -145    0.538   0.566 -0.027       -0.090       0.00
+    New York Rangers @ Calgary Flames                Over 6.0  -102    0.430   0.483 -0.053       -0.148       0.00
+    New York Rangers @ Calgary Flames               Under 6.0  -118    0.570   0.517  0.053        0.053       1.56
+Philadelphia Flyers @ Edmonton Oilers      Edmonton Oilers ML  -190    0.627   0.626  0.002       -0.043       0.00
+Philadelphia Flyers @ Edmonton Oilers  Philadelphia Flyers ML   155    0.373   0.374 -0.002       -0.049       0.00
+Philadelphia Flyers @ Edmonton Oilers                Over 6.0  -120    0.470   0.522 -0.052       -0.139       0.00
+Philadelphia Flyers @ Edmonton Oilers               Under 6.0   100    0.530   0.478  0.052        0.060       1.51
+  Utah Mammoth @ Vegas Golden Knights Vegas Golden Knights ML  -125    0.558   0.532  0.026        0.005       0.00
+  Utah Mammoth @ Vegas Golden Knights         Utah Mammoth ML   105    0.442   0.468 -0.026       -0.095       0.00
+  Utah Mammoth @ Vegas Golden Knights                Over 6.5  -105    0.437   0.489 -0.052       -0.147       0.00
+  Utah Mammoth @ Vegas Golden Knights               Under 6.5  -115    0.563   0.511  0.052        0.053       1.52
+  Nashville Predators @ Anaheim Ducks        Anaheim Ducks ML  -140    0.516   0.560 -0.044       -0.115       0.00
+  Nashville Predators @ Anaheim Ducks  Nashville Predators ML   118    0.484   0.440  0.044        0.055       1.16
+  Nashville Predators @ Anaheim Ducks                Over 6.5  -130    0.524   0.543 -0.019       -0.074       0.00
+  Nashville Predators @ Anaheim Ducks               Under 6.5   110    0.476   0.457  0.019        0.001       0.00
+Pittsburgh Penguins @ San Jose Sharks      San Jose Sharks ML   120    0.449   0.434  0.014       -0.013       0.00
+Pittsburgh Penguins @ San Jose Sharks  Pittsburgh Penguins ML  -145    0.551   0.566 -0.014       -0.069       0.00
+Pittsburgh Penguins @ San Jose Sharks                Over 6.5  -135    0.516   0.547 -0.031       -0.102       0.00
+Pittsburgh Penguins @ San Jose Sharks               Under 6.5   110    0.484   0.453  0.031        0.016       0.37
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Tampa Bay Lightning at Buffalo Sabres: Andrei Vasilevskiy, Likely (-0.00 goals/gm) vs Ukko-Pekka Luukkonen, Likely (-0.02 goals/gm); expected total 6.60
+  New York Rangers at Calgary Flames: Joonas Korpisalo, Likely (-0.03 goals/gm) vs Devin Cooley (+0.08 goals/gm); expected total 5.80
+  Philadelphia Flyers at Edmonton Oilers: Dan Vladar, Likely (-0.04 goals/gm) vs Tristan Jarry (-0.03 goals/gm); expected total 6.00
+  Utah Mammoth at Vegas Golden Knights: Sebastian Cossa, Likely (-0.01 goals/gm) vs Carter Hart (+0.01 goals/gm); expected total 6.27
+  Nashville Predators at Anaheim Ducks: Justus Annunen, Unconfirmed (-0.09 goals/gm) vs Laurent Brossoit (+0.03 goals/gm); expected total 6.82
+  Pittsburgh Penguins at San Jose Sharks: Sergei Murashov (-0.01 goals/gm) vs Yaroslav Askarov (+0.03 goals/gm); expected total 6.77
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

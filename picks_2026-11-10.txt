@@ -1,0 +1,31 @@
+                                    game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Colorado Avalanche @ Toronto Maple Leafs   Toronto Maple Leafs ML   145    0.400   0.391  0.010       -0.019       0.00
+Colorado Avalanche @ Toronto Maple Leafs    Colorado Avalanche ML  -175    0.600   0.609 -0.010       -0.058       0.00
+Colorado Avalanche @ Toronto Maple Leafs                 Over 6.5  -125    0.540   0.532  0.008       -0.027       0.00
+Colorado Avalanche @ Toronto Maple Leafs                Under 6.5   105    0.460   0.468 -0.008       -0.058       0.00
+     Minnesota Wild @ Montreal Canadiens    Montreal Canadiens ML   105    0.474   0.468  0.006       -0.029       0.00
+     Minnesota Wild @ Montreal Canadiens        Minnesota Wild ML  -125    0.526   0.532 -0.006       -0.053       0.00
+     Minnesota Wild @ Montreal Canadiens                 Over 6.0  -120    0.473   0.522 -0.049       -0.133       0.00
+     Minnesota Wild @ Montreal Canadiens                Under 6.0   100    0.527   0.478  0.049        0.054       1.34
+       New Jersey Devils @ Winnipeg Jets         Winnipeg Jets ML   120    0.410   0.434 -0.024       -0.097       0.00
+       New Jersey Devils @ Winnipeg Jets     New Jersey Devils ML  -145    0.590   0.566  0.024       -0.004       0.00
+       New Jersey Devils @ Winnipeg Jets                 Over 6.5  -105    0.414   0.489 -0.075       -0.192       0.00
+       New Jersey Devils @ Winnipeg Jets                Under 6.5  -115    0.586   0.511  0.075        0.095       2.00
+   Washington Capitals @ Ottawa Senators       Ottawa Senators ML  -105    0.540   0.489  0.051        0.055       1.45
+   Washington Capitals @ Ottawa Senators   Washington Capitals ML  -115    0.460   0.511 -0.051       -0.141       0.00
+   Washington Capitals @ Ottawa Senators                 Over 6.5  -105    0.479   0.489 -0.010       -0.064       0.00
+   Washington Capitals @ Ottawa Senators                Under 6.5  -115    0.521   0.511  0.010       -0.027       0.00
+Florida Panthers @ Columbus Blue Jackets Columbus Blue Jackets ML   105    0.525   0.468  0.057        0.076       1.81
+Florida Panthers @ Columbus Blue Jackets      Florida Panthers ML  -125    0.475   0.532 -0.057       -0.145       0.00
+Florida Panthers @ Columbus Blue Jackets                 Over 6.0  -105    0.448   0.489 -0.041       -0.125       0.00
+Florida Panthers @ Columbus Blue Jackets                Under 6.0  -115    0.552   0.511  0.041        0.031       0.90
+     Detroit Red Wings @ St. Louis Blues       St. Louis Blues ML  -145    0.585   0.566  0.019       -0.012       0.00
+     Detroit Red Wings @ St. Louis Blues     Detroit Red Wings ML   120    0.415   0.434 -0.019       -0.086       0.00
+     Detroit Red Wings @ St. Louis Blues                 Over 6.0   100    0.419   0.478 -0.059       -0.162       0.00
+     Detroit Red Wings @ St. Louis Blues                Under 6.0  -120    0.581   0.522  0.059        0.065       1.95
+ Nashville Predators @ Los Angeles Kings     Los Angeles Kings ML  -130    0.471   0.543 -0.072       -0.167       0.00
+ Nashville Predators @ Los Angeles Kings   Nashville Predators ML   110    0.529   0.457  0.072        0.111       2.00
+ Nashville Predators @ Los Angeles Kings                 Over 6.0  -120    0.453   0.522 -0.069       -0.169       0.00
+ Nashville Predators @ Los Angeles Kings                Under 6.0   100    0.547   0.478  0.069        0.094       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).

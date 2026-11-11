@@ -1,0 +1,715 @@
+date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
+2026-09-30,main,Pittsburgh Penguins @ Philadelphia Flyers,Pittsburgh Penguins ML,120,0.512,0.434,0.077,W,1.2,Pittsburgh Penguins 7 - Philadelphia Flyers 0
+2026-09-30,main,Pittsburgh Penguins @ Philadelphia Flyers,Over 6.0,-115,0.571,0.511,0.06,W,0.87,Pittsburgh Penguins 7 - Philadelphia Flyers 0
+2026-09-30,main,New York Islanders @ Toronto Maple Leafs,New York Islanders ML,110,0.537,0.457,0.08,L,-1.0,New York Islanders 1 - Toronto Maple Leafs 2
+2026-09-30,main,Los Angeles Kings @ Colorado Avalanche,Colorado Avalanche ML,-190,0.698,0.63,0.068,W,0.526,Los Angeles Kings 4 - Colorado Avalanche 8
+2026-09-30,main,Los Angeles Kings @ Colorado Avalanche,Under 6.5,-120,0.675,0.522,0.153,L,-1.0,Los Angeles Kings 4 - Colorado Avalanche 8
+2026-10-01,main,Buffalo Sabres @ Columbus Blue Jackets,Buffalo Sabres ML,-115,0.564,0.511,0.053,L,-1.0,Buffalo Sabres 3 - Columbus Blue Jackets 6
+2026-10-01,main,Philadelphia Flyers @ New Jersey Devils,Philadelphia Flyers ML,150,0.47,0.381,0.088,L,-1.0,Philadelphia Flyers 2 - New Jersey Devils 3 OT
+2026-10-01,main,Tampa Bay Lightning @ New York Rangers,Over 5.5,-120,0.567,0.522,0.045,W,0.833,Tampa Bay Lightning 1 - New York Rangers 5
+2026-10-01,main,Minnesota Wild @ Nashville Predators,Nashville Predators ML,125,0.456,0.426,0.03,L,-1.0,Minnesota Wild 3 - Nashville Predators 1
+2026-10-01,main,Seattle Kraken @ Calgary Flames,Under 6.0,-120,0.602,0.522,0.08,L,-1.0,Seattle Kraken 6 - Calgary Flames 1
+2026-10-01,main,Edmonton Oilers @ Vancouver Canucks,Over 6.5,-115,0.584,0.511,0.073,W,0.87,Edmonton Oilers 9 - Vancouver Canucks 7
+2026-10-01,main,Florida Panthers @ San Jose Sharks,San Jose Sharks ML,125,0.472,0.426,0.047,W,1.25,Florida Panthers 3 - San Jose Sharks 4 OT
+2026-10-01,main,Florida Panthers @ San Jose Sharks,Under 6.5,-115,0.556,0.511,0.045,L,-1.0,Florida Panthers 3 - San Jose Sharks 4 OT
+2026-10-02,main,New York Rangers @ Detroit Red Wings,New York Rangers ML,110,0.517,0.453,0.063,W,1.1,New York Rangers 2 - Detroit Red Wings 0
+2026-10-02,main,New York Rangers @ Detroit Red Wings,Under 6.0,-115,0.565,0.511,0.054,W,0.87,New York Rangers 2 - Detroit Red Wings 0
+2026-10-02,main,Washington Capitals @ Carolina Hurricanes,Under 6.0,100,0.515,0.478,0.037,L,-1.0,Washington Capitals 5 - Carolina Hurricanes 2
+2026-10-02,main,Boston Bruins @ Winnipeg Jets,Boston Bruins ML,100,0.596,0.478,0.117,W,1.0,Boston Bruins 4 - Winnipeg Jets 3 OT
+2026-10-02,main,Boston Bruins @ Winnipeg Jets,Under 6.0,-110,0.575,0.5,0.075,L,-1.0,Boston Bruins 4 - Winnipeg Jets 3 OT
+2026-10-02,main,St. Louis Blues @ Dallas Stars,St. Louis Blues ML,154,0.417,0.375,0.042,W,1.54,St. Louis Blues 4 - Dallas Stars 0
+2026-10-02,main,St. Louis Blues @ Dallas Stars,Under 6.0,-110,0.568,0.5,0.068,W,0.909,St. Louis Blues 4 - Dallas Stars 0
+2026-10-02,main,Anaheim Ducks @ Vegas Golden Knights,Under 6.5,100,0.522,0.478,0.044,L,-1.0,Anaheim Ducks 4 - Vegas Golden Knights 3
+2026-10-03,main,Chicago Blackhawks @ Buffalo Sabres,Buffalo Sabres ML,-235,0.73,0.674,0.055,W,0.426,Chicago Blackhawks 3 - Buffalo Sabres 4
+2026-10-03,main,Chicago Blackhawks @ Buffalo Sabres,Under 6.5,-115,0.541,0.511,0.03,L,-1.0,Chicago Blackhawks 3 - Buffalo Sabres 4
+2026-10-03,main,Carolina Hurricanes @ Philadelphia Flyers,Under 6.0,-115,0.552,0.511,0.041,W,0.87,Carolina Hurricanes 3 - Philadelphia Flyers 2 OT
+2026-10-03,main,Seattle Kraken @ Edmonton Oilers,Seattle Kraken ML,170,0.44,0.353,0.086,L,-1.0,Seattle Kraken 1 - Edmonton Oilers 3
+2026-10-03,main,Seattle Kraken @ Edmonton Oilers,Over 6.5,-115,0.553,0.511,0.042,L,-1.0,Seattle Kraken 1 - Edmonton Oilers 3
+2026-10-03,main,Montreal Canadiens @ Pittsburgh Penguins,Pittsburgh Penguins ML,-105,0.564,0.489,0.075,W,0.952,Montreal Canadiens 5 - Pittsburgh Penguins 6 OT
+2026-10-03,main,Montreal Canadiens @ Pittsburgh Penguins,Over 6.5,-105,0.529,0.489,0.039,W,0.952,Montreal Canadiens 5 - Pittsburgh Penguins 6 OT
+2026-10-03,main,Ottawa Senators @ Toronto Maple Leafs,Ottawa Senators ML,-105,0.627,0.489,0.137,W,0.952,Ottawa Senators 3 - Toronto Maple Leafs 2
+2026-10-03,main,Washington Capitals @ Tampa Bay Lightning,Washington Capitals ML,170,0.514,0.353,0.16,L,-1.0,Washington Capitals 1 - Tampa Bay Lightning 3
+2026-10-03,main,New Jersey Devils @ New York Islanders,New York Islanders ML,115,0.497,0.444,0.053,W,1.15,New Jersey Devils 0 - New York Islanders 6
+2026-10-03,main,New Jersey Devils @ New York Islanders,Under 6.0,-115,0.638,0.511,0.127,P,0.0,New Jersey Devils 0 - New York Islanders 6
+2026-10-03,main,Boston Bruins @ Minnesota Wild,Boston Bruins ML,170,0.495,0.353,0.141,L,-1.0,Boston Bruins 1 - Minnesota Wild 4
+2026-10-03,main,Boston Bruins @ Minnesota Wild,Under 6.5,-120,0.614,0.522,0.092,W,0.833,Boston Bruins 1 - Minnesota Wild 4
+2026-10-03,main,Dallas Stars @ Nashville Predators,Under 6.0,-105,0.571,0.489,0.082,W,0.952,Dallas Stars 1 - Nashville Predators 2
+2026-10-03,main,St. Louis Blues @ Colorado Avalanche,St. Louis Blues ML,230,0.399,0.289,0.11,L,-1.0,St. Louis Blues 1 - Colorado Avalanche 6
+2026-10-03,main,St. Louis Blues @ Colorado Avalanche,Under 6.5,-120,0.622,0.522,0.1,L,-1.0,St. Louis Blues 1 - Colorado Avalanche 6
+2026-10-03,main,Calgary Flames @ Vancouver Canucks,Over 6.0,-118,0.594,0.517,0.077,L,-1.0,Calgary Flames 1 - Vancouver Canucks 4
+2026-10-04,main,Utah Mammoth @ New York Rangers,Utah Mammoth ML,105,0.54,0.468,0.072,L,-1.0,Utah Mammoth 2 - New York Rangers 4
+2026-10-04,main,Florida Panthers @ Anaheim Ducks,Anaheim Ducks ML,115,0.528,0.447,0.081,W,1.15,Florida Panthers 2 - Anaheim Ducks 3 OT
+2026-10-04,main,Florida Panthers @ Anaheim Ducks,Under 6.5,-102,0.531,0.483,0.048,W,0.98,Florida Panthers 2 - Anaheim Ducks 3 OT
+2026-10-04,main,Calgary Flames @ Seattle Kraken,Seattle Kraken ML,-150,0.623,0.574,0.049,W,0.667,Calgary Flames 1 - Seattle Kraken 6
+2026-10-04,main,Calgary Flames @ Seattle Kraken,Under 5.5,100,0.516,0.478,0.037,L,-1.0,Calgary Flames 1 - Seattle Kraken 6
+2026-10-04,main,Vegas Golden Knights @ Vancouver Canucks,Vancouver Canucks ML,230,0.376,0.29,0.086,L,-1.0,Vegas Golden Knights 3 - Vancouver Canucks 2
+2026-10-04,main,Vegas Golden Knights @ Vancouver Canucks,Over 6.0,-120,0.644,0.522,0.122,L,-1.0,Vegas Golden Knights 3 - Vancouver Canucks 2
+2026-10-05,main,Winnipeg Jets @ Pittsburgh Penguins,Pittsburgh Penguins ML,-180,0.683,0.616,0.066,L,-1.0,Winnipeg Jets 3 - Pittsburgh Penguins 2
+2026-10-05,main,Winnipeg Jets @ Pittsburgh Penguins,Over 6.5,-105,0.547,0.489,0.058,L,-1.0,Winnipeg Jets 3 - Pittsburgh Penguins 2
+2026-10-05,main,San Jose Sharks @ Dallas Stars,San Jose Sharks ML,165,0.397,0.361,0.035,L,-1.0,San Jose Sharks 0 - Dallas Stars 5
+2026-10-05,main,San Jose Sharks @ Dallas Stars,Under 6.5,-118,0.566,0.517,0.049,W,0.847,San Jose Sharks 0 - Dallas Stars 5
+2026-10-06,main,Carolina Hurricanes @ Montreal Canadiens,Montreal Canadiens ML,110,0.538,0.453,0.085,L,-1.0,Carolina Hurricanes 6 - Montreal Canadiens 4
+2026-10-06,main,Ottawa Senators @ Detroit Red Wings,Ottawa Senators ML,105,0.614,0.468,0.147,L,-1.0,Ottawa Senators 3 - Detroit Red Wings 5
+2026-10-06,main,Ottawa Senators @ Detroit Red Wings,Under 6.0,-105,0.577,0.489,0.088,L,-1.0,Ottawa Senators 3 - Detroit Red Wings 5
+2026-10-06,main,Nashville Predators @ Toronto Maple Leafs,Nashville Predators ML,135,0.52,0.406,0.114,L,-1.0,Nashville Predators 4 - Toronto Maple Leafs 5 OT
+2026-10-06,main,Nashville Predators @ Toronto Maple Leafs,Under 6.0,-110,0.547,0.5,0.047,L,-1.0,Nashville Predators 4 - Toronto Maple Leafs 5 OT
+2026-10-06,main,Utah Mammoth @ New Jersey Devils,Utah Mammoth ML,105,0.617,0.468,0.149,W,1.05,Utah Mammoth 5 - New Jersey Devils 3
+2026-10-06,main,New York Islanders @ New York Rangers,New York Islanders ML,135,0.439,0.409,0.03,L,-1.0,New York Islanders 2 - New York Rangers 5
+2026-10-06,main,New York Islanders @ New York Rangers,Under 5.5,100,0.563,0.478,0.085,L,-1.0,New York Islanders 2 - New York Rangers 5
+2026-10-06,main,St. Louis Blues @ Chicago Blackhawks,St. Louis Blues ML,-150,0.634,0.574,0.059,L,-1.0,St. Louis Blues 2 - Chicago Blackhawks 4
+2026-10-06,main,Vegas Golden Knights @ Seattle Kraken,Seattle Kraken ML,135,0.493,0.406,0.087,L,-1.0,Vegas Golden Knights 6 - Seattle Kraken 2
+2026-10-06,main,Vegas Golden Knights @ Seattle Kraken,Under 6.0,-102,0.558,0.483,0.075,L,-1.0,Vegas Golden Knights 6 - Seattle Kraken 2
+2026-10-07,main,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.596,0.5,0.096,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
+2026-10-07,main,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.499,0.409,0.091,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
+2026-10-07,main,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.484,0.447,0.037,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
+2026-10-07,main,Edmonton Oilers @ Anaheim Ducks,Over 7.0,115,0.532,0.447,0.085,P,0.0,Edmonton Oilers 5 - Anaheim Ducks 2
+2026-10-08,main,Dallas Stars @ Buffalo Sabres,Buffalo Sabres ML,105,0.537,0.468,0.069,L,-1.0,Dallas Stars 4 - Buffalo Sabres 0
+2026-10-08,main,Dallas Stars @ Buffalo Sabres,Under 6.0,-105,0.538,0.489,0.049,W,0.952,Dallas Stars 4 - Buffalo Sabres 0
+2026-10-08,main,Vancouver Canucks @ Carolina Hurricanes,Vancouver Canucks ML,300,0.284,0.241,0.044,L,-1.0,Vancouver Canucks 2 - Carolina Hurricanes 7
+2026-10-08,main,Vancouver Canucks @ Carolina Hurricanes,Over 6.5,-102,0.572,0.483,0.089,W,0.98,Vancouver Canucks 2 - Carolina Hurricanes 7
+2026-10-08,main,Minnesota Wild @ Tampa Bay Lightning,Minnesota Wild ML,120,0.473,0.434,0.039,L,-1.0,Minnesota Wild 2 - Tampa Bay Lightning 3
+2026-10-08,main,Minnesota Wild @ Tampa Bay Lightning,Under 6.0,100,0.547,0.478,0.069,W,1.0,Minnesota Wild 2 - Tampa Bay Lightning 3
+2026-10-08,main,Philadelphia Flyers @ Ottawa Senators,Ottawa Senators ML,-185,0.667,0.619,0.049,W,0.541,Philadelphia Flyers 1 - Ottawa Senators 2
+2026-10-08,main,Chicago Blackhawks @ New York Islanders,Under 6.0,-118,0.597,0.517,0.079,W,0.847,Chicago Blackhawks 1 - New York Islanders 4
+2026-10-08,main,San Jose Sharks @ St. Louis Blues,Over 6.0,-105,0.53,0.489,0.041,L,-1.0,San Jose Sharks 3 - St. Louis Blues 2 OT
+2026-10-08,main,Colorado Avalanche @ Calgary Flames,Colorado Avalanche ML,-235,0.762,0.674,0.088,W,0.426,Colorado Avalanche 7 - Calgary Flames 3
+2026-10-08,main,Toronto Maple Leafs @ Vegas Golden Knights,Vegas Golden Knights ML,-170,0.662,0.602,0.06,W,0.588,Toronto Maple Leafs 3 - Vegas Golden Knights 4 SO
+2026-10-08,main,Toronto Maple Leafs @ Vegas Golden Knights,Under 6.5,-105,0.541,0.489,0.052,L,-1.0,Toronto Maple Leafs 3 - Vegas Golden Knights 4 SO
+2026-10-09,main,Pittsburgh Penguins @ Columbus Blue Jackets,Pittsburgh Penguins ML,-102,0.535,0.483,0.052,L,-1.0,Pittsburgh Penguins 2 - Columbus Blue Jackets 3 SO
+2026-10-09,main,Seattle Kraken @ Detroit Red Wings,Under 6.0,-105,0.557,0.489,0.068,L,-1.0,Seattle Kraken 6 - Detroit Red Wings 3
+2026-10-09,main,New York Rangers @ Washington Capitals,New York Rangers ML,118,0.469,0.437,0.033,L,-1.0,New York Rangers 1 - Washington Capitals 3
+2026-10-09,main,Anaheim Ducks @ Winnipeg Jets,Winnipeg Jets ML,-125,0.567,0.532,0.034,L,-1.0,Anaheim Ducks 5 - Winnipeg Jets 1
+2026-10-09,main,Anaheim Ducks @ Winnipeg Jets,Under 6.5,-118,0.584,0.517,0.067,W,0.847,Anaheim Ducks 5 - Winnipeg Jets 1
+2026-10-10,main,Philadelphia Flyers @ Boston Bruins,Boston Bruins ML,-145,0.648,0.566,0.082,W,0.69,Philadelphia Flyers 1 - Boston Bruins 5
+2026-10-10,main,Vancouver Canucks @ New Jersey Devils,Vancouver Canucks ML,230,0.413,0.29,0.123,L,-1.0,Vancouver Canucks 1 - New Jersey Devils 4
+2026-10-10,main,Vancouver Canucks @ New Jersey Devils,Over 6.5,100,0.525,0.478,0.047,L,-1.0,Vancouver Canucks 1 - New Jersey Devils 4
+2026-10-10,main,Edmonton Oilers @ San Jose Sharks,Over 6.5,-120,0.596,0.522,0.074,L,-1.0,Edmonton Oilers 3 - San Jose Sharks 1
+2026-10-10,main,Minnesota Wild @ Florida Panthers,Minnesota Wild ML,110,0.563,0.457,0.106,W,1.1,Minnesota Wild 4 - Florida Panthers 1
+2026-10-10,main,Minnesota Wild @ Florida Panthers,Under 5.5,100,0.511,0.478,0.033,W,1.0,Minnesota Wild 4 - Florida Panthers 1
+2026-10-10,main,Carolina Hurricanes @ Chicago Blackhawks,Over 6.0,-102,0.527,0.483,0.044,W,0.98,Carolina Hurricanes 5 - Chicago Blackhawks 2
+2026-10-10,main,Toronto Maple Leafs @ Colorado Avalanche,Colorado Avalanche ML,-220,0.739,0.658,0.081,L,-1.0,Toronto Maple Leafs 6 - Colorado Avalanche 3
+2026-10-10,main,Columbus Blue Jackets @ St. Louis Blues,Under 6.0,-110,0.604,0.5,0.104,L,-1.0,Columbus Blue Jackets 3 - St. Louis Blues 5
+2026-10-10,main,Dallas Stars @ Pittsburgh Penguins,Pittsburgh Penguins ML,150,0.507,0.381,0.126,W,1.5,Dallas Stars 1 - Pittsburgh Penguins 2 SO
+2026-10-10,main,Dallas Stars @ Pittsburgh Penguins,Under 6.5,-118,0.565,0.517,0.048,W,0.847,Dallas Stars 1 - Pittsburgh Penguins 2 SO
+2026-10-10,main,Detroit Red Wings @ Montreal Canadiens,Detroit Red Wings ML,165,0.401,0.361,0.04,L,-1.0,Detroit Red Wings 0 - Montreal Canadiens 1 SO
+2026-10-10,main,Tampa Bay Lightning @ New York Islanders,New York Islanders ML,145,0.463,0.391,0.073,L,-1.0,Tampa Bay Lightning 5 - New York Islanders 3
+2026-10-10,main,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,-120,0.637,0.522,0.116,W,0.833,Anaheim Ducks 4 - Calgary Flames 2
+2026-10-10,main,Anaheim Ducks @ Calgary Flames,Under 6.5,-115,0.55,0.511,0.04,W,0.87,Anaheim Ducks 4 - Calgary Flames 2
+2026-10-10,main,Los Angeles Kings @ Vegas Golden Knights,Vegas Golden Knights ML,-170,0.651,0.602,0.05,W,0.588,Los Angeles Kings 1 - Vegas Golden Knights 2 OT
+2026-10-11,main,Seattle Kraken @ Washington Capitals,Seattle Kraken ML,180,0.385,0.342,0.044,W,1.8,Seattle Kraken 5 - Washington Capitals 3
+2026-10-11,main,Seattle Kraken @ Washington Capitals,Under 6.5,-120,0.579,0.522,0.057,L,-1.0,Seattle Kraken 5 - Washington Capitals 3
+2026-10-11,main,Vancouver Canucks @ New York Rangers,Over 6.0,-120,0.57,0.522,0.048,W,0.833,Vancouver Canucks 2 - New York Rangers 6
+2026-10-12,main,Florida Panthers @ Buffalo Sabres,Buffalo Sabres ML,-115,0.572,0.511,0.061,W,0.87,Florida Panthers 3 - Buffalo Sabres 5
+2026-10-12,main,Ottawa Senators @ New Jersey Devils,Ottawa Senators ML,-102,0.607,0.483,0.124,W,0.98,Ottawa Senators 4 - New Jersey Devils 1
+2026-10-12,main,Ottawa Senators @ New Jersey Devils,Under 6.0,-115,0.566,0.511,0.056,W,0.87,Ottawa Senators 4 - New Jersey Devils 1
+2026-10-12,main,Vegas Golden Knights @ Minnesota Wild,Minnesota Wild ML,-110,0.554,0.5,0.054,W,0.909,Vegas Golden Knights 2 - Minnesota Wild 4
+2026-10-12,main,Vegas Golden Knights @ Minnesota Wild,Under 6.0,-110,0.586,0.5,0.086,P,0.0,Vegas Golden Knights 2 - Minnesota Wild 4
+2026-10-13,main,New Jersey Devils @ Detroit Red Wings,Detroit Red Wings ML,-110,0.552,0.5,0.052,L,-1.0,New Jersey Devils 5 - Detroit Red Wings 4 OT
+2026-10-13,main,New Jersey Devils @ Detroit Red Wings,Under 6.0,-110,0.601,0.5,0.101,L,-1.0,New Jersey Devils 5 - Detroit Red Wings 4 OT
+2026-10-13,main,Florida Panthers @ Columbus Blue Jackets,Under 6.0,-115,0.565,0.511,0.054,L,-1.0,Florida Panthers 7 - Columbus Blue Jackets 3
+2026-10-13,main,Buffalo Sabres @ Montreal Canadiens,Buffalo Sabres ML,135,0.484,0.409,0.075,L,-1.0,Buffalo Sabres 3 - Montreal Canadiens 4 SO
+2026-10-13,main,Seattle Kraken @ Philadelphia Flyers,Seattle Kraken ML,-110,0.58,0.5,0.08,W,0.909,Seattle Kraken 3 - Philadelphia Flyers 2 SO
+2026-10-13,main,Seattle Kraken @ Philadelphia Flyers,Under 6.0,-115,0.569,0.511,0.058,W,0.87,Seattle Kraken 3 - Philadelphia Flyers 2 SO
+2026-10-13,main,Tampa Bay Lightning @ New York Rangers,New York Rangers ML,135,0.506,0.409,0.097,W,1.35,Tampa Bay Lightning 1 - New York Rangers 4
+2026-10-13,main,Tampa Bay Lightning @ New York Rangers,Under 6.0,-110,0.561,0.5,0.061,W,0.909,Tampa Bay Lightning 1 - New York Rangers 4
+2026-10-13,main,St. Louis Blues @ Ottawa Senators,Ottawa Senators ML,-105,0.613,0.489,0.123,L,-1.0,St. Louis Blues 7 - Ottawa Senators 2
+2026-10-13,main,Vancouver Canucks @ New York Islanders,New York Islanders ML,-210,0.68,0.647,0.034,W,0.476,Vancouver Canucks 2 - New York Islanders 3
+2026-10-13,main,Vancouver Canucks @ New York Islanders,Over 6.0,-115,0.586,0.511,0.075,L,-1.0,Vancouver Canucks 2 - New York Islanders 3
+2026-10-13,main,Pittsburgh Penguins @ Chicago Blackhawks,Pittsburgh Penguins ML,-160,0.694,0.591,0.103,L,-1.0,Pittsburgh Penguins 3 - Chicago Blackhawks 5
+2026-10-13,main,Minnesota Wild @ Winnipeg Jets,Minnesota Wild ML,-110,0.615,0.5,0.115,L,-1.0,Minnesota Wild 2 - Winnipeg Jets 5
+2026-10-13,main,Minnesota Wild @ Winnipeg Jets,Under 6.0,100,0.603,0.478,0.125,L,-1.0,Minnesota Wild 2 - Winnipeg Jets 5
+2026-10-13,main,Colorado Avalanche @ Dallas Stars,Under 6.0,-115,0.574,0.511,0.063,W,0.87,Colorado Avalanche 3 - Dallas Stars 2
+2026-10-13,main,Vegas Golden Knights @ Nashville Predators,Nashville Predators ML,110,0.488,0.457,0.031,L,-1.0,Vegas Golden Knights 5 - Nashville Predators 2
+2026-10-13,main,Vegas Golden Knights @ Nashville Predators,Under 6.0,100,0.561,0.478,0.083,L,-1.0,Vegas Golden Knights 5 - Nashville Predators 2
+2026-10-13,main,Calgary Flames @ Anaheim Ducks,Anaheim Ducks ML,-175,0.699,0.609,0.09,L,-1.0,Calgary Flames 4 - Anaheim Ducks 2
+2026-10-13,main,Edmonton Oilers @ Los Angeles Kings,Edmonton Oilers ML,-130,0.606,0.543,0.063,W,0.769,Edmonton Oilers 4 - Los Angeles Kings 1
+2026-10-13,main,Edmonton Oilers @ Los Angeles Kings,Over 6.0,-120,0.573,0.522,0.051,L,-1.0,Edmonton Oilers 4 - Los Angeles Kings 1
+2026-10-13,main,Boston Bruins @ San Jose Sharks,Boston Bruins ML,-125,0.637,0.532,0.104,W,0.8,Boston Bruins 6 - San Jose Sharks 3
+2026-10-14,main,Montreal Canadiens @ Washington Capitals,Under 6.5,-102,0.569,0.483,0.087,L,-1.0,Montreal Canadiens 4 - Washington Capitals 5
+2026-10-14,main,Dallas Stars @ Colorado Avalanche,Under 6.0,-110,0.588,0.5,0.088,W,0.909,Dallas Stars 3 - Colorado Avalanche 2 SO
+2026-10-15,main,Buffalo Sabres @ Toronto Maple Leafs,Buffalo Sabres ML,-102,0.524,0.483,0.041,W,0.98,Buffalo Sabres 5 - Toronto Maple Leafs 4 OT
+2026-10-15,main,Buffalo Sabres @ Toronto Maple Leafs,Under 6.5,110,0.492,0.453,0.038,L,-1.0,Buffalo Sabres 5 - Toronto Maple Leafs 4 OT
+2026-10-15,main,Vancouver Canucks @ Florida Panthers,Vancouver Canucks ML,230,0.349,0.289,0.06,L,-1.0,Vancouver Canucks 2 - Florida Panthers 3 OT
+2026-10-15,main,Vancouver Canucks @ Florida Panthers,Over 6.0,-115,0.614,0.511,0.103,L,-1.0,Vancouver Canucks 2 - Florida Panthers 3 OT
+2026-10-15,main,New York Rangers @ New Jersey Devils,New York Rangers ML,110,0.631,0.457,0.174,L,-1.0,New York Rangers 1 - New Jersey Devils 7
+2026-10-15,main,New York Rangers @ New Jersey Devils,Under 6.0,-102,0.576,0.483,0.093,L,-1.0,New York Rangers 1 - New Jersey Devils 7
+2026-10-15,main,Seattle Kraken @ Tampa Bay Lightning,Seattle Kraken ML,220,0.421,0.299,0.123,L,-1.0,Seattle Kraken 3 - Tampa Bay Lightning 4 OT
+2026-10-15,main,Philadelphia Flyers @ Detroit Red Wings,Under 5.5,100,0.549,0.478,0.071,W,1.0,Philadelphia Flyers 1 - Detroit Red Wings 2
+2026-10-15,main,Winnipeg Jets @ Chicago Blackhawks,Winnipeg Jets ML,-125,0.589,0.532,0.057,L,-1.0,Winnipeg Jets 3 - Chicago Blackhawks 4 OT
+2026-10-15,main,Winnipeg Jets @ Chicago Blackhawks,Under 6.0,-102,0.56,0.483,0.078,L,-1.0,Winnipeg Jets 3 - Chicago Blackhawks 4 OT
+2026-10-15,main,St. Louis Blues @ Minnesota Wild,Under 6.0,-110,0.548,0.5,0.048,L,-1.0,St. Louis Blues 4 - Minnesota Wild 5
+2026-10-15,main,San Jose Sharks @ Nashville Predators,Nashville Predators ML,-135,0.59,0.547,0.043,L,-1.0,San Jose Sharks 3 - Nashville Predators 2 SO
+2026-10-15,main,Calgary Flames @ Vegas Golden Knights,Under 6.5,-120,0.596,0.522,0.074,L,-1.0,Calgary Flames 2 - Vegas Golden Knights 6
+2026-10-16,main,Pittsburgh Penguins @ Colorado Avalanche,Pittsburgh Penguins ML,170,0.384,0.353,0.03,L,-1.0,Pittsburgh Penguins 2 - Colorado Avalanche 5
+2026-10-16,main,Boston Bruins @ Anaheim Ducks,Boston Bruins ML,-110,0.595,0.5,0.095,W,0.909,Boston Bruins 4 - Anaheim Ducks 2
+2026-10-17,main,New Jersey Devils @ Washington Capitals,Washington Capitals ML,-120,0.593,0.522,0.072,W,0.833,New Jersey Devils 2 - Washington Capitals 4
+2026-10-17,main,Vancouver Canucks @ Tampa Bay Lightning,Over 6.5,-115,0.544,0.511,0.033,L,-1.0,Vancouver Canucks 2 - Tampa Bay Lightning 4
+2026-10-17,main,Seattle Kraken @ Florida Panthers,Seattle Kraken ML,155,0.504,0.374,0.129,L,-1.0,Seattle Kraken 3 - Florida Panthers 8
+2026-10-17,main,Buffalo Sabres @ Montreal Canadiens,Buffalo Sabres ML,118,0.499,0.437,0.062,L,-1.0,Buffalo Sabres 3 - Montreal Canadiens 4 OT
+2026-10-17,main,Dallas Stars @ Chicago Blackhawks,Under 6.0,-110,0.646,0.5,0.146,W,0.909,Dallas Stars 4 - Chicago Blackhawks 0
+2026-10-17,main,New York Rangers @ Columbus Blue Jackets,New York Rangers ML,105,0.557,0.463,0.094,L,-1.0,New York Rangers 0 - Columbus Blue Jackets 1 OT
+2026-10-17,main,New York Rangers @ Columbus Blue Jackets,Under 6.0,-102,0.541,0.483,0.058,W,0.98,New York Rangers 0 - Columbus Blue Jackets 1 OT
+2026-10-17,main,San Jose Sharks @ Detroit Red Wings,San Jose Sharks ML,135,0.449,0.409,0.04,L,-1.0,San Jose Sharks 3 - Detroit Red Wings 4 SO
+2026-10-17,main,San Jose Sharks @ Detroit Red Wings,Under 6.5,-120,0.602,0.522,0.08,L,-1.0,San Jose Sharks 3 - Detroit Red Wings 4 SO
+2026-10-17,main,New York Islanders @ Toronto Maple Leafs,New York Islanders ML,110,0.503,0.453,0.05,W,1.1,New York Islanders 4 - Toronto Maple Leafs 1
+2026-10-17,main,New York Islanders @ Toronto Maple Leafs,Under 6.5,-120,0.596,0.522,0.074,W,0.833,New York Islanders 4 - Toronto Maple Leafs 1
+2026-10-17,main,Ottawa Senators @ Philadelphia Flyers,Ottawa Senators ML,-155,0.616,0.578,0.038,L,-1.0,Ottawa Senators 1 - Philadelphia Flyers 3
+2026-10-17,main,Ottawa Senators @ Philadelphia Flyers,Under 5.5,-115,0.572,0.511,0.062,W,0.87,Ottawa Senators 1 - Philadelphia Flyers 3
+2026-10-17,main,Boston Bruins @ Los Angeles Kings,Boston Bruins ML,115,0.656,0.444,0.212,W,1.15,Boston Bruins 4 - Los Angeles Kings 1
+2026-10-17,main,Boston Bruins @ Los Angeles Kings,Under 6.0,-115,0.543,0.511,0.032,W,0.87,Boston Bruins 4 - Los Angeles Kings 1
+2026-10-17,main,Pittsburgh Penguins @ Vegas Golden Knights,Pittsburgh Penguins ML,170,0.425,0.353,0.072,L,-1.0,Pittsburgh Penguins 2 - Vegas Golden Knights 6
+2026-10-18,main,Carolina Hurricanes @ Calgary Flames,Carolina Hurricanes ML,-220,0.747,0.658,0.088,L,-1.0,Carolina Hurricanes 2 - Calgary Flames 3
+2026-10-19,main,Anaheim Ducks @ New York Rangers,Under 6.5,-110,0.616,0.5,0.116,L,-1.0,Anaheim Ducks 2 - New York Rangers 5
+2026-10-19,main,Colorado Avalanche @ Philadelphia Flyers,Under 6.0,-105,0.575,0.489,0.086,W,0.952,Colorado Avalanche 2 - Philadelphia Flyers 3
+2026-10-19,main,Pittsburgh Penguins @ Utah Mammoth,Pittsburgh Penguins ML,155,0.419,0.374,0.044,L,-1.0,Pittsburgh Penguins 4 - Utah Mammoth 5
+2026-10-20,main,Anaheim Ducks @ New York Islanders,Under 6.0,-118,0.556,0.517,0.039,W,0.847,Anaheim Ducks 2 - New York Islanders 3
+2026-10-20,main,Colorado Avalanche @ New Jersey Devils,Colorado Avalanche ML,-102,0.628,0.483,0.146,L,-1.0,Colorado Avalanche 3 - New Jersey Devils 4
+2026-10-20,main,Toronto Maple Leafs @ Columbus Blue Jackets,Toronto Maple Leafs ML,135,0.466,0.409,0.057,W,1.35,Toronto Maple Leafs 6 - Columbus Blue Jackets 2
+2026-10-20,main,Toronto Maple Leafs @ Columbus Blue Jackets,Under 6.5,-115,0.577,0.511,0.066,L,-1.0,Toronto Maple Leafs 6 - Columbus Blue Jackets 2
+2026-10-20,main,Los Angeles Kings @ Washington Capitals,Washington Capitals ML,-160,0.669,0.591,0.078,L,-1.0,Los Angeles Kings 5 - Washington Capitals 2
+2026-10-20,main,Los Angeles Kings @ Washington Capitals,Over 5.5,-115,0.552,0.511,0.041,W,0.87,Los Angeles Kings 5 - Washington Capitals 2
+2026-10-20,main,San Jose Sharks @ Montreal Canadiens,San Jose Sharks ML,180,0.377,0.342,0.035,W,1.8,San Jose Sharks 4 - Montreal Canadiens 3 OT
+2026-10-20,main,San Jose Sharks @ Montreal Canadiens,Under 6.5,105,0.526,0.468,0.058,L,-1.0,San Jose Sharks 4 - Montreal Canadiens 3 OT
+2026-10-20,main,Boston Bruins @ Dallas Stars,Boston Bruins ML,140,0.482,0.401,0.081,L,-1.0,Boston Bruins 2 - Dallas Stars 3 OT
+2026-10-20,main,Boston Bruins @ Dallas Stars,Under 5.5,100,0.572,0.478,0.094,W,1.0,Boston Bruins 2 - Dallas Stars 3 OT
+2026-10-20,main,Detroit Red Wings @ Seattle Kraken,Seattle Kraken ML,-105,0.564,0.489,0.075,W,0.952,Detroit Red Wings 3 - Seattle Kraken 4 SO
+2026-10-20,main,Detroit Red Wings @ Seattle Kraken,Under 6.5,-115,0.582,0.511,0.071,L,-1.0,Detroit Red Wings 3 - Seattle Kraken 4 SO
+2026-10-20,main,Carolina Hurricanes @ Vancouver Canucks,Over 6.5,-110,0.539,0.5,0.039,W,0.909,Carolina Hurricanes 6 - Vancouver Canucks 3
+2026-10-20,main,Tampa Bay Lightning @ Vegas Golden Knights,Vegas Golden Knights ML,-110,0.558,0.5,0.058,L,-1.0,Tampa Bay Lightning 6 - Vegas Golden Knights 2
+2026-10-21,main,Philadelphia Flyers @ Buffalo Sabres,Philadelphia Flyers ML,165,0.392,0.361,0.03,W,1.65,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,main,Philadelphia Flyers @ Buffalo Sabres,Under 6.0,-110,0.59,0.5,0.09,W,0.909,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,main,Florida Panthers @ Ottawa Senators,Ottawa Senators ML,-110,0.552,0.5,0.052,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-21,main,Florida Panthers @ Ottawa Senators,Over 5.5,-110,0.539,0.5,0.039,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-22,main,Anaheim Ducks @ New Jersey Devils,Anaheim Ducks ML,180,0.446,0.342,0.104,L,-1.0,Anaheim Ducks 1 - New Jersey Devils 4
+2026-10-22,main,Anaheim Ducks @ New Jersey Devils,Under 6.5,110,0.525,0.457,0.067,W,1.1,Anaheim Ducks 1 - New Jersey Devils 4
+2026-10-22,main,Nashville Predators @ Boston Bruins,Boston Bruins ML,-155,0.626,0.583,0.043,W,0.645,Nashville Predators 0 - Boston Bruins 6
+2026-10-22,main,Nashville Predators @ Boston Bruins,Under 6.0,-102,0.533,0.483,0.05,P,0.0,Nashville Predators 0 - Boston Bruins 6
+2026-10-22,main,Florida Panthers @ Pittsburgh Penguins,Pittsburgh Penguins ML,-105,0.549,0.489,0.06,W,0.952,Florida Panthers 0 - Pittsburgh Penguins 4
+2026-10-22,main,New York Rangers @ Toronto Maple Leafs,New York Rangers ML,-110,0.539,0.5,0.039,L,-1.0,New York Rangers 4 - Toronto Maple Leafs 5
+2026-10-22,main,New York Rangers @ Toronto Maple Leafs,Under 6.5,-115,0.588,0.511,0.077,L,-1.0,New York Rangers 4 - Toronto Maple Leafs 5
+2026-10-22,main,San Jose Sharks @ Ottawa Senators,Ottawa Senators ML,-135,0.649,0.553,0.097,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,main,San Jose Sharks @ Ottawa Senators,Under 6.5,-120,0.609,0.522,0.087,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,main,Los Angeles Kings @ New York Islanders,New York Islanders ML,-110,0.608,0.5,0.108,L,-1.0,Los Angeles Kings 3 - New York Islanders 2 OT
+2026-10-22,main,Los Angeles Kings @ New York Islanders,Under 5.5,-105,0.555,0.489,0.066,W,0.952,Los Angeles Kings 3 - New York Islanders 2 OT
+2026-10-22,main,Winnipeg Jets @ Dallas Stars,Under 5.5,-110,0.605,0.5,0.105,W,0.909,Winnipeg Jets 2 - Dallas Stars 3 OT
+2026-10-22,main,Minnesota Wild @ Calgary Flames,Minnesota Wild ML,-200,0.693,0.639,0.054,L,-1.0,Minnesota Wild 1 - Calgary Flames 2
+2026-10-22,main,Minnesota Wild @ Calgary Flames,Under 6.0,-110,0.539,0.5,0.039,W,0.909,Minnesota Wild 1 - Calgary Flames 2
+2026-10-22,main,Carolina Hurricanes @ Edmonton Oilers,Edmonton Oilers ML,115,0.503,0.447,0.055,W,1.15,Carolina Hurricanes 5 - Edmonton Oilers 6 SO
+2026-10-22,main,Utah Mammoth @ Seattle Kraken,Seattle Kraken ML,145,0.436,0.391,0.045,W,1.45,Utah Mammoth 3 - Seattle Kraken 5
+2026-10-23,main,Montreal Canadiens @ Chicago Blackhawks,Under 6.5,-120,0.555,0.522,0.033,W,0.833,Montreal Canadiens 4 - Chicago Blackhawks 1
+2026-10-23,main,Tampa Bay Lightning @ Colorado Avalanche,Colorado Avalanche ML,-120,0.564,0.522,0.042,W,0.833,Tampa Bay Lightning 3 - Colorado Avalanche 6
+2026-10-24,main,Anaheim Ducks @ Philadelphia Flyers,Under 6.0,-115,0.622,0.511,0.111,L,-1.0,Anaheim Ducks 5 - Philadelphia Flyers 4
+2026-10-24,main,Los Angeles Kings @ New Jersey Devils,Los Angeles Kings ML,165,0.42,0.361,0.058,L,-1.0,Los Angeles Kings 1 - New Jersey Devils 3
+2026-10-24,main,Los Angeles Kings @ New Jersey Devils,Under 6.0,-115,0.546,0.511,0.035,W,0.87,Los Angeles Kings 1 - New Jersey Devils 3
+2026-10-24,main,New York Rangers @ Ottawa Senators,Under 6.0,-105,0.605,0.489,0.115,L,-1.0,New York Rangers 4 - Ottawa Senators 7
+2026-10-24,main,San Jose Sharks @ Boston Bruins,Boston Bruins ML,-200,0.705,0.639,0.067,W,0.5,San Jose Sharks 4 - Boston Bruins 6
+2026-10-24,main,San Jose Sharks @ Boston Bruins,Under 6.5,-110,0.545,0.5,0.045,L,-1.0,San Jose Sharks 4 - Boston Bruins 6
+2026-10-24,main,Buffalo Sabres @ Washington Capitals,Washington Capitals ML,-125,0.564,0.532,0.032,W,0.8,Buffalo Sabres 3 - Washington Capitals 4 OT
+2026-10-24,main,Buffalo Sabres @ Washington Capitals,Under 6.5,-105,0.533,0.489,0.044,L,-1.0,Buffalo Sabres 3 - Washington Capitals 4 OT
+2026-10-24,main,Carolina Hurricanes @ St. Louis Blues,St. Louis Blues ML,125,0.464,0.426,0.038,L,-1.0,Carolina Hurricanes 4 - St. Louis Blues 0
+2026-10-24,main,Carolina Hurricanes @ St. Louis Blues,Over 6.0,-120,0.57,0.522,0.049,L,-1.0,Carolina Hurricanes 4 - St. Louis Blues 0
+2026-10-24,main,Vegas Golden Knights @ Columbus Blue Jackets,Under 6.0,100,0.512,0.478,0.034,W,1.0,Vegas Golden Knights 1 - Columbus Blue Jackets 2 OT
+2026-10-24,main,Toronto Maple Leafs @ Edmonton Oilers,Over 7.0,105,0.539,0.468,0.072,W,1.05,Toronto Maple Leafs 7 - Edmonton Oilers 2
+2026-10-24,main,Tampa Bay Lightning @ Utah Mammoth,Tampa Bay Lightning ML,120,0.508,0.434,0.074,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-24,main,Tampa Bay Lightning @ Utah Mammoth,Under 6.5,-102,0.519,0.483,0.037,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-24,main,Detroit Red Wings @ Calgary Flames,Under 6.0,-110,0.597,0.5,0.097,W,0.909,Detroit Red Wings 1 - Calgary Flames 4
+2026-10-24,main,Minnesota Wild @ Seattle Kraken,Seattle Kraken ML,135,0.46,0.409,0.051,L,-1.0,Minnesota Wild 5 - Seattle Kraken 1
+2026-10-25,main,Florida Panthers @ Chicago Blackhawks,Chicago Blackhawks ML,154,0.436,0.375,0.06,L,-1.0,Florida Panthers 3 - Chicago Blackhawks 2
+2026-10-25,main,Florida Panthers @ Chicago Blackhawks,Under 6.0,-102,0.527,0.483,0.045,W,0.98,Florida Panthers 3 - Chicago Blackhawks 2
+2026-10-25,main,New York Islanders @ Dallas Stars,Under 5.5,-115,0.649,0.511,0.138,L,-1.0,New York Islanders 3 - Dallas Stars 6
+2026-10-25,main,Colorado Avalanche @ Nashville Predators,Nashville Predators ML,195,0.385,0.326,0.059,W,1.95,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-25,main,Colorado Avalanche @ Nashville Predators,Under 6.5,100,0.564,0.478,0.086,L,-1.0,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-25,main,Minnesota Wild @ Vancouver Canucks,Minnesota Wild ML,-200,0.692,0.639,0.053,W,0.5,Minnesota Wild 4 - Vancouver Canucks 2
+2026-10-26,main,Los Angeles Kings @ New York Rangers,New York Rangers ML,-135,0.619,0.553,0.067,L,-1.0,Los Angeles Kings 6 - New York Rangers 3
+2026-10-26,main,Los Angeles Kings @ New York Rangers,Under 6.0,-118,0.588,0.517,0.071,L,-1.0,Los Angeles Kings 6 - New York Rangers 3
+2026-10-26,main,Toronto Maple Leafs @ Calgary Flames,Toronto Maple Leafs ML,-135,0.611,0.553,0.059,L,-1.0,Toronto Maple Leafs 2 - Calgary Flames 5
+2026-10-26,main,Toronto Maple Leafs @ Calgary Flames,Under 6.5,100,0.538,0.478,0.06,L,-1.0,Toronto Maple Leafs 2 - Calgary Flames 5
+2026-10-26,main,Detroit Red Wings @ Edmonton Oilers,Under 7.0,-145,0.605,0.554,0.051,P,0.0,Detroit Red Wings 4 - Edmonton Oilers 3 SO
+2026-10-27,main,Columbus Blue Jackets @ Philadelphia Flyers,Philadelphia Flyers ML,-102,0.525,0.483,0.042,L,-1.0,Columbus Blue Jackets 4 - Philadelphia Flyers 3 OT
+2026-10-27,main,Columbus Blue Jackets @ Philadelphia Flyers,Under 5.5,-102,0.585,0.483,0.102,L,-1.0,Columbus Blue Jackets 4 - Philadelphia Flyers 3 OT
+2026-10-27,main,Boston Bruins @ Carolina Hurricanes,Boston Bruins ML,155,0.483,0.374,0.109,L,-1.0,Boston Bruins 1 - Carolina Hurricanes 2
+2026-10-27,main,New Jersey Devils @ Dallas Stars,Dallas Stars ML,-115,0.637,0.511,0.127,L,-1.0,New Jersey Devils 5 - Dallas Stars 1
+2026-10-27,main,New Jersey Devils @ Dallas Stars,Under 5.5,-105,0.538,0.489,0.049,L,-1.0,New Jersey Devils 5 - Dallas Stars 1
+2026-10-27,main,Florida Panthers @ Winnipeg Jets,Winnipeg Jets ML,110,0.525,0.457,0.067,L,-1.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,main,Florida Panthers @ Winnipeg Jets,Under 6.0,-102,0.605,0.483,0.122,P,0.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,main,Montreal Canadiens @ St. Louis Blues,St. Louis Blues ML,-105,0.536,0.489,0.046,L,-1.0,Montreal Canadiens 2 - St. Louis Blues 0
+2026-10-27,main,New York Islanders @ Nashville Predators,Under 5.5,100,0.525,0.478,0.046,L,-1.0,New York Islanders 4 - Nashville Predators 3 SO
+2026-10-27,main,Los Angeles Kings @ Chicago Blackhawks,Los Angeles Kings ML,-110,0.571,0.5,0.071,L,-1.0,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,main,Los Angeles Kings @ Chicago Blackhawks,Under 6.0,-115,0.581,0.511,0.07,W,0.87,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,main,Minnesota Wild @ Utah Mammoth,Under 6.5,-120,0.571,0.522,0.05,W,0.833,Minnesota Wild 3 - Utah Mammoth 1
+2026-10-27,main,Vancouver Canucks @ Anaheim Ducks,Over 6.5,-125,0.563,0.532,0.03,W,0.8,Vancouver Canucks 6 - Anaheim Ducks 5 OT
+2026-10-27,main,Ottawa Senators @ Vegas Golden Knights,Ottawa Senators ML,135,0.47,0.409,0.061,L,-1.0,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,main,Ottawa Senators @ Vegas Golden Knights,Under 6.5,-105,0.584,0.489,0.094,W,0.952,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,main,Buffalo Sabres @ San Jose Sharks,San Jose Sharks ML,120,0.492,0.434,0.058,L,-1.0,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-27,main,Buffalo Sabres @ San Jose Sharks,Under 6.5,110,0.502,0.457,0.045,W,1.1,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-28,main,Philadelphia Flyers @ Washington Capitals,Philadelphia Flyers ML,195,0.38,0.326,0.054,L,-1.0,Philadelphia Flyers 2 - Washington Capitals 5
+2026-10-28,main,Philadelphia Flyers @ Washington Capitals,Under 6.0,-105,0.584,0.489,0.095,L,-1.0,Philadelphia Flyers 2 - Washington Capitals 5
+2026-10-28,main,Calgary Flames @ Edmonton Oilers,Edmonton Oilers ML,-190,0.67,0.626,0.044,W,0.526,Calgary Flames 0 - Edmonton Oilers 4
+2026-10-28,main,Toronto Maple Leafs @ Seattle Kraken,Seattle Kraken ML,115,0.496,0.447,0.048,W,1.15,Toronto Maple Leafs 4 - Seattle Kraken 5
+2026-10-28,main,Toronto Maple Leafs @ Seattle Kraken,Over 6.5,-120,0.558,0.522,0.036,W,0.833,Toronto Maple Leafs 4 - Seattle Kraken 5
+2026-10-29,main,Utah Mammoth @ Pittsburgh Penguins,Pittsburgh Penguins ML,115,0.519,0.447,0.072,L,-1.0,Utah Mammoth 4 - Pittsburgh Penguins 3 OT
+2026-10-29,main,Winnipeg Jets @ Tampa Bay Lightning,Under 6.0,-110,0.531,0.5,0.031,L,-1.0,Winnipeg Jets 4 - Tampa Bay Lightning 6
+2026-10-29,main,Boston Bruins @ St. Louis Blues,Boston Bruins ML,-105,0.595,0.489,0.106,L,-1.0,Boston Bruins 1 - St. Louis Blues 4
+2026-10-29,main,Montreal Canadiens @ Dallas Stars,Montreal Canadiens ML,150,0.416,0.384,0.033,W,1.5,Montreal Canadiens 5 - Dallas Stars 2
+2026-10-29,main,Montreal Canadiens @ Dallas Stars,Under 6.0,-115,0.63,0.511,0.119,L,-1.0,Montreal Canadiens 5 - Dallas Stars 2
+2026-10-29,main,New York Islanders @ Minnesota Wild,Under 5.5,100,0.55,0.478,0.071,L,-1.0,New York Islanders 4 - Minnesota Wild 3 OT
+2026-10-29,main,Washington Capitals @ Nashville Predators,Under 6.5,-115,0.575,0.511,0.064,L,-1.0,Washington Capitals 4 - Nashville Predators 3
+2026-10-29,main,Buffalo Sabres @ Anaheim Ducks,Under 6.5,105,0.502,0.463,0.039,L,-1.0,Buffalo Sabres 7 - Anaheim Ducks 6
+2026-10-29,main,Ottawa Senators @ Los Angeles Kings,Under 6.0,-118,0.581,0.517,0.064,L,-1.0,Ottawa Senators 5 - Los Angeles Kings 6 OT
+2026-10-31,main,Chicago Blackhawks @ Boston Bruins,Boston Bruins ML,-235,0.765,0.674,0.091,W,0.426,Chicago Blackhawks 4 - Boston Bruins 5 OT
+2026-10-31,main,Chicago Blackhawks @ Boston Bruins,Under 6.0,-102,0.533,0.483,0.05,L,-1.0,Chicago Blackhawks 4 - Boston Bruins 5 OT
+2026-10-31,main,St. Louis Blues @ Detroit Red Wings,Under 6.0,-120,0.603,0.522,0.081,L,-1.0,St. Louis Blues 5 - Detroit Red Wings 4
+2026-10-31,main,Edmonton Oilers @ New York Islanders,New York Islanders ML,110,0.483,0.453,0.03,L,-1.0,Edmonton Oilers 4 - New York Islanders 0
+2026-10-31,main,Tampa Bay Lightning @ Nashville Predators,Nashville Predators ML,145,0.459,0.391,0.068,W,1.45,Tampa Bay Lightning 4 - Nashville Predators 5 SO
+2026-10-31,main,Ottawa Senators @ San Jose Sharks,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Ottawa Senators 5 - San Jose Sharks 1
+2026-10-31,main,Toronto Maple Leafs @ Vancouver Canucks,Over 6.5,-130,0.615,0.537,0.078,L,-1.0,Toronto Maple Leafs 4 - Vancouver Canucks 2
+2026-10-31,main,Columbus Blue Jackets @ Dallas Stars,Under 5.5,-118,0.554,0.517,0.036,W,0.847,Columbus Blue Jackets 1 - Dallas Stars 3
+2026-10-31,main,Calgary Flames @ Colorado Avalanche,Calgary Flames ML,333,0.276,0.22,0.056,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-10-31,main,Calgary Flames @ Colorado Avalanche,Under 6.5,-105,0.541,0.489,0.051,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-11-01,main,Winnipeg Jets @ Carolina Hurricanes,Under 6.0,-102,0.518,0.483,0.035,L,-1.0,Winnipeg Jets 0 - Carolina Hurricanes 7
+2026-11-01,main,Minnesota Wild @ Washington Capitals,Under 6.0,100,0.535,0.478,0.057,P,0.0,Minnesota Wild 5 - Washington Capitals 1
+2026-11-01,main,Utah Mammoth @ Philadelphia Flyers,Under 6.0,-110,0.553,0.5,0.053,L,-1.0,Utah Mammoth 3 - Philadelphia Flyers 6
+2026-11-01,main,Edmonton Oilers @ New York Rangers,Edmonton Oilers ML,105,0.543,0.463,0.08,W,1.05,Edmonton Oilers 4 - New York Rangers 1
+2026-11-01,main,Ottawa Senators @ Anaheim Ducks,Ottawa Senators ML,-120,0.575,0.522,0.053,L,-1.0,Ottawa Senators 3 - Anaheim Ducks 6
+2026-11-02,main,Vegas Golden Knights @ Boston Bruins,Boston Bruins ML,100,0.6,0.478,0.122,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
+2026-11-02,main,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,154,0.43,0.378,0.053,W,1.54,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,main,Detroit Red Wings @ Florida Panthers,Under 6.0,-118,0.553,0.517,0.035,L,-1.0,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,main,Colorado Avalanche @ Chicago Blackhawks,Colorado Avalanche ML,-235,0.723,0.67,0.053,W,0.426,Colorado Avalanche 5 - Chicago Blackhawks 2
+2026-11-02,main,Calgary Flames @ San Jose Sharks,Under 6.5,-120,0.621,0.522,0.099,W,0.833,Calgary Flames 2 - San Jose Sharks 1
+2026-11-03,main,Colorado Avalanche @ Columbus Blue Jackets,Colorado Avalanche ML,-125,0.64,0.532,0.107,L,-1.0,Colorado Avalanche 2 - Columbus Blue Jackets 7
+2026-11-03,main,Detroit Red Wings @ Tampa Bay Lightning,Detroit Red Wings ML,230,0.385,0.29,0.095,L,-1.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,main,Minnesota Wild @ Philadelphia Flyers,Under 6.0,-115,0.646,0.511,0.136,P,0.0,Minnesota Wild 4 - Philadelphia Flyers 2
+2026-11-03,main,Winnipeg Jets @ Montreal Canadiens,Montreal Canadiens ML,-175,0.676,0.609,0.067,L,-1.0,Winnipeg Jets 5 - Montreal Canadiens 4 OT
+2026-11-03,main,St. Louis Blues @ New York Rangers,Under 6.0,-110,0.538,0.5,0.038,W,0.909,St. Louis Blues 1 - New York Rangers 3
+2026-11-03,main,Vegas Golden Knights @ Pittsburgh Penguins,Under 6.5,100,0.509,0.478,0.03,W,1.0,Vegas Golden Knights 3 - Pittsburgh Penguins 2
+2026-11-03,main,Utah Mammoth @ Toronto Maple Leafs,Toronto Maple Leafs ML,120,0.503,0.434,0.069,L,-1.0,Utah Mammoth 3 - Toronto Maple Leafs 2
+2026-11-03,main,Utah Mammoth @ Toronto Maple Leafs,Over 7.0,110,0.503,0.446,0.057,L,-1.0,Utah Mammoth 3 - Toronto Maple Leafs 2
+2026-11-03,main,Edmonton Oilers @ New Jersey Devils,Edmonton Oilers ML,135,0.528,0.409,0.119,L,-1.0,Edmonton Oilers 3 - New Jersey Devils 4 SO
+2026-11-03,main,Edmonton Oilers @ New Jersey Devils,Over 6.0,-115,0.561,0.511,0.05,W,0.87,Edmonton Oilers 3 - New Jersey Devils 4 SO
+2026-11-03,main,Anaheim Ducks @ Vancouver Canucks,Vancouver Canucks ML,155,0.411,0.374,0.036,L,-1.0,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-03,main,Anaheim Ducks @ Vancouver Canucks,Over 7.0,110,0.562,0.457,0.105,W,1.1,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-04,main,Ottawa Senators @ Buffalo Sabres,Under 6.5,100,0.527,0.478,0.049,W,1.0,Ottawa Senators 2 - Buffalo Sabres 1
+2026-11-04,main,Chicago Blackhawks @ Florida Panthers,Chicago Blackhawks ML,220,0.331,0.299,0.032,L,-1.0,Chicago Blackhawks 3 - Florida Panthers 5
+2026-11-04,main,San Jose Sharks @ Los Angeles Kings,Under 6.0,-102,0.546,0.483,0.063,L,-1.0,San Jose Sharks 2 - Los Angeles Kings 7
+2026-11-05,main,Boston Bruins @ Pittsburgh Penguins,Boston Bruins ML,-105,0.558,0.489,0.069,W,0.952,Boston Bruins 6 - Pittsburgh Penguins 2
+2026-11-05,main,Boston Bruins @ Pittsburgh Penguins,Under 6.5,100,0.527,0.478,0.049,L,-1.0,Boston Bruins 6 - Pittsburgh Penguins 2
+2026-11-05,main,Carolina Hurricanes @ New York Islanders,New York Islanders ML,165,0.395,0.361,0.033,L,-1.0,Carolina Hurricanes 5 - New York Islanders 3
+2026-11-05,main,Carolina Hurricanes @ New York Islanders,Under 6.0,-110,0.591,0.5,0.091,L,-1.0,Carolina Hurricanes 5 - New York Islanders 3
+2026-11-05,main,Chicago Blackhawks @ Tampa Bay Lightning,Chicago Blackhawks ML,360,0.254,0.208,0.046,L,-1.0,Chicago Blackhawks 1 - Tampa Bay Lightning 4
+2026-11-05,main,Dallas Stars @ Columbus Blue Jackets,Under 5.5,100,0.532,0.478,0.053,W,1.0,Dallas Stars 1 - Columbus Blue Jackets 2 SO
+2026-11-05,main,Vegas Golden Knights @ Detroit Red Wings,Under 6.0,-110,0.553,0.5,0.053,W,0.909,Vegas Golden Knights 2 - Detroit Red Wings 1
+2026-11-05,main,Utah Mammoth @ Montreal Canadiens,Montreal Canadiens ML,100,0.536,0.478,0.057,W,1.0,Utah Mammoth 4 - Montreal Canadiens 5 OT
+2026-11-05,main,St. Louis Blues @ New Jersey Devils,St. Louis Blues ML,185,0.447,0.336,0.11,L,-1.0,St. Louis Blues 4 - New Jersey Devils 5 OT
+2026-11-05,main,Philadelphia Flyers @ New York Rangers,Under 6.0,-115,0.616,0.511,0.105,W,0.87,Philadelphia Flyers 2 - New York Rangers 3
+2026-11-05,main,Vancouver Canucks @ Winnipeg Jets,Vancouver Canucks ML,180,0.406,0.342,0.064,L,-1.0,Vancouver Canucks 2 - Winnipeg Jets 6
+2026-11-05,main,Anaheim Ducks @ Edmonton Oilers,Edmonton Oilers ML,-190,0.676,0.626,0.05,L,-1.0,Anaheim Ducks 5 - Edmonton Oilers 4
+2026-11-05,main,Anaheim Ducks @ Edmonton Oilers,Over 7.0,100,0.556,0.478,0.077,W,1.0,Anaheim Ducks 5 - Edmonton Oilers 4
+2026-11-05,main,Nashville Predators @ Colorado Avalanche,Nashville Predators ML,180,0.379,0.342,0.037,W,1.8,Nashville Predators 3 - Colorado Avalanche 2 OT
+2026-11-06,main,Columbus Blue Jackets @ Buffalo Sabres,Columbus Blue Jackets ML,140,0.444,0.398,0.046,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,main,Columbus Blue Jackets @ Buffalo Sabres,Under 6.5,-120,0.628,0.522,0.106,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,main,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,120,0.529,0.434,0.094,W,1.2,Anaheim Ducks 5 - Calgary Flames 3
+2026-11-06,main,San Jose Sharks @ Minnesota Wild,Under 6.5,-110,0.603,0.5,0.103,W,0.909,San Jose Sharks 1 - Minnesota Wild 4
+2026-11-07,main,Florida Panthers @ Washington Capitals,Washington Capitals ML,-120,0.567,0.522,0.045,W,0.833,Florida Panthers 3 - Washington Capitals 4
+2026-11-07,main,Florida Panthers @ Washington Capitals,Over 6.0,-118,0.584,0.517,0.067,W,0.847,Florida Panthers 3 - Washington Capitals 4
+2026-11-07,main,St. Louis Blues @ Nashville Predators,Nashville Predators ML,-110,0.541,0.5,0.041,W,0.909,St. Louis Blues 1 - Nashville Predators 3
+2026-11-07,main,New York Rangers @ Seattle Kraken,Seattle Kraken ML,110,0.49,0.453,0.036,L,-1.0,New York Rangers 4 - Seattle Kraken 3
+2026-11-07,main,New York Rangers @ Seattle Kraken,Under 6.5,-118,0.566,0.517,0.048,L,-1.0,New York Rangers 4 - Seattle Kraken 3
+2026-11-07,main,New Jersey Devils @ New York Islanders,New York Islanders ML,125,0.482,0.426,0.056,L,-1.0,New Jersey Devils 5 - New York Islanders 4 OT
+2026-11-07,main,New Jersey Devils @ New York Islanders,Under 6.0,-115,0.575,0.511,0.064,L,-1.0,New Jersey Devils 5 - New York Islanders 4 OT
+2026-11-07,main,Utah Mammoth @ Ottawa Senators,Ottawa Senators ML,-102,0.533,0.483,0.05,W,0.98,Utah Mammoth 2 - Ottawa Senators 4
+2026-11-07,main,San Jose Sharks @ Dallas Stars,Under 6.0,100,0.591,0.478,0.113,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,main,Tampa Bay Lightning @ Minnesota Wild,Minnesota Wild ML,118,0.576,0.437,0.139,L,-1.0,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-07,main,Tampa Bay Lightning @ Minnesota Wild,Under 6.0,105,0.507,0.468,0.04,L,-1.0,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-07,main,Detroit Red Wings @ Colorado Avalanche,Under 6.5,-115,0.542,0.511,0.031,W,0.87,Detroit Red Wings 0 - Colorado Avalanche 4
+2026-11-07,main,Pittsburgh Penguins @ Los Angeles Kings,Over 6.0,-130,0.578,0.537,0.041,W,0.769,Pittsburgh Penguins 5 - Los Angeles Kings 2
+2026-11-07,main,Vancouver Canucks @ Edmonton Oilers,Over 7.0,105,0.558,0.463,0.095,L,-1.0,Vancouver Canucks 2 - Edmonton Oilers 4
+2026-11-08,main,Florida Panthers @ Boston Bruins,Boston Bruins ML,-145,0.655,0.563,0.092,W,0.69,Florida Panthers 1 - Boston Bruins 4
+2026-11-08,main,Vegas Golden Knights @ Buffalo Sabres,Under 6.5,-118,0.6,0.517,0.083,W,0.847,Vegas Golden Knights 4 - Buffalo Sabres 1
+2026-11-08,main,Tampa Bay Lightning @ Winnipeg Jets,Tampa Bay Lightning ML,-145,0.621,0.566,0.055,L,-1.0,Tampa Bay Lightning 3 - Winnipeg Jets 4
+2026-11-08,main,Philadelphia Flyers @ Calgary Flames,Under 5.5,100,0.562,0.478,0.084,L,-1.0,Philadelphia Flyers 3 - Calgary Flames 4 OT
+2026-11-08,main,New Jersey Devils @ Toronto Maple Leafs,Toronto Maple Leafs ML,135,0.482,0.409,0.073,L,-1.0,New Jersey Devils 4 - Toronto Maple Leafs 0
+2026-11-08,main,New Jersey Devils @ Toronto Maple Leafs,Over 6.5,100,0.512,0.478,0.034,L,-1.0,New Jersey Devils 4 - Toronto Maple Leafs 0
+2026-11-08,main,Pittsburgh Penguins @ Anaheim Ducks,Over 7.0,105,0.576,0.468,0.109,P,0.0,Pittsburgh Penguins 2 - Anaheim Ducks 5
+2026-11-09,main,New York Rangers @ Edmonton Oilers,Under 6.5,-110,0.548,0.5,0.048,W,0.909,New York Rangers 1 - Edmonton Oilers 3
+2026-11-09,main,Philadelphia Flyers @ Vancouver Canucks,Under 6.5,-120,0.565,0.522,0.044,W,0.833,Philadelphia Flyers 3 - Vancouver Canucks 1
+2026-11-09,main,New York Islanders @ San Jose Sharks,Under 6.5,-115,0.624,0.511,0.113,W,0.87,New York Islanders 2 - San Jose Sharks 3 SO
+2026-11-10,main,Minnesota Wild @ Montreal Canadiens,Under 6.0,100,0.527,0.478,0.049,W,1.0,Minnesota Wild 2 - Montreal Canadiens 1 OT
+2026-11-10,main,New Jersey Devils @ Winnipeg Jets,Under 6.5,-115,0.586,0.511,0.075,W,0.87,New Jersey Devils 2 - Winnipeg Jets 4
+2026-11-10,main,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.54,0.489,0.051,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT
+2026-11-10,main,Florida Panthers @ Columbus Blue Jackets,Columbus Blue Jackets ML,105,0.525,0.468,0.057,L,-1.0,Florida Panthers 4 - Columbus Blue Jackets 1
+2026-11-10,main,Florida Panthers @ Columbus Blue Jackets,Under 6.0,-115,0.552,0.511,0.041,W,0.87,Florida Panthers 4 - Columbus Blue Jackets 1
+2026-11-10,main,Detroit Red Wings @ St. Louis Blues,Under 6.0,-120,0.581,0.522,0.059,W,0.833,Detroit Red Wings 2 - St. Louis Blues 3
+2026-11-10,main,Nashville Predators @ Los Angeles Kings,Nashville Predators ML,110,0.529,0.457,0.072,W,1.1,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-10,main,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.547,0.478,0.069,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-02,v3,Vegas Golden Knights @ Boston Bruins,Boston Bruins ML,100,0.544,0.478,0.065,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
+2026-11-02,v3,Vegas Golden Knights @ Boston Bruins,Under 6.0,100,0.517,0.478,0.039,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
+2026-11-02,v3,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,154,0.458,0.378,0.081,W,1.54,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,v3,Detroit Red Wings @ Florida Panthers,Under 6.0,-118,0.55,0.517,0.033,L,-1.0,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,v3,Calgary Flames @ San Jose Sharks,San Jose Sharks ML,-120,0.57,0.522,0.048,L,-1.0,Calgary Flames 2 - San Jose Sharks 1
+2026-11-02,v3,Calgary Flames @ San Jose Sharks,Under 6.5,-120,0.568,0.522,0.047,W,0.833,Calgary Flames 2 - San Jose Sharks 1
+2026-11-03,v3,Colorado Avalanche @ Columbus Blue Jackets,Colorado Avalanche ML,-125,0.596,0.532,0.064,L,-1.0,Colorado Avalanche 2 - Columbus Blue Jackets 7
+2026-11-03,v3,Detroit Red Wings @ Tampa Bay Lightning,Detroit Red Wings ML,230,0.392,0.29,0.101,L,-1.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,v3,Detroit Red Wings @ Tampa Bay Lightning,Over 6.0,-120,0.583,0.522,0.061,P,0.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,v3,Minnesota Wild @ Philadelphia Flyers,Under 6.0,-115,0.587,0.511,0.076,P,0.0,Minnesota Wild 4 - Philadelphia Flyers 2
+2026-11-03,v3,Winnipeg Jets @ Montreal Canadiens,Montreal Canadiens ML,-175,0.646,0.609,0.037,L,-1.0,Winnipeg Jets 5 - Montreal Canadiens 4 OT
+2026-11-03,v3,St. Louis Blues @ New York Rangers,Under 6.0,-110,0.547,0.5,0.047,W,0.909,St. Louis Blues 1 - New York Rangers 3
+2026-11-03,v3,Vegas Golden Knights @ Pittsburgh Penguins,Under 6.5,100,0.533,0.478,0.055,W,1.0,Vegas Golden Knights 3 - Pittsburgh Penguins 2
+2026-11-03,v3,Edmonton Oilers @ New Jersey Devils,Edmonton Oilers ML,135,0.458,0.409,0.049,L,-1.0,Edmonton Oilers 3 - New Jersey Devils 4 SO
+2026-11-03,v3,Anaheim Ducks @ Vancouver Canucks,Over 7.0,110,0.532,0.457,0.075,W,1.1,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-04,v3,Ottawa Senators @ Buffalo Sabres,Under 6.5,100,0.53,0.478,0.052,W,1.0,Ottawa Senators 2 - Buffalo Sabres 1
+2026-11-04,v3,Chicago Blackhawks @ Florida Panthers,Chicago Blackhawks ML,220,0.344,0.299,0.046,L,-1.0,Chicago Blackhawks 3 - Florida Panthers 5
+2026-11-05,v3,Boston Bruins @ Pittsburgh Penguins,Under 6.5,100,0.526,0.478,0.048,L,-1.0,Boston Bruins 6 - Pittsburgh Penguins 2
+2026-11-05,v3,Carolina Hurricanes @ New York Islanders,New York Islanders ML,165,0.422,0.361,0.061,L,-1.0,Carolina Hurricanes 5 - New York Islanders 3
+2026-11-05,v3,Chicago Blackhawks @ Tampa Bay Lightning,Chicago Blackhawks ML,360,0.266,0.208,0.058,L,-1.0,Chicago Blackhawks 1 - Tampa Bay Lightning 4
+2026-11-05,v3,Dallas Stars @ Columbus Blue Jackets,Columbus Blue Jackets ML,110,0.497,0.457,0.04,W,1.1,Dallas Stars 1 - Columbus Blue Jackets 2 SO
+2026-11-05,v3,Vegas Golden Knights @ Detroit Red Wings,Detroit Red Wings ML,120,0.502,0.434,0.068,L,-1.0,Vegas Golden Knights 2 - Detroit Red Wings 1
+2026-11-05,v3,Vegas Golden Knights @ Detroit Red Wings,Under 6.0,-110,0.569,0.5,0.069,W,0.909,Vegas Golden Knights 2 - Detroit Red Wings 1
+2026-11-05,v3,St. Louis Blues @ New Jersey Devils,St. Louis Blues ML,185,0.382,0.336,0.046,L,-1.0,St. Louis Blues 4 - New Jersey Devils 5 OT
+2026-11-05,v3,Philadelphia Flyers @ New York Rangers,Under 6.0,-115,0.583,0.511,0.072,W,0.87,Philadelphia Flyers 2 - New York Rangers 3
+2026-11-05,v3,Vancouver Canucks @ Winnipeg Jets,Vancouver Canucks ML,180,0.391,0.342,0.049,L,-1.0,Vancouver Canucks 2 - Winnipeg Jets 6
+2026-11-05,v3,Vancouver Canucks @ Winnipeg Jets,Under 6.5,-115,0.543,0.511,0.032,L,-1.0,Vancouver Canucks 2 - Winnipeg Jets 6
+2026-11-05,v3,Nashville Predators @ Colorado Avalanche,Nashville Predators ML,180,0.383,0.342,0.041,W,1.8,Nashville Predators 3 - Colorado Avalanche 2 OT
+2026-11-06,v3,Columbus Blue Jackets @ Buffalo Sabres,Columbus Blue Jackets ML,140,0.452,0.398,0.054,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,v3,Columbus Blue Jackets @ Buffalo Sabres,Under 6.5,-120,0.583,0.522,0.061,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,v3,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,120,0.534,0.434,0.099,W,1.2,Anaheim Ducks 5 - Calgary Flames 3
+2026-11-06,v3,San Jose Sharks @ Minnesota Wild,Under 6.5,-110,0.555,0.5,0.055,W,0.909,San Jose Sharks 1 - Minnesota Wild 4
+2026-11-07,v3,Florida Panthers @ Washington Capitals,Over 6.0,-118,0.588,0.517,0.071,W,0.847,Florida Panthers 3 - Washington Capitals 4
+2026-11-07,v3,St. Louis Blues @ Nashville Predators,Nashville Predators ML,-110,0.537,0.5,0.037,W,0.909,St. Louis Blues 1 - Nashville Predators 3
+2026-11-07,v3,St. Louis Blues @ Nashville Predators,Under 6.0,-115,0.545,0.511,0.034,W,0.87,St. Louis Blues 1 - Nashville Predators 3
+2026-11-07,v3,New York Rangers @ Seattle Kraken,Under 6.5,-118,0.575,0.517,0.058,L,-1.0,New York Rangers 4 - Seattle Kraken 3
+2026-11-07,v3,New Jersey Devils @ New York Islanders,New York Islanders ML,125,0.465,0.426,0.04,L,-1.0,New Jersey Devils 5 - New York Islanders 4 OT
+2026-11-07,v3,Utah Mammoth @ Ottawa Senators,Ottawa Senators ML,-102,0.567,0.483,0.084,W,0.98,Utah Mammoth 2 - Ottawa Senators 4
+2026-11-07,v3,Utah Mammoth @ Ottawa Senators,Under 6.5,-105,0.546,0.489,0.057,W,0.952,Utah Mammoth 2 - Ottawa Senators 4
+2026-11-07,v3,San Jose Sharks @ Dallas Stars,San Jose Sharks ML,240,0.325,0.282,0.043,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,v3,San Jose Sharks @ Dallas Stars,Under 6.0,100,0.576,0.478,0.097,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,v3,Tampa Bay Lightning @ Minnesota Wild,Minnesota Wild ML,118,0.544,0.437,0.107,L,-1.0,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-07,v3,Tampa Bay Lightning @ Minnesota Wild,Over 6.0,-125,0.573,0.532,0.04,W,0.8,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-07,v3,Detroit Red Wings @ Colorado Avalanche,Detroit Red Wings ML,185,0.396,0.336,0.059,L,-1.0,Detroit Red Wings 0 - Colorado Avalanche 4
+2026-11-07,v3,Detroit Red Wings @ Colorado Avalanche,Under 6.5,-115,0.567,0.511,0.056,W,0.87,Detroit Red Wings 0 - Colorado Avalanche 4
+2026-11-07,v3,Pittsburgh Penguins @ Los Angeles Kings,Over 6.0,-130,0.579,0.537,0.042,W,0.769,Pittsburgh Penguins 5 - Los Angeles Kings 2
+2026-11-08,v3,Florida Panthers @ Boston Bruins,Boston Bruins ML,-145,0.597,0.563,0.034,W,0.69,Florida Panthers 1 - Boston Bruins 4
+2026-11-08,v3,Vegas Golden Knights @ Buffalo Sabres,Under 6.5,-118,0.586,0.517,0.068,W,0.847,Vegas Golden Knights 4 - Buffalo Sabres 1
+2026-11-08,v3,Philadelphia Flyers @ Calgary Flames,Calgary Flames ML,100,0.513,0.478,0.035,W,1.0,Philadelphia Flyers 3 - Calgary Flames 4 OT
+2026-11-08,v3,Philadelphia Flyers @ Calgary Flames,Under 5.5,100,0.53,0.478,0.052,L,-1.0,Philadelphia Flyers 3 - Calgary Flames 4 OT
+2026-11-08,v3,Pittsburgh Penguins @ Anaheim Ducks,Over 7.0,105,0.53,0.468,0.063,P,0.0,Pittsburgh Penguins 2 - Anaheim Ducks 5
+2026-11-09,v3,New York Rangers @ Edmonton Oilers,Under 6.5,-110,0.569,0.5,0.069,W,0.909,New York Rangers 1 - Edmonton Oilers 3
+2026-11-09,v3,Philadelphia Flyers @ Vancouver Canucks,Under 6.5,-120,0.611,0.522,0.089,W,0.833,Philadelphia Flyers 3 - Vancouver Canucks 1
+2026-11-09,v3,New York Islanders @ San Jose Sharks,San Jose Sharks ML,120,0.466,0.434,0.032,W,1.2,New York Islanders 2 - San Jose Sharks 3 SO
+2026-11-09,v3,New York Islanders @ San Jose Sharks,Under 6.5,-115,0.569,0.511,0.058,W,0.87,New York Islanders 2 - San Jose Sharks 3 SO
+2026-11-10,v3,Colorado Avalanche @ Toronto Maple Leafs,Under 6.5,105,0.501,0.468,0.033,L,-1.0,Colorado Avalanche 6 - Toronto Maple Leafs 3
+2026-11-10,v3,Minnesota Wild @ Montreal Canadiens,Under 6.0,100,0.515,0.478,0.036,W,1.0,Minnesota Wild 2 - Montreal Canadiens 1 OT
+2026-11-10,v3,New Jersey Devils @ Winnipeg Jets,Under 6.5,-115,0.558,0.511,0.047,W,0.87,New Jersey Devils 2 - Winnipeg Jets 4
+2026-11-10,v3,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.549,0.489,0.06,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT
+2026-11-10,v3,Florida Panthers @ Columbus Blue Jackets,Columbus Blue Jackets ML,105,0.525,0.468,0.057,L,-1.0,Florida Panthers 4 - Columbus Blue Jackets 1
+2026-11-10,v3,Nashville Predators @ Los Angeles Kings,Nashville Predators ML,110,0.496,0.457,0.039,W,1.1,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-10,v3,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.535,0.478,0.057,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
+2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
+2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
+2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Over 7.0,115,0.486,0.447,0.039,P,0.0,Edmonton Oilers 5 - Anaheim Ducks 2
+2026-10-08,xg,Dallas Stars @ Buffalo Sabres,Buffalo Sabres ML,105,0.526,0.468,0.059,L,-1.0,Dallas Stars 4 - Buffalo Sabres 0
+2026-10-08,xg,Dallas Stars @ Buffalo Sabres,Under 6.0,-105,0.53,0.489,0.04,W,0.952,Dallas Stars 4 - Buffalo Sabres 0
+2026-10-08,xg,Vancouver Canucks @ Carolina Hurricanes,Vancouver Canucks ML,300,0.284,0.241,0.044,L,-1.0,Vancouver Canucks 2 - Carolina Hurricanes 7
+2026-10-08,xg,Vancouver Canucks @ Carolina Hurricanes,Over 6.5,-102,0.524,0.483,0.041,W,0.98,Vancouver Canucks 2 - Carolina Hurricanes 7
+2026-10-08,xg,Philadelphia Flyers @ Ottawa Senators,Ottawa Senators ML,-185,0.658,0.619,0.039,W,0.541,Philadelphia Flyers 1 - Ottawa Senators 2
+2026-10-08,xg,Philadelphia Flyers @ Ottawa Senators,Over 5.5,-115,0.543,0.511,0.033,L,-1.0,Philadelphia Flyers 1 - Ottawa Senators 2
+2026-10-08,xg,Colorado Avalanche @ Calgary Flames,Colorado Avalanche ML,-235,0.708,0.674,0.034,W,0.426,Colorado Avalanche 7 - Calgary Flames 3
+2026-10-08,xg,Toronto Maple Leafs @ Vegas Golden Knights,Vegas Golden Knights ML,-170,0.677,0.602,0.075,W,0.588,Toronto Maple Leafs 3 - Vegas Golden Knights 4 SO
+2026-10-08,xg,Toronto Maple Leafs @ Vegas Golden Knights,Under 6.5,-105,0.534,0.489,0.045,L,-1.0,Toronto Maple Leafs 3 - Vegas Golden Knights 4 SO
+2026-10-09,xg,Pittsburgh Penguins @ Columbus Blue Jackets,Under 6.5,100,0.509,0.478,0.03,W,1.0,Pittsburgh Penguins 2 - Columbus Blue Jackets 3 SO
+2026-10-09,xg,Seattle Kraken @ Detroit Red Wings,Under 6.0,-105,0.544,0.489,0.055,L,-1.0,Seattle Kraken 6 - Detroit Red Wings 3
+2026-10-09,xg,New York Rangers @ Washington Capitals,New York Rangers ML,118,0.472,0.437,0.035,L,-1.0,New York Rangers 1 - Washington Capitals 3
+2026-10-09,xg,New York Rangers @ Washington Capitals,Over 5.5,-120,0.573,0.522,0.051,L,-1.0,New York Rangers 1 - Washington Capitals 3
+2026-10-10,xg,Vancouver Canucks @ New Jersey Devils,Vancouver Canucks ML,230,0.381,0.29,0.09,L,-1.0,Vancouver Canucks 1 - New Jersey Devils 4
+2026-10-10,xg,Minnesota Wild @ Florida Panthers,Minnesota Wild ML,110,0.525,0.457,0.067,W,1.1,Minnesota Wild 4 - Florida Panthers 1
+2026-10-10,xg,Carolina Hurricanes @ Chicago Blackhawks,Over 6.0,-102,0.536,0.483,0.054,W,0.98,Carolina Hurricanes 5 - Chicago Blackhawks 2
+2026-10-10,xg,Toronto Maple Leafs @ Colorado Avalanche,Colorado Avalanche ML,-220,0.721,0.658,0.063,L,-1.0,Toronto Maple Leafs 6 - Colorado Avalanche 3
+2026-10-10,xg,Columbus Blue Jackets @ St. Louis Blues,Columbus Blue Jackets ML,105,0.505,0.468,0.037,L,-1.0,Columbus Blue Jackets 3 - St. Louis Blues 5
+2026-10-10,xg,Columbus Blue Jackets @ St. Louis Blues,Under 6.0,-110,0.572,0.5,0.072,L,-1.0,Columbus Blue Jackets 3 - St. Louis Blues 5
+2026-10-10,xg,Dallas Stars @ Pittsburgh Penguins,Pittsburgh Penguins ML,150,0.507,0.381,0.126,W,1.5,Dallas Stars 1 - Pittsburgh Penguins 2 SO
+2026-10-10,xg,Dallas Stars @ Pittsburgh Penguins,Under 6.5,-118,0.563,0.517,0.045,W,0.847,Dallas Stars 1 - Pittsburgh Penguins 2 SO
+2026-10-10,xg,Detroit Red Wings @ Montreal Canadiens,Detroit Red Wings ML,165,0.446,0.361,0.084,L,-1.0,Detroit Red Wings 0 - Montreal Canadiens 1 SO
+2026-10-10,xg,Tampa Bay Lightning @ New York Islanders,New York Islanders ML,145,0.438,0.391,0.047,L,-1.0,Tampa Bay Lightning 5 - New York Islanders 3
+2026-10-10,xg,Tampa Bay Lightning @ New York Islanders,Over 5.5,-115,0.576,0.511,0.065,W,0.87,Tampa Bay Lightning 5 - New York Islanders 3
+2026-10-10,xg,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,-120,0.608,0.522,0.086,W,0.833,Anaheim Ducks 4 - Calgary Flames 2
+2026-10-10,xg,Los Angeles Kings @ Vegas Golden Knights,Under 6.0,-102,0.529,0.483,0.047,W,0.98,Los Angeles Kings 1 - Vegas Golden Knights 2 OT
+2026-10-11,xg,Seattle Kraken @ Washington Capitals,Seattle Kraken ML,180,0.395,0.342,0.053,W,1.8,Seattle Kraken 5 - Washington Capitals 3
+2026-10-11,xg,Seattle Kraken @ Washington Capitals,Under 6.5,-120,0.561,0.522,0.039,L,-1.0,Seattle Kraken 5 - Washington Capitals 3
+2026-10-11,xg,Vancouver Canucks @ New York Rangers,Vancouver Canucks ML,230,0.332,0.29,0.042,L,-1.0,Vancouver Canucks 2 - New York Rangers 6
+2026-10-12,xg,Florida Panthers @ Buffalo Sabres,Buffalo Sabres ML,-115,0.555,0.511,0.044,W,0.87,Florida Panthers 3 - Buffalo Sabres 5
+2026-10-12,xg,Ottawa Senators @ New Jersey Devils,Ottawa Senators ML,-102,0.549,0.483,0.066,W,0.98,Ottawa Senators 4 - New Jersey Devils 1
+2026-10-12,xg,Vegas Golden Knights @ Minnesota Wild,Under 6.0,-110,0.546,0.5,0.046,P,0.0,Vegas Golden Knights 2 - Minnesota Wild 4
+2026-10-13,xg,New Jersey Devils @ Detroit Red Wings,Detroit Red Wings ML,-110,0.534,0.5,0.034,L,-1.0,New Jersey Devils 5 - Detroit Red Wings 4 OT
+2026-10-13,xg,Buffalo Sabres @ Montreal Canadiens,Buffalo Sabres ML,135,0.486,0.409,0.077,L,-1.0,Buffalo Sabres 3 - Montreal Canadiens 4 SO
+2026-10-13,xg,Washington Capitals @ Carolina Hurricanes,Carolina Hurricanes ML,-150,0.616,0.574,0.042,W,0.667,Washington Capitals 2 - Carolina Hurricanes 4
+2026-10-13,xg,Washington Capitals @ Carolina Hurricanes,Over 6.0,-118,0.581,0.517,0.063,P,0.0,Washington Capitals 2 - Carolina Hurricanes 4
+2026-10-13,xg,Seattle Kraken @ Philadelphia Flyers,Seattle Kraken ML,-110,0.531,0.5,0.031,W,0.909,Seattle Kraken 3 - Philadelphia Flyers 2 SO
+2026-10-13,xg,Seattle Kraken @ Philadelphia Flyers,Under 6.0,-115,0.57,0.511,0.059,W,0.87,Seattle Kraken 3 - Philadelphia Flyers 2 SO
+2026-10-13,xg,Tampa Bay Lightning @ New York Rangers,New York Rangers ML,135,0.484,0.409,0.075,W,1.35,Tampa Bay Lightning 1 - New York Rangers 4
+2026-10-13,xg,St. Louis Blues @ Ottawa Senators,Ottawa Senators ML,-105,0.603,0.489,0.114,L,-1.0,St. Louis Blues 7 - Ottawa Senators 2
+2026-10-13,xg,Vancouver Canucks @ New York Islanders,Over 6.0,-115,0.558,0.511,0.047,L,-1.0,Vancouver Canucks 2 - New York Islanders 3
+2026-10-13,xg,Pittsburgh Penguins @ Chicago Blackhawks,Pittsburgh Penguins ML,-160,0.635,0.591,0.044,L,-1.0,Pittsburgh Penguins 3 - Chicago Blackhawks 5
+2026-10-13,xg,Minnesota Wild @ Winnipeg Jets,Minnesota Wild ML,-110,0.582,0.5,0.082,L,-1.0,Minnesota Wild 2 - Winnipeg Jets 5
+2026-10-13,xg,Minnesota Wild @ Winnipeg Jets,Under 6.0,100,0.536,0.478,0.058,L,-1.0,Minnesota Wild 2 - Winnipeg Jets 5
+2026-10-13,xg,Colorado Avalanche @ Dallas Stars,Under 6.0,-115,0.552,0.511,0.041,W,0.87,Colorado Avalanche 3 - Dallas Stars 2
+2026-10-13,xg,Vegas Golden Knights @ Nashville Predators,Under 6.0,100,0.534,0.478,0.056,L,-1.0,Vegas Golden Knights 5 - Nashville Predators 2
+2026-10-13,xg,Toronto Maple Leafs @ Utah Mammoth,Utah Mammoth ML,-160,0.653,0.591,0.062,W,0.625,Toronto Maple Leafs 4 - Utah Mammoth 5
+2026-10-13,xg,Calgary Flames @ Anaheim Ducks,Anaheim Ducks ML,-175,0.668,0.609,0.059,L,-1.0,Calgary Flames 4 - Anaheim Ducks 2
+2026-10-13,xg,Calgary Flames @ Anaheim Ducks,Over 6.0,-120,0.557,0.522,0.035,P,0.0,Calgary Flames 4 - Anaheim Ducks 2
+2026-10-13,xg,Boston Bruins @ San Jose Sharks,Boston Bruins ML,-125,0.578,0.532,0.045,W,0.8,Boston Bruins 6 - San Jose Sharks 3
+2026-10-14,xg,Montreal Canadiens @ Washington Capitals,Under 6.5,-102,0.513,0.483,0.03,L,-1.0,Montreal Canadiens 4 - Washington Capitals 5
+2026-10-14,xg,Dallas Stars @ Colorado Avalanche,Under 6.0,-110,0.555,0.5,0.055,W,0.909,Dallas Stars 3 - Colorado Avalanche 2 SO
+2026-10-15,xg,Buffalo Sabres @ Toronto Maple Leafs,Buffalo Sabres ML,-102,0.539,0.483,0.056,W,0.98,Buffalo Sabres 5 - Toronto Maple Leafs 4 OT
+2026-10-15,xg,Buffalo Sabres @ Toronto Maple Leafs,Under 6.5,110,0.504,0.453,0.051,L,-1.0,Buffalo Sabres 5 - Toronto Maple Leafs 4 OT
+2026-10-15,xg,Vancouver Canucks @ Florida Panthers,Vancouver Canucks ML,230,0.356,0.289,0.067,L,-1.0,Vancouver Canucks 2 - Florida Panthers 3 OT
+2026-10-15,xg,Vancouver Canucks @ Florida Panthers,Over 6.0,-115,0.584,0.511,0.073,L,-1.0,Vancouver Canucks 2 - Florida Panthers 3 OT
+2026-10-15,xg,New York Rangers @ New Jersey Devils,New York Rangers ML,110,0.536,0.457,0.079,L,-1.0,New York Rangers 1 - New Jersey Devils 7
+2026-10-15,xg,New York Rangers @ New Jersey Devils,Under 6.0,-102,0.523,0.483,0.04,L,-1.0,New York Rangers 1 - New Jersey Devils 7
+2026-10-15,xg,New York Islanders @ Ottawa Senators,Over 5.5,-110,0.547,0.5,0.047,L,-1.0,New York Islanders 1 - Ottawa Senators 2 SO
+2026-10-15,xg,Seattle Kraken @ Tampa Bay Lightning,Seattle Kraken ML,220,0.397,0.299,0.098,L,-1.0,Seattle Kraken 3 - Tampa Bay Lightning 4 OT
+2026-10-15,xg,Winnipeg Jets @ Chicago Blackhawks,Winnipeg Jets ML,-125,0.567,0.532,0.034,L,-1.0,Winnipeg Jets 3 - Chicago Blackhawks 4 OT
+2026-10-15,xg,Winnipeg Jets @ Chicago Blackhawks,Under 6.0,-102,0.539,0.483,0.057,L,-1.0,Winnipeg Jets 3 - Chicago Blackhawks 4 OT
+2026-10-15,xg,St. Louis Blues @ Minnesota Wild,Under 6.0,-110,0.534,0.5,0.034,L,-1.0,St. Louis Blues 4 - Minnesota Wild 5
+2026-10-15,xg,San Jose Sharks @ Nashville Predators,Nashville Predators ML,-135,0.577,0.547,0.03,L,-1.0,San Jose Sharks 3 - Nashville Predators 2 SO
+2026-10-15,xg,San Jose Sharks @ Nashville Predators,Under 6.5,-120,0.565,0.522,0.043,W,0.833,San Jose Sharks 3 - Nashville Predators 2 SO
+2026-10-15,xg,Utah Mammoth @ Edmonton Oilers,Edmonton Oilers ML,-105,0.521,0.489,0.032,L,-1.0,Utah Mammoth 4 - Edmonton Oilers 2
+2026-10-15,xg,Utah Mammoth @ Edmonton Oilers,Under 6.5,100,0.517,0.478,0.038,W,1.0,Utah Mammoth 4 - Edmonton Oilers 2
+2026-10-15,xg,Calgary Flames @ Vegas Golden Knights,Under 6.5,-120,0.596,0.522,0.074,L,-1.0,Calgary Flames 2 - Vegas Golden Knights 6
+2026-10-16,xg,Pittsburgh Penguins @ Colorado Avalanche,Pittsburgh Penguins ML,170,0.384,0.353,0.03,L,-1.0,Pittsburgh Penguins 2 - Colorado Avalanche 5
+2026-10-17,xg,New Jersey Devils @ Washington Capitals,Over 6.0,-115,0.571,0.511,0.06,P,0.0,New Jersey Devils 2 - Washington Capitals 4
+2026-10-17,xg,Vancouver Canucks @ Tampa Bay Lightning,Vancouver Canucks ML,300,0.289,0.241,0.049,L,-1.0,Vancouver Canucks 2 - Tampa Bay Lightning 4
+2026-10-17,xg,Seattle Kraken @ Florida Panthers,Seattle Kraken ML,155,0.461,0.374,0.087,L,-1.0,Seattle Kraken 3 - Florida Panthers 8
+2026-10-17,xg,Buffalo Sabres @ Montreal Canadiens,Buffalo Sabres ML,118,0.489,0.437,0.052,L,-1.0,Buffalo Sabres 3 - Montreal Canadiens 4 OT
+2026-10-17,xg,Dallas Stars @ Chicago Blackhawks,Chicago Blackhawks ML,180,0.38,0.342,0.038,L,-1.0,Dallas Stars 4 - Chicago Blackhawks 0
+2026-10-17,xg,Dallas Stars @ Chicago Blackhawks,Under 6.0,-110,0.613,0.5,0.113,W,0.909,Dallas Stars 4 - Chicago Blackhawks 0
+2026-10-17,xg,New York Rangers @ Columbus Blue Jackets,New York Rangers ML,105,0.512,0.463,0.049,L,-1.0,New York Rangers 0 - Columbus Blue Jackets 1 OT
+2026-10-17,xg,New York Rangers @ Columbus Blue Jackets,Under 6.0,-102,0.529,0.483,0.046,W,0.98,New York Rangers 0 - Columbus Blue Jackets 1 OT
+2026-10-17,xg,San Jose Sharks @ Detroit Red Wings,Under 6.5,-120,0.568,0.522,0.047,L,-1.0,San Jose Sharks 3 - Detroit Red Wings 4 SO
+2026-10-17,xg,New York Islanders @ Toronto Maple Leafs,New York Islanders ML,110,0.5,0.453,0.047,W,1.1,New York Islanders 4 - Toronto Maple Leafs 1
+2026-10-17,xg,Boston Bruins @ Los Angeles Kings,Boston Bruins ML,115,0.544,0.444,0.1,W,1.15,Boston Bruins 4 - Los Angeles Kings 1
+2026-10-17,xg,Boston Bruins @ Los Angeles Kings,Under 6.0,-115,0.549,0.511,0.038,W,0.87,Boston Bruins 4 - Los Angeles Kings 1
+2026-10-17,xg,Edmonton Oilers @ Utah Mammoth,Under 6.5,105,0.532,0.468,0.064,L,-1.0,Edmonton Oilers 6 - Utah Mammoth 2
+2026-10-17,xg,Pittsburgh Penguins @ Vegas Golden Knights,Pittsburgh Penguins ML,170,0.407,0.353,0.054,L,-1.0,Pittsburgh Penguins 2 - Vegas Golden Knights 6
+2026-10-18,xg,Carolina Hurricanes @ Calgary Flames,Carolina Hurricanes ML,-220,0.698,0.658,0.04,L,-1.0,Carolina Hurricanes 2 - Calgary Flames 3
+2026-10-19,xg,Anaheim Ducks @ New York Rangers,Under 6.5,-110,0.563,0.5,0.063,L,-1.0,Anaheim Ducks 2 - New York Rangers 5
+2026-10-19,xg,Colorado Avalanche @ Philadelphia Flyers,Under 6.0,-105,0.549,0.489,0.06,W,0.952,Colorado Avalanche 2 - Philadelphia Flyers 3
+2026-10-19,xg,San Jose Sharks @ Toronto Maple Leafs,Under 6.5,110,0.494,0.457,0.036,W,1.1,San Jose Sharks 1 - Toronto Maple Leafs 3
+2026-10-19,xg,Pittsburgh Penguins @ Utah Mammoth,Pittsburgh Penguins ML,155,0.415,0.374,0.04,L,-1.0,Pittsburgh Penguins 4 - Utah Mammoth 5
+2026-10-20,xg,Anaheim Ducks @ New York Islanders,Anaheim Ducks ML,130,0.467,0.417,0.05,L,-1.0,Anaheim Ducks 2 - New York Islanders 3
+2026-10-20,xg,Anaheim Ducks @ New York Islanders,Over 6.0,-102,0.531,0.483,0.048,L,-1.0,Anaheim Ducks 2 - New York Islanders 3
+2026-10-20,xg,Colorado Avalanche @ New Jersey Devils,Colorado Avalanche ML,-102,0.565,0.483,0.083,L,-1.0,Colorado Avalanche 3 - New Jersey Devils 4
+2026-10-20,xg,Toronto Maple Leafs @ Columbus Blue Jackets,Toronto Maple Leafs ML,135,0.441,0.409,0.033,W,1.35,Toronto Maple Leafs 6 - Columbus Blue Jackets 2
+2026-10-20,xg,Toronto Maple Leafs @ Columbus Blue Jackets,Under 6.5,-115,0.545,0.511,0.034,L,-1.0,Toronto Maple Leafs 6 - Columbus Blue Jackets 2
+2026-10-20,xg,Los Angeles Kings @ Washington Capitals,Over 5.5,-115,0.57,0.511,0.059,W,0.87,Los Angeles Kings 5 - Washington Capitals 2
+2026-10-20,xg,San Jose Sharks @ Montreal Canadiens,San Jose Sharks ML,180,0.393,0.342,0.051,W,1.8,San Jose Sharks 4 - Montreal Canadiens 3 OT
+2026-10-20,xg,San Jose Sharks @ Montreal Canadiens,Under 6.5,105,0.5,0.468,0.032,L,-1.0,San Jose Sharks 4 - Montreal Canadiens 3 OT
+2026-10-20,xg,Boston Bruins @ Dallas Stars,Boston Bruins ML,140,0.457,0.401,0.056,L,-1.0,Boston Bruins 2 - Dallas Stars 3 OT
+2026-10-20,xg,Boston Bruins @ Dallas Stars,Under 5.5,100,0.514,0.478,0.036,W,1.0,Boston Bruins 2 - Dallas Stars 3 OT
+2026-10-20,xg,Minnesota Wild @ Edmonton Oilers,Minnesota Wild ML,115,0.489,0.447,0.042,L,-1.0,Minnesota Wild 3 - Edmonton Oilers 4 OT
+2026-10-20,xg,Minnesota Wild @ Edmonton Oilers,Under 6.5,-120,0.557,0.522,0.035,L,-1.0,Minnesota Wild 3 - Edmonton Oilers 4 OT
+2026-10-20,xg,Detroit Red Wings @ Seattle Kraken,Seattle Kraken ML,-105,0.529,0.489,0.04,W,0.952,Detroit Red Wings 3 - Seattle Kraken 4 SO
+2026-10-20,xg,Detroit Red Wings @ Seattle Kraken,Under 6.5,-115,0.568,0.511,0.057,L,-1.0,Detroit Red Wings 3 - Seattle Kraken 4 SO
+2026-10-20,xg,Tampa Bay Lightning @ Vegas Golden Knights,Vegas Golden Knights ML,-110,0.539,0.5,0.039,L,-1.0,Tampa Bay Lightning 6 - Vegas Golden Knights 2
+2026-10-21,xg,Philadelphia Flyers @ Buffalo Sabres,Philadelphia Flyers ML,165,0.409,0.361,0.047,W,1.65,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,xg,Philadelphia Flyers @ Buffalo Sabres,Under 6.0,-110,0.57,0.5,0.07,W,0.909,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,xg,Florida Panthers @ Ottawa Senators,Ottawa Senators ML,-110,0.559,0.5,0.059,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-21,xg,Florida Panthers @ Ottawa Senators,Over 5.5,-110,0.564,0.5,0.064,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-22,xg,Anaheim Ducks @ New Jersey Devils,Anaheim Ducks ML,180,0.408,0.342,0.067,L,-1.0,Anaheim Ducks 1 - New Jersey Devils 4
+2026-10-22,xg,Anaheim Ducks @ New Jersey Devils,Under 6.5,110,0.496,0.457,0.038,W,1.1,Anaheim Ducks 1 - New Jersey Devils 4
+2026-10-22,xg,Florida Panthers @ Pittsburgh Penguins,Pittsburgh Penguins ML,-105,0.53,0.489,0.041,W,0.952,Florida Panthers 0 - Pittsburgh Penguins 4
+2026-10-22,xg,New York Rangers @ Toronto Maple Leafs,New York Rangers ML,-110,0.538,0.5,0.038,L,-1.0,New York Rangers 4 - Toronto Maple Leafs 5
+2026-10-22,xg,New York Rangers @ Toronto Maple Leafs,Under 6.5,-115,0.558,0.511,0.047,L,-1.0,New York Rangers 4 - Toronto Maple Leafs 5
+2026-10-22,xg,San Jose Sharks @ Ottawa Senators,Ottawa Senators ML,-135,0.645,0.553,0.092,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,xg,San Jose Sharks @ Ottawa Senators,Under 6.5,-120,0.592,0.522,0.07,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,xg,Los Angeles Kings @ New York Islanders,New York Islanders ML,-110,0.554,0.5,0.054,L,-1.0,Los Angeles Kings 3 - New York Islanders 2 OT
+2026-10-22,xg,Winnipeg Jets @ Dallas Stars,Under 5.5,-110,0.538,0.5,0.038,W,0.909,Winnipeg Jets 2 - Dallas Stars 3 OT
+2026-10-22,xg,Carolina Hurricanes @ Edmonton Oilers,Under 6.5,-102,0.514,0.483,0.031,L,-1.0,Carolina Hurricanes 5 - Edmonton Oilers 6 SO
+2026-10-22,xg,Utah Mammoth @ Seattle Kraken,Seattle Kraken ML,145,0.43,0.391,0.039,W,1.45,Utah Mammoth 3 - Seattle Kraken 5
+2026-10-22,xg,Utah Mammoth @ Seattle Kraken,Under 6.5,-110,0.534,0.5,0.034,L,-1.0,Utah Mammoth 3 - Seattle Kraken 5
+2026-10-23,xg,Montreal Canadiens @ Chicago Blackhawks,Chicago Blackhawks ML,140,0.432,0.398,0.034,L,-1.0,Montreal Canadiens 4 - Chicago Blackhawks 1
+2026-10-23,xg,Tampa Bay Lightning @ Colorado Avalanche,Colorado Avalanche ML,-120,0.559,0.522,0.037,W,0.833,Tampa Bay Lightning 3 - Colorado Avalanche 6
+2026-10-24,xg,Anaheim Ducks @ Philadelphia Flyers,Under 6.0,-115,0.545,0.511,0.035,L,-1.0,Anaheim Ducks 5 - Philadelphia Flyers 4
+2026-10-24,xg,Los Angeles Kings @ New Jersey Devils,Los Angeles Kings ML,165,0.409,0.361,0.048,L,-1.0,Los Angeles Kings 1 - New Jersey Devils 3
+2026-10-24,xg,New York Rangers @ Ottawa Senators,Under 6.0,-105,0.573,0.489,0.084,L,-1.0,New York Rangers 4 - Ottawa Senators 7
+2026-10-24,xg,Vegas Golden Knights @ Columbus Blue Jackets,Under 6.0,100,0.513,0.478,0.034,W,1.0,Vegas Golden Knights 1 - Columbus Blue Jackets 2 OT
+2026-10-24,xg,Tampa Bay Lightning @ Utah Mammoth,Tampa Bay Lightning ML,120,0.49,0.434,0.056,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-24,xg,Tampa Bay Lightning @ Utah Mammoth,Under 6.5,-102,0.533,0.483,0.051,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-24,xg,Detroit Red Wings @ Calgary Flames,Under 6.0,-110,0.54,0.5,0.04,W,0.909,Detroit Red Wings 1 - Calgary Flames 4
+2026-10-25,xg,Florida Panthers @ Chicago Blackhawks,Chicago Blackhawks ML,154,0.437,0.375,0.061,L,-1.0,Florida Panthers 3 - Chicago Blackhawks 2
+2026-10-25,xg,Montreal Canadiens @ Winnipeg Jets,Winnipeg Jets ML,100,0.513,0.478,0.035,L,-1.0,Montreal Canadiens 2 - Winnipeg Jets 1
+2026-10-25,xg,Montreal Canadiens @ Winnipeg Jets,Over 6.0,-102,0.527,0.483,0.045,L,-1.0,Montreal Canadiens 2 - Winnipeg Jets 1
+2026-10-25,xg,Colorado Avalanche @ Nashville Predators,Nashville Predators ML,195,0.405,0.326,0.079,W,1.95,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-25,xg,Colorado Avalanche @ Nashville Predators,Under 6.5,100,0.553,0.478,0.075,L,-1.0,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-25,xg,Minnesota Wild @ Vancouver Canucks,Minnesota Wild ML,-200,0.678,0.639,0.039,W,0.5,Minnesota Wild 4 - Vancouver Canucks 2
+2026-10-26,xg,Los Angeles Kings @ New York Rangers,Under 6.0,-118,0.562,0.517,0.044,L,-1.0,Los Angeles Kings 6 - New York Rangers 3
+2026-10-26,xg,Toronto Maple Leafs @ Calgary Flames,Under 6.5,100,0.549,0.478,0.071,L,-1.0,Toronto Maple Leafs 2 - Calgary Flames 5
+2026-10-26,xg,Detroit Red Wings @ Edmonton Oilers,Under 7.0,-145,0.647,0.554,0.093,P,0.0,Detroit Red Wings 4 - Edmonton Oilers 3 SO
+2026-10-27,xg,Columbus Blue Jackets @ Philadelphia Flyers,Philadelphia Flyers ML,-102,0.519,0.483,0.036,L,-1.0,Columbus Blue Jackets 4 - Philadelphia Flyers 3 OT
+2026-10-27,xg,Columbus Blue Jackets @ Philadelphia Flyers,Under 5.5,-102,0.522,0.483,0.04,L,-1.0,Columbus Blue Jackets 4 - Philadelphia Flyers 3 OT
+2026-10-27,xg,Boston Bruins @ Carolina Hurricanes,Boston Bruins ML,155,0.408,0.374,0.034,L,-1.0,Boston Bruins 1 - Carolina Hurricanes 2
+2026-10-27,xg,New Jersey Devils @ Dallas Stars,Dallas Stars ML,-115,0.568,0.511,0.057,L,-1.0,New Jersey Devils 5 - Dallas Stars 1
+2026-10-27,xg,Florida Panthers @ Winnipeg Jets,Winnipeg Jets ML,110,0.515,0.457,0.058,L,-1.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,xg,Florida Panthers @ Winnipeg Jets,Under 6.0,-102,0.537,0.483,0.054,P,0.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,xg,Montreal Canadiens @ St. Louis Blues,St. Louis Blues ML,-105,0.54,0.489,0.05,L,-1.0,Montreal Canadiens 2 - St. Louis Blues 0
+2026-10-27,xg,Los Angeles Kings @ Chicago Blackhawks,Los Angeles Kings ML,-110,0.557,0.5,0.057,L,-1.0,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,xg,Los Angeles Kings @ Chicago Blackhawks,Under 6.0,-115,0.568,0.511,0.057,W,0.87,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,xg,Ottawa Senators @ Vegas Golden Knights,Ottawa Senators ML,135,0.465,0.409,0.056,L,-1.0,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,xg,Ottawa Senators @ Vegas Golden Knights,Under 6.5,-105,0.598,0.489,0.109,W,0.952,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,xg,Buffalo Sabres @ San Jose Sharks,San Jose Sharks ML,120,0.489,0.434,0.054,L,-1.0,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-27,xg,Buffalo Sabres @ San Jose Sharks,Under 6.5,110,0.505,0.457,0.047,W,1.1,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-28,xg,Philadelphia Flyers @ Washington Capitals,Philadelphia Flyers ML,195,0.393,0.326,0.067,L,-1.0,Philadelphia Flyers 2 - Washington Capitals 5
+2026-10-28,xg,Calgary Flames @ Edmonton Oilers,Under 6.5,-105,0.55,0.489,0.061,W,0.952,Calgary Flames 0 - Edmonton Oilers 4
+2026-10-28,xg,New Jersey Devils @ Colorado Avalanche,Under 6.5,-115,0.545,0.511,0.034,L,-1.0,New Jersey Devils 2 - Colorado Avalanche 5
+2026-10-28,xg,Toronto Maple Leafs @ Seattle Kraken,Seattle Kraken ML,115,0.514,0.447,0.066,W,1.15,Toronto Maple Leafs 4 - Seattle Kraken 5
+2026-10-29,xg,Utah Mammoth @ Pittsburgh Penguins,Pittsburgh Penguins ML,115,0.503,0.447,0.055,L,-1.0,Utah Mammoth 4 - Pittsburgh Penguins 3 OT
+2026-10-29,xg,Utah Mammoth @ Pittsburgh Penguins,Under 6.5,115,0.48,0.447,0.032,L,-1.0,Utah Mammoth 4 - Pittsburgh Penguins 3 OT
+2026-10-29,xg,Boston Bruins @ St. Louis Blues,Boston Bruins ML,-105,0.526,0.489,0.037,L,-1.0,Boston Bruins 1 - St. Louis Blues 4
+2026-10-29,xg,Montreal Canadiens @ Dallas Stars,Under 6.0,-115,0.559,0.511,0.048,L,-1.0,Montreal Canadiens 5 - Dallas Stars 2
+2026-10-29,xg,New York Islanders @ Minnesota Wild,Minnesota Wild ML,-190,0.656,0.626,0.03,L,-1.0,New York Islanders 4 - Minnesota Wild 3 OT
+2026-10-29,xg,New York Islanders @ Minnesota Wild,Over 5.5,-120,0.567,0.522,0.046,W,0.833,New York Islanders 4 - Minnesota Wild 3 OT
+2026-10-29,xg,Buffalo Sabres @ Anaheim Ducks,Anaheim Ducks ML,120,0.485,0.434,0.051,L,-1.0,Buffalo Sabres 7 - Anaheim Ducks 6
+2026-10-29,xg,Ottawa Senators @ Los Angeles Kings,Under 6.0,-118,0.56,0.517,0.043,L,-1.0,Ottawa Senators 5 - Los Angeles Kings 6 OT
+2026-10-31,xg,St. Louis Blues @ Detroit Red Wings,Detroit Red Wings ML,-102,0.523,0.483,0.041,L,-1.0,St. Louis Blues 5 - Detroit Red Wings 4
+2026-10-31,xg,St. Louis Blues @ Detroit Red Wings,Under 6.0,-120,0.567,0.522,0.045,L,-1.0,St. Louis Blues 5 - Detroit Red Wings 4
+2026-10-31,xg,Tampa Bay Lightning @ Nashville Predators,Nashville Predators ML,145,0.444,0.391,0.053,W,1.45,Tampa Bay Lightning 4 - Nashville Predators 5 SO
+2026-10-31,xg,Tampa Bay Lightning @ Nashville Predators,Over 6.0,-118,0.556,0.517,0.039,W,0.847,Tampa Bay Lightning 4 - Nashville Predators 5 SO
+2026-10-31,xg,Buffalo Sabres @ Los Angeles Kings,Los Angeles Kings ML,105,0.517,0.468,0.049,L,-1.0,Buffalo Sabres 3 - Los Angeles Kings 2
+2026-10-31,xg,Ottawa Senators @ San Jose Sharks,Under 6.5,-110,0.536,0.5,0.036,W,0.909,Ottawa Senators 5 - San Jose Sharks 1
+2026-10-31,xg,Toronto Maple Leafs @ Vancouver Canucks,Vancouver Canucks ML,155,0.429,0.374,0.055,L,-1.0,Toronto Maple Leafs 4 - Vancouver Canucks 2
+2026-10-31,xg,Calgary Flames @ Colorado Avalanche,Calgary Flames ML,333,0.302,0.22,0.082,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-10-31,xg,Calgary Flames @ Colorado Avalanche,Under 6.5,-105,0.554,0.489,0.065,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-11-01,xg,Utah Mammoth @ Philadelphia Flyers,Under 6.0,-110,0.539,0.5,0.039,L,-1.0,Utah Mammoth 3 - Philadelphia Flyers 6
+2026-11-01,xg,Edmonton Oilers @ New York Rangers,Edmonton Oilers ML,105,0.521,0.463,0.058,W,1.05,Edmonton Oilers 4 - New York Rangers 1
+2026-11-01,xg,Edmonton Oilers @ New York Rangers,Under 6.5,-105,0.559,0.489,0.07,W,0.952,Edmonton Oilers 4 - New York Rangers 1
+2026-11-01,xg,Ottawa Senators @ Anaheim Ducks,Ottawa Senators ML,-120,0.56,0.522,0.038,L,-1.0,Ottawa Senators 3 - Anaheim Ducks 6
+2026-11-02,xg,Vegas Golden Knights @ Boston Bruins,Boston Bruins ML,100,0.53,0.478,0.052,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
+2026-11-02,xg,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,154,0.44,0.378,0.062,W,1.54,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,xg,Calgary Flames @ San Jose Sharks,Under 6.5,-120,0.582,0.522,0.06,W,0.833,Calgary Flames 2 - San Jose Sharks 1
+2026-11-03,xg,Colorado Avalanche @ Columbus Blue Jackets,Colorado Avalanche ML,-125,0.613,0.532,0.08,L,-1.0,Colorado Avalanche 2 - Columbus Blue Jackets 7
+2026-11-03,xg,Detroit Red Wings @ Tampa Bay Lightning,Detroit Red Wings ML,230,0.401,0.29,0.11,L,-1.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,xg,Detroit Red Wings @ Tampa Bay Lightning,Over 6.0,-120,0.557,0.522,0.036,P,0.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,xg,Minnesota Wild @ Philadelphia Flyers,Under 6.0,-115,0.566,0.511,0.056,P,0.0,Minnesota Wild 4 - Philadelphia Flyers 2
+2026-11-03,xg,Winnipeg Jets @ Montreal Canadiens,Over 6.0,-105,0.53,0.489,0.041,W,0.952,Winnipeg Jets 5 - Montreal Canadiens 4 OT
+2026-11-03,xg,St. Louis Blues @ New York Rangers,Under 6.0,-110,0.541,0.5,0.041,W,0.909,St. Louis Blues 1 - New York Rangers 3
+2026-11-03,xg,Vegas Golden Knights @ Pittsburgh Penguins,Under 6.5,100,0.531,0.478,0.052,W,1.0,Vegas Golden Knights 3 - Pittsburgh Penguins 2
+2026-11-03,xg,Edmonton Oilers @ New Jersey Devils,Edmonton Oilers ML,135,0.47,0.409,0.061,L,-1.0,Edmonton Oilers 3 - New Jersey Devils 4 SO
+2026-11-03,xg,Anaheim Ducks @ Vancouver Canucks,Vancouver Canucks ML,155,0.426,0.374,0.052,L,-1.0,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-03,xg,Anaheim Ducks @ Vancouver Canucks,Over 7.0,110,0.496,0.457,0.039,W,1.1,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-04,xg,Ottawa Senators @ Buffalo Sabres,Under 6.5,100,0.538,0.478,0.06,W,1.0,Ottawa Senators 2 - Buffalo Sabres 1
+2026-11-04,xg,Chicago Blackhawks @ Florida Panthers,Chicago Blackhawks ML,220,0.341,0.299,0.042,L,-1.0,Chicago Blackhawks 3 - Florida Panthers 5
+2026-11-04,xg,Calgary Flames @ Seattle Kraken,Under 6.0,100,0.519,0.478,0.041,W,1.0,Calgary Flames 1 - Seattle Kraken 2 OT
+2026-11-05,xg,Boston Bruins @ Pittsburgh Penguins,Under 6.5,100,0.514,0.478,0.036,L,-1.0,Boston Bruins 6 - Pittsburgh Penguins 2
+2026-11-05,xg,Chicago Blackhawks @ Tampa Bay Lightning,Chicago Blackhawks ML,360,0.275,0.208,0.067,L,-1.0,Chicago Blackhawks 1 - Tampa Bay Lightning 4
+2026-11-05,xg,Vegas Golden Knights @ Detroit Red Wings,Detroit Red Wings ML,120,0.475,0.434,0.04,L,-1.0,Vegas Golden Knights 2 - Detroit Red Wings 1
+2026-11-05,xg,Vegas Golden Knights @ Detroit Red Wings,Under 6.0,-110,0.536,0.5,0.036,W,0.909,Vegas Golden Knights 2 - Detroit Red Wings 1
+2026-11-05,xg,St. Louis Blues @ New Jersey Devils,St. Louis Blues ML,185,0.406,0.336,0.07,L,-1.0,St. Louis Blues 4 - New Jersey Devils 5 OT
+2026-11-05,xg,Philadelphia Flyers @ New York Rangers,Under 6.0,-115,0.571,0.511,0.06,W,0.87,Philadelphia Flyers 2 - New York Rangers 3
+2026-11-05,xg,Vancouver Canucks @ Winnipeg Jets,Vancouver Canucks ML,180,0.387,0.342,0.045,L,-1.0,Vancouver Canucks 2 - Winnipeg Jets 6
+2026-11-05,xg,Nashville Predators @ Colorado Avalanche,Nashville Predators ML,180,0.373,0.342,0.031,W,1.8,Nashville Predators 3 - Colorado Avalanche 2 OT
+2026-11-06,xg,Columbus Blue Jackets @ Buffalo Sabres,Columbus Blue Jackets ML,140,0.452,0.398,0.054,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,xg,Columbus Blue Jackets @ Buffalo Sabres,Under 6.5,-120,0.597,0.522,0.075,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,xg,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,120,0.516,0.434,0.082,W,1.2,Anaheim Ducks 5 - Calgary Flames 3
+2026-11-06,xg,Anaheim Ducks @ Calgary Flames,Under 6.5,-110,0.532,0.5,0.032,L,-1.0,Anaheim Ducks 5 - Calgary Flames 3
+2026-11-06,xg,San Jose Sharks @ Minnesota Wild,Under 6.5,-110,0.53,0.5,0.03,W,0.909,San Jose Sharks 1 - Minnesota Wild 4
+2026-11-07,xg,Florida Panthers @ Washington Capitals,Over 6.0,-118,0.591,0.517,0.073,W,0.847,Florida Panthers 3 - Washington Capitals 4
+2026-11-07,xg,St. Louis Blues @ Nashville Predators,Nashville Predators ML,-110,0.539,0.5,0.039,W,0.909,St. Louis Blues 1 - Nashville Predators 3
+2026-11-07,xg,New York Rangers @ Seattle Kraken,Under 6.5,-118,0.575,0.517,0.058,L,-1.0,New York Rangers 4 - Seattle Kraken 3
+2026-11-07,xg,Utah Mammoth @ Ottawa Senators,Ottawa Senators ML,-102,0.526,0.483,0.043,W,0.98,Utah Mammoth 2 - Ottawa Senators 4
+2026-11-07,xg,Utah Mammoth @ Ottawa Senators,Under 6.5,-105,0.533,0.489,0.044,W,0.952,Utah Mammoth 2 - Ottawa Senators 4
+2026-11-07,xg,San Jose Sharks @ Dallas Stars,San Jose Sharks ML,240,0.333,0.282,0.051,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,xg,San Jose Sharks @ Dallas Stars,Under 6.0,100,0.542,0.478,0.064,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,xg,Tampa Bay Lightning @ Minnesota Wild,Minnesota Wild ML,118,0.569,0.437,0.133,L,-1.0,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-07,xg,Detroit Red Wings @ Colorado Avalanche,Detroit Red Wings ML,185,0.372,0.336,0.036,L,-1.0,Detroit Red Wings 0 - Colorado Avalanche 4
+2026-11-07,xg,Vancouver Canucks @ Edmonton Oilers,Under 7.0,-130,0.568,0.537,0.031,W,0.769,Vancouver Canucks 2 - Edmonton Oilers 4
+2026-11-08,xg,Vegas Golden Knights @ Buffalo Sabres,Under 6.5,-118,0.593,0.517,0.076,W,0.847,Vegas Golden Knights 4 - Buffalo Sabres 1
+2026-11-08,xg,Philadelphia Flyers @ Calgary Flames,Under 5.5,100,0.521,0.478,0.042,L,-1.0,Philadelphia Flyers 3 - Calgary Flames 4 OT
+2026-11-08,xg,Pittsburgh Penguins @ Anaheim Ducks,Over 7.0,105,0.523,0.468,0.056,P,0.0,Pittsburgh Penguins 2 - Anaheim Ducks 5
+2026-11-09,xg,New York Rangers @ Edmonton Oilers,Under 6.5,-110,0.568,0.5,0.068,W,0.909,New York Rangers 1 - Edmonton Oilers 3
+2026-11-09,xg,Philadelphia Flyers @ Vancouver Canucks,Under 6.5,-120,0.588,0.522,0.067,W,0.833,Philadelphia Flyers 3 - Vancouver Canucks 1
+2026-11-09,xg,New York Islanders @ San Jose Sharks,San Jose Sharks ML,120,0.472,0.434,0.037,W,1.2,New York Islanders 2 - San Jose Sharks 3 SO
+2026-11-09,xg,New York Islanders @ San Jose Sharks,Under 6.5,-115,0.558,0.511,0.047,W,0.87,New York Islanders 2 - San Jose Sharks 3 SO
+2026-11-10,xg,Colorado Avalanche @ Toronto Maple Leafs,Under 6.5,105,0.498,0.468,0.03,L,-1.0,Colorado Avalanche 6 - Toronto Maple Leafs 3
+2026-11-10,xg,New Jersey Devils @ Winnipeg Jets,Under 6.5,-115,0.577,0.511,0.066,W,0.87,New Jersey Devils 2 - Winnipeg Jets 4
+2026-11-10,xg,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.56,0.489,0.071,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT
+2026-11-10,xg,Florida Panthers @ Columbus Blue Jackets,Columbus Blue Jackets ML,105,0.507,0.468,0.039,L,-1.0,Florida Panthers 4 - Columbus Blue Jackets 1
+2026-11-10,xg,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.515,0.478,0.037,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-10-19,xgb,Anaheim Ducks @ New York Rangers,Under 6.5,-110,0.532,0.5,0.032,L,-1.0,Anaheim Ducks 2 - New York Rangers 5
+2026-10-19,xgb,Colorado Avalanche @ Philadelphia Flyers,Under 6.0,-105,0.519,0.489,0.03,W,0.952,Colorado Avalanche 2 - Philadelphia Flyers 3
+2026-10-19,xgb,Pittsburgh Penguins @ Utah Mammoth,Pittsburgh Penguins ML,155,0.395,0.374,0.02,L,-1.0,Pittsburgh Penguins 4 - Utah Mammoth 5
+2026-10-20,xgb,Anaheim Ducks @ New York Islanders,Anaheim Ducks ML,130,0.442,0.417,0.025,L,-1.0,Anaheim Ducks 2 - New York Islanders 3
+2026-10-20,xgb,Anaheim Ducks @ New York Islanders,Over 6.0,-102,0.507,0.483,0.024,L,-1.0,Anaheim Ducks 2 - New York Islanders 3
+2026-10-20,xgb,Colorado Avalanche @ New Jersey Devils,Colorado Avalanche ML,-102,0.524,0.483,0.041,L,-1.0,Colorado Avalanche 3 - New Jersey Devils 4
+2026-10-20,xgb,Los Angeles Kings @ Washington Capitals,Over 5.5,-115,0.54,0.511,0.03,W,0.87,Los Angeles Kings 5 - Washington Capitals 2
+2026-10-20,xgb,San Jose Sharks @ Montreal Canadiens,San Jose Sharks ML,180,0.368,0.342,0.026,W,1.8,San Jose Sharks 4 - Montreal Canadiens 3 OT
+2026-10-20,xgb,Boston Bruins @ Dallas Stars,Boston Bruins ML,140,0.429,0.401,0.028,L,-1.0,Boston Bruins 2 - Dallas Stars 3 OT
+2026-10-20,xgb,Minnesota Wild @ Edmonton Oilers,Minnesota Wild ML,115,0.468,0.447,0.021,L,-1.0,Minnesota Wild 3 - Edmonton Oilers 4 OT
+2026-10-20,xgb,Detroit Red Wings @ Seattle Kraken,Under 6.5,-115,0.539,0.511,0.029,L,-1.0,Detroit Red Wings 3 - Seattle Kraken 4 SO
+2026-10-21,xgb,Philadelphia Flyers @ Buffalo Sabres,Philadelphia Flyers ML,165,0.385,0.361,0.024,W,1.65,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,xgb,Philadelphia Flyers @ Buffalo Sabres,Under 6.0,-110,0.535,0.5,0.035,W,0.909,Philadelphia Flyers 3 - Buffalo Sabres 1
+2026-10-21,xgb,Florida Panthers @ Ottawa Senators,Ottawa Senators ML,-110,0.529,0.5,0.029,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-21,xgb,Florida Panthers @ Ottawa Senators,Over 5.5,-110,0.532,0.5,0.032,W,0.909,Florida Panthers 1 - Ottawa Senators 5
+2026-10-22,xgb,Anaheim Ducks @ New Jersey Devils,Anaheim Ducks ML,180,0.375,0.342,0.033,L,-1.0,Anaheim Ducks 1 - New Jersey Devils 4
+2026-10-22,xgb,San Jose Sharks @ Ottawa Senators,Ottawa Senators ML,-135,0.599,0.553,0.046,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,xgb,San Jose Sharks @ Ottawa Senators,Under 6.5,-120,0.557,0.522,0.035,L,-1.0,San Jose Sharks 6 - Ottawa Senators 2
+2026-10-22,xgb,Los Angeles Kings @ New York Islanders,New York Islanders ML,-110,0.527,0.5,0.027,L,-1.0,Los Angeles Kings 3 - New York Islanders 2 OT
+2026-10-24,xgb,Los Angeles Kings @ New Jersey Devils,Los Angeles Kings ML,165,0.385,0.361,0.024,L,-1.0,Los Angeles Kings 1 - New Jersey Devils 3
+2026-10-24,xgb,New York Rangers @ Ottawa Senators,Under 6.0,-105,0.531,0.489,0.042,L,-1.0,New York Rangers 4 - Ottawa Senators 7
+2026-10-24,xgb,Tampa Bay Lightning @ Utah Mammoth,Tampa Bay Lightning ML,120,0.462,0.434,0.028,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-24,xgb,Tampa Bay Lightning @ Utah Mammoth,Under 6.5,-102,0.508,0.483,0.025,L,-1.0,Tampa Bay Lightning 4 - Utah Mammoth 5 OT
+2026-10-25,xgb,Florida Panthers @ Chicago Blackhawks,Chicago Blackhawks ML,154,0.406,0.375,0.031,L,-1.0,Florida Panthers 3 - Chicago Blackhawks 2
+2026-10-25,xgb,Colorado Avalanche @ Nashville Predators,Nashville Predators ML,195,0.365,0.326,0.04,W,1.95,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-25,xgb,Colorado Avalanche @ Nashville Predators,Under 6.5,100,0.516,0.478,0.037,L,-1.0,Colorado Avalanche 2 - Nashville Predators 6
+2026-10-26,xgb,Toronto Maple Leafs @ Calgary Flames,Under 6.5,100,0.514,0.478,0.035,L,-1.0,Toronto Maple Leafs 2 - Calgary Flames 5
+2026-10-26,xgb,Detroit Red Wings @ Edmonton Oilers,Under 7.0,-145,0.6,0.554,0.046,P,0.0,Detroit Red Wings 4 - Edmonton Oilers 3 SO
+2026-10-27,xgb,New Jersey Devils @ Dallas Stars,Dallas Stars ML,-115,0.539,0.511,0.029,L,-1.0,New Jersey Devils 5 - Dallas Stars 1
+2026-10-27,xgb,Florida Panthers @ Winnipeg Jets,Winnipeg Jets ML,110,0.486,0.457,0.029,L,-1.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,xgb,Florida Panthers @ Winnipeg Jets,Under 6.0,-102,0.51,0.483,0.027,P,0.0,Florida Panthers 5 - Winnipeg Jets 1
+2026-10-27,xgb,Montreal Canadiens @ St. Louis Blues,St. Louis Blues ML,-105,0.514,0.489,0.025,L,-1.0,Montreal Canadiens 2 - St. Louis Blues 0
+2026-10-27,xgb,Los Angeles Kings @ Chicago Blackhawks,Los Angeles Kings ML,-110,0.528,0.5,0.028,L,-1.0,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,xgb,Los Angeles Kings @ Chicago Blackhawks,Under 6.0,-115,0.54,0.511,0.029,W,0.87,Los Angeles Kings 1 - Chicago Blackhawks 2
+2026-10-27,xgb,Ottawa Senators @ Vegas Golden Knights,Ottawa Senators ML,135,0.437,0.409,0.028,L,-1.0,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,xgb,Ottawa Senators @ Vegas Golden Knights,Under 6.5,-105,0.544,0.489,0.054,W,0.952,Ottawa Senators 1 - Vegas Golden Knights 4
+2026-10-27,xgb,Buffalo Sabres @ San Jose Sharks,San Jose Sharks ML,120,0.461,0.434,0.027,L,-1.0,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-27,xgb,Buffalo Sabres @ San Jose Sharks,Under 6.5,110,0.481,0.457,0.024,W,1.1,Buffalo Sabres 2 - San Jose Sharks 0
+2026-10-28,xgb,Philadelphia Flyers @ Washington Capitals,Philadelphia Flyers ML,195,0.359,0.326,0.034,L,-1.0,Philadelphia Flyers 2 - Washington Capitals 5
+2026-10-28,xgb,Calgary Flames @ Edmonton Oilers,Under 6.5,-105,0.52,0.489,0.031,W,0.952,Calgary Flames 0 - Edmonton Oilers 4
+2026-10-28,xgb,Toronto Maple Leafs @ Seattle Kraken,Seattle Kraken ML,115,0.48,0.447,0.033,W,1.15,Toronto Maple Leafs 4 - Seattle Kraken 5
+2026-10-29,xgb,Utah Mammoth @ Pittsburgh Penguins,Pittsburgh Penguins ML,115,0.475,0.447,0.028,L,-1.0,Utah Mammoth 4 - Pittsburgh Penguins 3 OT
+2026-10-29,xgb,Montreal Canadiens @ Dallas Stars,Under 6.0,-115,0.535,0.511,0.024,L,-1.0,Montreal Canadiens 5 - Dallas Stars 2
+2026-10-29,xgb,Buffalo Sabres @ Anaheim Ducks,Anaheim Ducks ML,120,0.46,0.434,0.025,L,-1.0,Buffalo Sabres 7 - Anaheim Ducks 6
+2026-10-31,xgb,Tampa Bay Lightning @ Nashville Predators,Nashville Predators ML,145,0.417,0.391,0.027,W,1.45,Tampa Bay Lightning 4 - Nashville Predators 5 SO
+2026-10-31,xgb,Buffalo Sabres @ Los Angeles Kings,Los Angeles Kings ML,105,0.492,0.468,0.025,L,-1.0,Buffalo Sabres 3 - Los Angeles Kings 2
+2026-10-31,xgb,Toronto Maple Leafs @ Vancouver Canucks,Vancouver Canucks ML,155,0.402,0.374,0.027,L,-1.0,Toronto Maple Leafs 4 - Vancouver Canucks 2
+2026-10-31,xgb,Calgary Flames @ Colorado Avalanche,Calgary Flames ML,333,0.261,0.22,0.041,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-10-31,xgb,Calgary Flames @ Colorado Avalanche,Under 6.5,-105,0.522,0.489,0.032,L,-1.0,Calgary Flames 2 - Colorado Avalanche 5
+2026-11-01,xgb,Edmonton Oilers @ New York Rangers,Edmonton Oilers ML,105,0.492,0.463,0.029,W,1.05,Edmonton Oilers 4 - New York Rangers 1
+2026-11-01,xgb,Edmonton Oilers @ New York Rangers,Under 6.5,-105,0.524,0.489,0.035,W,0.952,Edmonton Oilers 4 - New York Rangers 1
+2026-11-02,xgb,Vegas Golden Knights @ Boston Bruins,Boston Bruins ML,100,0.504,0.478,0.026,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
+2026-11-02,xgb,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,154,0.409,0.378,0.031,W,1.54,Detroit Red Wings 5 - Florida Panthers 3
+2026-11-02,xgb,Calgary Flames @ San Jose Sharks,Under 6.5,-120,0.552,0.522,0.03,W,0.833,Calgary Flames 2 - San Jose Sharks 1
+2026-11-03,xgb,Colorado Avalanche @ Columbus Blue Jackets,Colorado Avalanche ML,-125,0.573,0.532,0.04,L,-1.0,Colorado Avalanche 2 - Columbus Blue Jackets 7
+2026-11-03,xgb,Detroit Red Wings @ Tampa Bay Lightning,Detroit Red Wings ML,230,0.346,0.29,0.055,L,-1.0,Detroit Red Wings 2 - Tampa Bay Lightning 4
+2026-11-03,xgb,Minnesota Wild @ Philadelphia Flyers,Under 6.0,-115,0.539,0.511,0.028,P,0.0,Minnesota Wild 4 - Philadelphia Flyers 2
+2026-11-03,xgb,Vegas Golden Knights @ Pittsburgh Penguins,Under 6.5,100,0.504,0.478,0.026,W,1.0,Vegas Golden Knights 3 - Pittsburgh Penguins 2
+2026-11-03,xgb,Edmonton Oilers @ New Jersey Devils,Edmonton Oilers ML,135,0.439,0.409,0.031,L,-1.0,Edmonton Oilers 3 - New Jersey Devils 4 SO
+2026-11-03,xgb,Anaheim Ducks @ Vancouver Canucks,Vancouver Canucks ML,155,0.4,0.374,0.026,L,-1.0,Anaheim Ducks 5 - Vancouver Canucks 4
+2026-11-04,xgb,Ottawa Senators @ Buffalo Sabres,Under 6.5,100,0.508,0.478,0.03,W,1.0,Ottawa Senators 2 - Buffalo Sabres 1
+2026-11-04,xgb,Chicago Blackhawks @ Florida Panthers,Chicago Blackhawks ML,220,0.32,0.299,0.021,L,-1.0,Chicago Blackhawks 3 - Florida Panthers 5
+2026-11-05,xgb,Chicago Blackhawks @ Tampa Bay Lightning,Chicago Blackhawks ML,360,0.242,0.208,0.033,L,-1.0,Chicago Blackhawks 1 - Tampa Bay Lightning 4
+2026-11-05,xgb,St. Louis Blues @ New Jersey Devils,St. Louis Blues ML,185,0.371,0.336,0.035,L,-1.0,St. Louis Blues 4 - New Jersey Devils 5 OT
+2026-11-05,xgb,Philadelphia Flyers @ New York Rangers,Under 6.0,-115,0.541,0.511,0.03,W,0.87,Philadelphia Flyers 2 - New York Rangers 3
+2026-11-05,xgb,Vancouver Canucks @ Winnipeg Jets,Vancouver Canucks ML,180,0.364,0.342,0.023,L,-1.0,Vancouver Canucks 2 - Winnipeg Jets 6
+2026-11-06,xgb,Columbus Blue Jackets @ Buffalo Sabres,Columbus Blue Jackets ML,140,0.425,0.398,0.027,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,xgb,Columbus Blue Jackets @ Buffalo Sabres,Under 6.5,-120,0.559,0.522,0.038,L,-1.0,Columbus Blue Jackets 2 - Buffalo Sabres 5
+2026-11-06,xgb,Anaheim Ducks @ Calgary Flames,Anaheim Ducks ML,120,0.475,0.434,0.041,W,1.2,Anaheim Ducks 5 - Calgary Flames 3
+2026-11-07,xgb,Florida Panthers @ Washington Capitals,Over 6.0,-118,0.554,0.517,0.037,W,0.847,Florida Panthers 3 - Washington Capitals 4
+2026-11-07,xgb,New York Rangers @ Seattle Kraken,Under 6.5,-118,0.546,0.517,0.029,L,-1.0,New York Rangers 4 - Seattle Kraken 3
+2026-11-07,xgb,San Jose Sharks @ Dallas Stars,San Jose Sharks ML,240,0.307,0.282,0.026,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,xgb,San Jose Sharks @ Dallas Stars,Under 6.0,100,0.51,0.478,0.032,L,-1.0,San Jose Sharks 3 - Dallas Stars 4
+2026-11-07,xgb,Tampa Bay Lightning @ Minnesota Wild,Minnesota Wild ML,118,0.503,0.437,0.066,L,-1.0,Tampa Bay Lightning 4 - Minnesota Wild 3 OT
+2026-11-08,xgb,Vegas Golden Knights @ Buffalo Sabres,Under 6.5,-118,0.555,0.517,0.038,W,0.847,Vegas Golden Knights 4 - Buffalo Sabres 1
+2026-11-08,xgb,Pittsburgh Penguins @ Anaheim Ducks,Over 7.0,105,0.495,0.468,0.028,P,0.0,Pittsburgh Penguins 2 - Anaheim Ducks 5
+2026-11-09,xgb,New York Rangers @ Edmonton Oilers,Under 6.5,-110,0.534,0.5,0.034,W,0.909,New York Rangers 1 - Edmonton Oilers 3
+2026-11-09,xgb,Philadelphia Flyers @ Vancouver Canucks,Under 6.5,-120,0.555,0.522,0.033,W,0.833,Philadelphia Flyers 3 - Vancouver Canucks 1
+2026-11-10,xgb,New Jersey Devils @ Winnipeg Jets,Under 6.5,-115,0.544,0.511,0.033,W,0.87,New Jersey Devils 2 - Winnipeg Jets 4
+2026-11-10,xgb,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.524,0.489,0.035,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT

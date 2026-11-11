@@ -1,0 +1,27 @@
+                                 game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     Ottawa Senators @ Buffalo Sabres     Buffalo Sabres ML  -125    0.523   0.532 -0.009       -0.058       0.00
+     Ottawa Senators @ Buffalo Sabres    Ottawa Senators ML   105    0.477   0.468  0.009       -0.023       0.00
+     Ottawa Senators @ Buffalo Sabres              Over 6.5  -120    0.470   0.522 -0.052       -0.139       0.00
+     Ottawa Senators @ Buffalo Sabres             Under 6.5   100    0.530   0.478  0.052        0.061       1.52
+Chicago Blackhawks @ Florida Panthers   Florida Panthers ML  -275    0.656   0.701 -0.046       -0.106       0.00
+Chicago Blackhawks @ Florida Panthers Chicago Blackhawks ML   220    0.344   0.299  0.046        0.102       1.16
+Chicago Blackhawks @ Florida Panthers              Over 6.0  -110    0.503   0.500  0.003       -0.039       0.00
+Chicago Blackhawks @ Florida Panthers             Under 6.0  -110    0.497   0.500 -0.003       -0.052       0.00
+      Calgary Flames @ Seattle Kraken     Seattle Kraken ML  -135    0.573   0.553  0.020       -0.003       0.00
+      Calgary Flames @ Seattle Kraken     Calgary Flames ML   115    0.427   0.447 -0.020       -0.081       0.00
+      Calgary Flames @ Seattle Kraken              Over 6.0  -120    0.511   0.522 -0.011       -0.063       0.00
+      Calgary Flames @ Seattle Kraken             Under 6.0   100    0.489   0.478  0.011       -0.022       0.00
+  San Jose Sharks @ Los Angeles Kings  Los Angeles Kings ML  -160    0.579   0.591 -0.012       -0.059       0.00
+  San Jose Sharks @ Los Angeles Kings    San Jose Sharks ML   135    0.421   0.409  0.012       -0.011       0.00
+  San Jose Sharks @ Los Angeles Kings              Over 6.0  -118    0.500   0.517 -0.017       -0.076       0.00
+  San Jose Sharks @ Los Angeles Kings             Under 6.0  -102    0.500   0.483  0.017       -0.010       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Ottawa Senators at Buffalo Sabres: Samuel Ersson (-0.09 goals/gm) vs Colten Ellis, Likely (+0.04 goals/gm); expected total 6.48
+  Chicago Blackhawks at Florida Panthers: Spencer Knight, Likely (+0.04 goals/gm) vs Jacob Markstrom (+0.01 goals/gm); expected total 6.18
+  Calgary Flames at Seattle Kraken: Dustin Wolf (-0.12 goals/gm) vs Joey Daccord, Likely (-0.04 goals/gm); expected total 6.22
+  San Jose Sharks at Los Angeles Kings: Yaroslav Askarov (+0.07 goals/gm) vs Darcy Kuemper, Likely (-0.05 goals/gm); expected total 6.16
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

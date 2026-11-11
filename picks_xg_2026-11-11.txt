@@ -1,0 +1,28 @@
+                                 game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Tampa Bay Lightning @ Buffalo Sabres       Buffalo Sabres ML   110    0.461   0.457  0.004       -0.031       0.00
+ Tampa Bay Lightning @ Buffalo Sabres  Tampa Bay Lightning ML  -130    0.539   0.543 -0.004       -0.047       0.00
+ Tampa Bay Lightning @ Buffalo Sabres                Over 6.5  -115    0.485   0.511 -0.026       -0.094       0.00
+ Tampa Bay Lightning @ Buffalo Sabres               Under 6.5  -105    0.515   0.489  0.026        0.006       0.00
+    New York Rangers @ Calgary Flames       Calgary Flames ML   120    0.445   0.434  0.011       -0.021       0.00
+    New York Rangers @ Calgary Flames     New York Rangers ML  -145    0.555   0.566 -0.011       -0.062       0.00
+    New York Rangers @ Calgary Flames                Over 6.0  -102    0.440   0.483 -0.043       -0.129       0.00
+    New York Rangers @ Calgary Flames               Under 6.0  -118    0.560   0.517  0.043        0.035       1.03
+Philadelphia Flyers @ Edmonton Oilers      Edmonton Oilers ML  -190    0.627   0.626  0.001       -0.043       0.00
+Philadelphia Flyers @ Edmonton Oilers  Philadelphia Flyers ML   155    0.373   0.374 -0.001       -0.048       0.00
+Philadelphia Flyers @ Edmonton Oilers                Over 6.0  -120    0.456   0.522 -0.065       -0.164       0.00
+Philadelphia Flyers @ Edmonton Oilers               Under 6.0   100    0.544   0.478  0.065        0.088       2.00
+  Utah Mammoth @ Vegas Golden Knights Vegas Golden Knights ML  -125    0.554   0.532  0.021       -0.003       0.00
+  Utah Mammoth @ Vegas Golden Knights         Utah Mammoth ML   105    0.446   0.468 -0.021       -0.086       0.00
+  Utah Mammoth @ Vegas Golden Knights                Over 6.5  -105    0.437   0.489 -0.052       -0.147       0.00
+  Utah Mammoth @ Vegas Golden Knights               Under 6.5  -115    0.563   0.511  0.052        0.053       1.52
+  Nashville Predators @ Anaheim Ducks        Anaheim Ducks ML  -140    0.498   0.560 -0.061       -0.146       0.00
+  Nashville Predators @ Anaheim Ducks  Nashville Predators ML   118    0.502   0.440  0.061        0.094       1.98
+  Nashville Predators @ Anaheim Ducks                Over 6.5  -130    0.515   0.543 -0.028       -0.089       0.00
+  Nashville Predators @ Anaheim Ducks               Under 6.5   110    0.485   0.457  0.028        0.019       0.00
+Pittsburgh Penguins @ San Jose Sharks      San Jose Sharks ML   120    0.442   0.434  0.008       -0.027       0.00
+Pittsburgh Penguins @ San Jose Sharks  Pittsburgh Penguins ML  -145    0.558   0.566 -0.008       -0.058       0.00
+Pittsburgh Penguins @ San Jose Sharks                Over 6.5  -135    0.519   0.547 -0.028       -0.097       0.00
+Pittsburgh Penguins @ San Jose Sharks               Under 6.5   110    0.481   0.453  0.028        0.010       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

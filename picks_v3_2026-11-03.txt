@@ -1,0 +1,62 @@
+                                      game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Colorado Avalanche @ Columbus Blue Jackets Columbus Blue Jackets ML   105    0.404   0.468 -0.064       -0.173       0.00
+Colorado Avalanche @ Columbus Blue Jackets    Colorado Avalanche ML  -125    0.596   0.532  0.064        0.074       2.00
+Colorado Avalanche @ Columbus Blue Jackets                 Over 6.0  -120    0.521   0.522 -0.000       -0.044       0.00
+Colorado Avalanche @ Columbus Blue Jackets                Under 6.0   100    0.479   0.478  0.000       -0.043       0.00
+        Dallas Stars @ Washington Capitals   Washington Capitals ML  -110    0.493   0.500 -0.007       -0.059       0.00
+        Dallas Stars @ Washington Capitals          Dallas Stars ML  -110    0.507   0.500  0.007       -0.032       0.00
+        Dallas Stars @ Washington Capitals                 Over 5.5  -120    0.520   0.522 -0.002       -0.047       0.00
+        Dallas Stars @ Washington Capitals                Under 5.5   100    0.480   0.478  0.002       -0.040       0.00
+   Detroit Red Wings @ Tampa Bay Lightning   Tampa Bay Lightning ML  -285    0.608   0.710 -0.101       -0.178       0.00
+   Detroit Red Wings @ Tampa Bay Lightning     Detroit Red Wings ML   230    0.392   0.290  0.101        0.292       2.00
+   Detroit Red Wings @ Tampa Bay Lightning                 Over 6.0  -120    0.583   0.522  0.061        0.069       2.00
+   Detroit Red Wings @ Tampa Bay Lightning                Under 6.0   100    0.417   0.478 -0.061       -0.166       0.00
+      Minnesota Wild @ Philadelphia Flyers   Philadelphia Flyers ML   154    0.365   0.378 -0.012       -0.072       0.00
+      Minnesota Wild @ Philadelphia Flyers        Minnesota Wild ML  -185    0.635   0.622  0.012       -0.022       0.00
+      Minnesota Wild @ Philadelphia Flyers                 Over 6.0  -105    0.413   0.489 -0.076       -0.194       0.00
+      Minnesota Wild @ Philadelphia Flyers                Under 6.0  -115    0.587   0.511  0.076        0.098       2.00
+        Winnipeg Jets @ Montreal Canadiens    Montreal Canadiens ML  -175    0.646   0.609  0.037        0.015       0.67
+        Winnipeg Jets @ Montreal Canadiens         Winnipeg Jets ML   145    0.354   0.391 -0.037       -0.133       0.00
+        Winnipeg Jets @ Montreal Canadiens                 Over 6.0  -105    0.487   0.489 -0.002       -0.049       0.00
+        Winnipeg Jets @ Montreal Canadiens                Under 6.0  -115    0.513   0.511  0.002       -0.041       0.00
+        St. Louis Blues @ New York Rangers      New York Rangers ML  -118    0.498   0.517 -0.020       -0.081       0.00
+        St. Louis Blues @ New York Rangers       St. Louis Blues ML  -102    0.502   0.483  0.020       -0.005       0.00
+        St. Louis Blues @ New York Rangers                 Over 6.0  -110    0.453   0.500 -0.047       -0.134       0.00
+        St. Louis Blues @ New York Rangers                Under 6.0  -110    0.547   0.500  0.047        0.044       1.20
+Vegas Golden Knights @ Pittsburgh Penguins   Pittsburgh Penguins ML  -115    0.501   0.511 -0.010       -0.064       0.00
+Vegas Golden Knights @ Pittsburgh Penguins  Vegas Golden Knights ML  -105    0.499   0.489  0.010       -0.025       0.00
+Vegas Golden Knights @ Pittsburgh Penguins                 Over 6.5  -120    0.467   0.522 -0.055       -0.145       0.00
+Vegas Golden Knights @ Pittsburgh Penguins                Under 6.5   100    0.533   0.478  0.055        0.067       1.67
+        Utah Mammoth @ Toronto Maple Leafs   Toronto Maple Leafs ML   120    0.454   0.434  0.020       -0.001       0.00
+        Utah Mammoth @ Toronto Maple Leafs          Utah Mammoth ML  -145    0.546   0.566 -0.020       -0.078       0.00
+        Utah Mammoth @ Toronto Maple Leafs                 Over 7.0   110    0.443   0.446 -0.003       -0.070       0.00
+        Utah Mammoth @ Toronto Maple Leafs                Under 7.0  -145    0.557   0.554  0.003       -0.059       0.00
+       Edmonton Oilers @ New Jersey Devils     New Jersey Devils ML  -160    0.542   0.591 -0.049       -0.119       0.00
+       Edmonton Oilers @ New Jersey Devils       Edmonton Oilers ML   135    0.458   0.409  0.049        0.076       1.41
+       Edmonton Oilers @ New Jersey Devils                 Over 6.0  -115    0.502   0.511 -0.008       -0.061       0.00
+       Edmonton Oilers @ New Jersey Devils                Under 6.0  -105    0.498   0.489  0.008       -0.028       0.00
+ Carolina Hurricanes @ Nashville Predators   Nashville Predators ML   165    0.361   0.361 -0.001       -0.044       0.00
+ Carolina Hurricanes @ Nashville Predators   Carolina Hurricanes ML  -200    0.639   0.639  0.001       -0.041       0.00
+ Carolina Hurricanes @ Nashville Predators                 Over 6.0  -120    0.497   0.522 -0.025       -0.089       0.00
+ Carolina Hurricanes @ Nashville Predators                Under 6.0   100    0.503   0.478  0.025        0.006       0.00
+         Anaheim Ducks @ Vancouver Canucks     Vancouver Canucks ML   155    0.394   0.374  0.020        0.006       0.00
+         Anaheim Ducks @ Vancouver Canucks         Anaheim Ducks ML  -190    0.606   0.626 -0.020       -0.076       0.00
+         Anaheim Ducks @ Vancouver Canucks                 Over 7.0   110    0.532   0.457  0.075        0.118       2.00
+         Anaheim Ducks @ Vancouver Canucks                Under 7.0  -130    0.468   0.543 -0.075       -0.173       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Colorado Avalanche at Columbus Blue Jackets: Scott Wedgewood (-0.06 goals/gm) vs Cam Talbot (+0.05 goals/gm); expected total 6.28
+  Dallas Stars at Washington Capitals: Jake Oettinger (+0.14 goals/gm) vs Logan Thompson (+0.05 goals/gm); expected total 5.79
+  Detroit Red Wings at Tampa Bay Lightning: John Gibson, Unconfirmed (-0.11 goals/gm) vs Andrei Vasilevskiy, Unconfirmed (-0.04 goals/gm); expected total 6.62
+  Minnesota Wild at Philadelphia Flyers: Jesper Wallstedt (+0.12 goals/gm) vs Dan Vladar (-0.02 goals/gm); expected total 5.71
+  Winnipeg Jets at Montreal Canadiens: Stuart Skinner, Unconfirmed (+0.04 goals/gm) vs Jacob Fowler (+0.19 goals/gm); expected total 6.09
+  St. Louis Blues at New York Rangers: Joel Hofer (+0.05 goals/gm) vs Dylan Garand (-0.02 goals/gm); expected total 5.92
+  Vegas Golden Knights at Pittsburgh Penguins: Adin Hill, Unconfirmed (-0.03 goals/gm) vs Arturs Silovs (+0.05 goals/gm); expected total 6.46
+  Utah Mammoth at Toronto Maple Leafs: Sebastian Cossa (-0.01 goals/gm) vs Sergei Bobrovsky (-0.01 goals/gm); expected total 6.84
+  Edmonton Oilers at New Jersey Devils: Tristan Jarry (-0.02 goals/gm) vs Connor Hellebuyck (+0.05 goals/gm); expected total 6.18
+  Carolina Hurricanes at Nashville Predators: Pyotr Kochetkov, Likely (+0.17 goals/gm) vs Juuse Saros (+0.04 goals/gm); expected total 6.15
+  Anaheim Ducks at Vancouver Canucks: Laurent Brossoit (+0.01 goals/gm) vs Kevin Lankinen, Likely (-0.22 goals/gm); expected total 7.35
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

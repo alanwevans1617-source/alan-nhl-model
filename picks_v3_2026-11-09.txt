@@ -1,0 +1,22 @@
+                                   game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     New York Rangers @ Edmonton Oilers     Edmonton Oilers ML  -165    0.575   0.599 -0.024       -0.076       0.00
+     New York Rangers @ Edmonton Oilers    New York Rangers ML   140    0.425   0.401  0.024        0.019       0.00
+     New York Rangers @ Edmonton Oilers               Over 6.5  -110    0.431   0.500 -0.069       -0.177       0.00
+     New York Rangers @ Edmonton Oilers              Under 6.5  -110    0.569   0.500  0.069        0.086       2.00
+Philadelphia Flyers @ Vancouver Canucks   Vancouver Canucks ML   118    0.447   0.440  0.007       -0.025       0.00
+Philadelphia Flyers @ Vancouver Canucks Philadelphia Flyers ML  -140    0.553   0.560 -0.007       -0.053       0.00
+Philadelphia Flyers @ Vancouver Canucks               Over 6.5   100    0.389   0.478 -0.089       -0.221       0.00
+Philadelphia Flyers @ Vancouver Canucks              Under 6.5  -120    0.611   0.522  0.089        0.120       2.00
+   New York Islanders @ San Jose Sharks     San Jose Sharks ML   120    0.466   0.434  0.032        0.026       0.54
+   New York Islanders @ San Jose Sharks  New York Islanders ML  -145    0.534   0.566 -0.032       -0.098       0.00
+   New York Islanders @ San Jose Sharks               Over 6.5  -105    0.431   0.489 -0.058       -0.158       0.00
+   New York Islanders @ San Jose Sharks              Under 6.5  -115    0.569   0.511  0.058        0.063       1.83
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  New York Rangers at Edmonton Oilers: Dylan Garand (+0.02 goals/gm) vs Devon Levi (-0.01 goals/gm); expected total 6.23
+  Philadelphia Flyers at Vancouver Canucks: Joseph Woll, Likely (+0.06 goals/gm) vs Leevi Merilainen, Likely, no stats (+0.08 goals/gm); expected total 5.97
+  New York Islanders at San Jose Sharks: Ilya Sorokin, Likely (+0.05 goals/gm) vs Yaroslav Askarov (+0.02 goals/gm); expected total 6.23
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

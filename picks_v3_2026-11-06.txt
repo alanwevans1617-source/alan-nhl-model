@@ -1,0 +1,22 @@
+                                  game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Columbus Blue Jackets @ Buffalo Sabres        Buffalo Sabres ML  -170    0.548   0.602 -0.054       -0.130       0.00
+Columbus Blue Jackets @ Buffalo Sabres Columbus Blue Jackets ML   140    0.452   0.398  0.054        0.085       1.51
+Columbus Blue Jackets @ Buffalo Sabres                 Over 6.5   100    0.417   0.478 -0.061       -0.166       0.00
+Columbus Blue Jackets @ Buffalo Sabres                Under 6.5  -120    0.583   0.522  0.061        0.069       2.00
+        Anaheim Ducks @ Calgary Flames        Calgary Flames ML  -145    0.466   0.566 -0.099       -0.212       0.00
+        Anaheim Ducks @ Calgary Flames         Anaheim Ducks ML   120    0.534   0.434  0.099        0.175       2.00
+        Anaheim Ducks @ Calgary Flames                 Over 6.5  -110    0.481   0.500 -0.019       -0.082       0.00
+        Anaheim Ducks @ Calgary Flames                Under 6.5  -110    0.519   0.500  0.019       -0.009       0.00
+      San Jose Sharks @ Minnesota Wild        Minnesota Wild ML  -285    0.736   0.710  0.026       -0.006       0.00
+      San Jose Sharks @ Minnesota Wild       San Jose Sharks ML   230    0.264   0.290 -0.026       -0.129       0.00
+      San Jose Sharks @ Minnesota Wild                 Over 6.5  -110    0.445   0.500 -0.055       -0.151       0.00
+      San Jose Sharks @ Minnesota Wild                Under 6.5  -110    0.555   0.500  0.055        0.060       1.64
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Columbus Blue Jackets at Buffalo Sabres: Jet Greaves (-0.05 goals/gm) vs Ukko-Pekka Luukkonen (-0.04 goals/gm); expected total 6.14
+  Anaheim Ducks at Calgary Flames: Lukas Dostal, Unconfirmed (+0.02 goals/gm) vs Dustin Wolf (-0.10 goals/gm); expected total 6.55
+  San Jose Sharks at Minnesota Wild: Yaroslav Askarov (+0.02 goals/gm) vs Jesper Wallstedt (+0.13 goals/gm); expected total 6.32
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

@@ -1,0 +1,37 @@
+                                   game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+       Florida Panthers @ Boston Bruins        Boston Bruins ML  -145    0.597   0.563  0.034        0.009       0.31
+       Florida Panthers @ Boston Bruins     Florida Panthers ML   118    0.403   0.437 -0.034       -0.121       0.00
+       Florida Panthers @ Boston Bruins                Over 6.0  -120    0.513   0.522 -0.009       -0.060       0.00
+       Florida Panthers @ Boston Bruins               Under 6.0   100    0.487   0.478  0.009       -0.026       0.00
+  Vegas Golden Knights @ Buffalo Sabres       Buffalo Sabres ML  -110    0.487   0.500 -0.013       -0.070       0.00
+  Vegas Golden Knights @ Buffalo Sabres Vegas Golden Knights ML  -110    0.513   0.500  0.013       -0.021       0.00
+  Vegas Golden Knights @ Buffalo Sabres                Over 6.5  -102    0.414   0.483 -0.068       -0.179       0.00
+  Vegas Golden Knights @ Buffalo Sabres               Under 6.5  -118    0.586   0.517  0.068        0.082       2.00
+    Tampa Bay Lightning @ Winnipeg Jets        Winnipeg Jets ML   120    0.409   0.434 -0.025       -0.100       0.00
+    Tampa Bay Lightning @ Winnipeg Jets  Tampa Bay Lightning ML  -145    0.591   0.566  0.025       -0.001       0.00
+    Tampa Bay Lightning @ Winnipeg Jets                Over 6.5   100    0.463   0.478 -0.015       -0.074       0.00
+    Tampa Bay Lightning @ Winnipeg Jets               Under 6.5  -120    0.537   0.522  0.015       -0.015       0.00
+   Philadelphia Flyers @ Calgary Flames       Calgary Flames ML   100    0.513   0.478  0.035        0.026       0.66
+   Philadelphia Flyers @ Calgary Flames  Philadelphia Flyers ML  -120    0.487   0.522 -0.035       -0.107       0.00
+   Philadelphia Flyers @ Calgary Flames                Over 5.5  -120    0.470   0.522 -0.052       -0.138       0.00
+   Philadelphia Flyers @ Calgary Flames               Under 5.5   100    0.530   0.478  0.052        0.060       1.49
+New Jersey Devils @ Toronto Maple Leafs  Toronto Maple Leafs ML   135    0.433   0.409  0.025        0.019       0.00
+New Jersey Devils @ Toronto Maple Leafs    New Jersey Devils ML  -160    0.567   0.591 -0.025       -0.079       0.00
+New Jersey Devils @ Toronto Maple Leafs                Over 6.5   100    0.473   0.478 -0.005       -0.054       0.00
+New Jersey Devils @ Toronto Maple Leafs               Under 6.5  -120    0.527   0.522  0.005       -0.034       0.00
+    Pittsburgh Penguins @ Anaheim Ducks        Anaheim Ducks ML  -120    0.507   0.522 -0.014       -0.070       0.00
+    Pittsburgh Penguins @ Anaheim Ducks  Pittsburgh Penguins ML   100    0.493   0.478  0.014       -0.015       0.00
+    Pittsburgh Penguins @ Anaheim Ducks                Over 7.0   105    0.530   0.468  0.063        0.087       2.00
+    Pittsburgh Penguins @ Anaheim Ducks               Under 7.0  -125    0.470   0.532 -0.063       -0.155       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Florida Panthers at Boston Bruins: Jacob Markstrom, Unconfirmed (-0.01 goals/gm) vs Jeremy Swayman, Unconfirmed (+0.08 goals/gm); expected total 6.23
+  Vegas Golden Knights at Buffalo Sabres: Adin Hill, Unconfirmed (-0.02 goals/gm) vs Ukko-Pekka Luukkonen, Unconfirmed (-0.02 goals/gm); expected total 6.13
+  Tampa Bay Lightning at Winnipeg Jets: Andrei Vasilevskiy, Unconfirmed (-0.01 goals/gm) vs Stuart Skinner, Unconfirmed (+0.02 goals/gm); expected total 6.43
+  Philadelphia Flyers at Calgary Flames: Dan Vladar, Unconfirmed (-0.02 goals/gm) vs Devin Cooley, Unconfirmed (+0.08 goals/gm); expected total 5.50
+  New Jersey Devils at Toronto Maple Leafs: Connor Hellebuyck, Unconfirmed (+0.02 goals/gm) vs Anthony Stolarz, Unconfirmed (+0.05 goals/gm); expected total 6.50
+  Pittsburgh Penguins at Anaheim Ducks: Arturs Silovs, Unconfirmed (-0.01 goals/gm) vs Ville Husso, Unconfirmed (-0.03 goals/gm); expected total 7.34
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

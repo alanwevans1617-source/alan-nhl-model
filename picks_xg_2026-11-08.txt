@@ -1,0 +1,28 @@
+                                   game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+       Florida Panthers @ Boston Bruins        Boston Bruins ML  -145    0.583   0.563  0.020       -0.015       0.00
+       Florida Panthers @ Boston Bruins     Florida Panthers ML   118    0.417   0.437 -0.020       -0.091       0.00
+       Florida Panthers @ Boston Bruins                Over 6.0  -120    0.527   0.522  0.005       -0.034       0.00
+       Florida Panthers @ Boston Bruins               Under 6.0   100    0.473   0.478 -0.005       -0.053       0.00
+  Vegas Golden Knights @ Buffalo Sabres       Buffalo Sabres ML  -110    0.487   0.500 -0.013       -0.070       0.00
+  Vegas Golden Knights @ Buffalo Sabres Vegas Golden Knights ML  -110    0.513   0.500  0.013       -0.021       0.00
+  Vegas Golden Knights @ Buffalo Sabres                Over 6.5  -102    0.407   0.483 -0.076       -0.194       0.00
+  Vegas Golden Knights @ Buffalo Sabres               Under 6.5  -118    0.593   0.517  0.076        0.095       2.00
+    Tampa Bay Lightning @ Winnipeg Jets        Winnipeg Jets ML   120    0.405   0.434 -0.030       -0.110       0.00
+    Tampa Bay Lightning @ Winnipeg Jets  Tampa Bay Lightning ML  -145    0.595   0.566  0.030        0.006       0.00
+    Tampa Bay Lightning @ Winnipeg Jets                Over 6.5   100    0.466   0.478 -0.012       -0.068       0.00
+    Tampa Bay Lightning @ Winnipeg Jets               Under 6.5  -120    0.534   0.522  0.012       -0.021       0.00
+   Philadelphia Flyers @ Calgary Flames       Calgary Flames ML   100    0.496   0.478  0.018       -0.008       0.00
+   Philadelphia Flyers @ Calgary Flames  Philadelphia Flyers ML  -120    0.504   0.522 -0.018       -0.076       0.00
+   Philadelphia Flyers @ Calgary Flames                Over 5.5  -120    0.479   0.522 -0.042       -0.121       0.00
+   Philadelphia Flyers @ Calgary Flames               Under 5.5   100    0.521   0.478  0.042        0.041       1.03
+New Jersey Devils @ Toronto Maple Leafs  Toronto Maple Leafs ML   135    0.429   0.409  0.020        0.009       0.00
+New Jersey Devils @ Toronto Maple Leafs    New Jersey Devils ML  -160    0.571   0.591 -0.020       -0.072       0.00
+New Jersey Devils @ Toronto Maple Leafs                Over 6.5   100    0.482   0.478  0.004       -0.035       0.00
+New Jersey Devils @ Toronto Maple Leafs               Under 6.5  -120    0.518   0.522 -0.004       -0.051       0.00
+    Pittsburgh Penguins @ Anaheim Ducks        Anaheim Ducks ML  -120    0.510   0.522 -0.011       -0.064       0.00
+    Pittsburgh Penguins @ Anaheim Ducks  Pittsburgh Penguins ML   100    0.490   0.478  0.011       -0.021       0.00
+    Pittsburgh Penguins @ Anaheim Ducks                Over 7.0   105    0.523   0.468  0.056        0.072       1.72
+    Pittsburgh Penguins @ Anaheim Ducks               Under 7.0  -125    0.477   0.532 -0.056       -0.142       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

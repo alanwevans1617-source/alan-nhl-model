@@ -1,0 +1,16 @@
+                                   game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     New York Rangers @ Edmonton Oilers     Edmonton Oilers ML  -165    0.580   0.599 -0.019       -0.068       0.00
+     New York Rangers @ Edmonton Oilers    New York Rangers ML   140    0.420   0.401  0.019        0.007       0.00
+     New York Rangers @ Edmonton Oilers               Over 6.5  -110    0.432   0.500 -0.068       -0.176       0.00
+     New York Rangers @ Edmonton Oilers              Under 6.5  -110    0.568   0.500  0.068        0.085       2.00
+Philadelphia Flyers @ Vancouver Canucks   Vancouver Canucks ML   118    0.445   0.440  0.005       -0.029       0.00
+Philadelphia Flyers @ Vancouver Canucks Philadelphia Flyers ML  -140    0.555   0.560 -0.005       -0.049       0.00
+Philadelphia Flyers @ Vancouver Canucks               Over 6.5   100    0.412   0.478 -0.067       -0.176       0.00
+Philadelphia Flyers @ Vancouver Canucks              Under 6.5  -120    0.588   0.522  0.067        0.078       2.00
+   New York Islanders @ San Jose Sharks     San Jose Sharks ML   120    0.472   0.434  0.037        0.038       0.79
+   New York Islanders @ San Jose Sharks  New York Islanders ML  -145    0.528   0.566 -0.037       -0.108       0.00
+   New York Islanders @ San Jose Sharks               Over 6.5  -105    0.442   0.489 -0.047       -0.137       0.00
+   New York Islanders @ San Jose Sharks              Under 6.5  -115    0.558   0.511  0.047        0.043       1.23
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).

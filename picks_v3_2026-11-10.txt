@@ -1,0 +1,42 @@
+                                    game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Colorado Avalanche @ Toronto Maple Leafs   Toronto Maple Leafs ML   145    0.393   0.391  0.002       -0.038       0.00
+Colorado Avalanche @ Toronto Maple Leafs    Colorado Avalanche ML  -175    0.607   0.609 -0.002       -0.046       0.00
+Colorado Avalanche @ Toronto Maple Leafs                 Over 6.5  -125    0.499   0.532 -0.033       -0.102       0.00
+Colorado Avalanche @ Toronto Maple Leafs                Under 6.5   105    0.501   0.468  0.033        0.027       0.64
+     Minnesota Wild @ Montreal Canadiens    Montreal Canadiens ML   105    0.461   0.468 -0.006       -0.054       0.00
+     Minnesota Wild @ Montreal Canadiens        Minnesota Wild ML  -125    0.539   0.532  0.006       -0.030       0.00
+     Minnesota Wild @ Montreal Canadiens                 Over 6.0  -120    0.485   0.522 -0.036       -0.110       0.00
+     Minnesota Wild @ Montreal Canadiens                Under 6.0   100    0.515   0.478  0.036        0.029       0.73
+       New Jersey Devils @ Winnipeg Jets         Winnipeg Jets ML   120    0.428   0.434 -0.006       -0.058       0.00
+       New Jersey Devils @ Winnipeg Jets     New Jersey Devils ML  -145    0.572   0.566  0.006       -0.034       0.00
+       New Jersey Devils @ Winnipeg Jets                 Over 6.5  -105    0.442   0.489 -0.047       -0.137       0.00
+       New Jersey Devils @ Winnipeg Jets                Under 6.5  -115    0.558   0.511  0.047        0.043       1.25
+   Washington Capitals @ Ottawa Senators       Ottawa Senators ML  -105    0.549   0.489  0.060        0.071       1.87
+   Washington Capitals @ Ottawa Senators   Washington Capitals ML  -115    0.451   0.511 -0.060       -0.156       0.00
+   Washington Capitals @ Ottawa Senators                 Over 6.5  -105    0.491   0.489  0.002       -0.041       0.00
+   Washington Capitals @ Ottawa Senators                Under 6.5  -115    0.509   0.511 -0.002       -0.049       0.00
+Florida Panthers @ Columbus Blue Jackets Columbus Blue Jackets ML   105    0.525   0.468  0.057        0.076       1.81
+Florida Panthers @ Columbus Blue Jackets      Florida Panthers ML  -125    0.475   0.532 -0.057       -0.145       0.00
+Florida Panthers @ Columbus Blue Jackets                 Over 6.0  -105    0.478   0.489 -0.012       -0.067       0.00
+Florida Panthers @ Columbus Blue Jackets                Under 6.0  -115    0.522   0.511  0.012       -0.023       0.00
+     Detroit Red Wings @ St. Louis Blues       St. Louis Blues ML  -145    0.586   0.566  0.020       -0.010       0.00
+     Detroit Red Wings @ St. Louis Blues     Detroit Red Wings ML   120    0.414   0.434 -0.020       -0.089       0.00
+     Detroit Red Wings @ St. Louis Blues                 Over 6.0   100    0.458   0.478 -0.020       -0.083       0.00
+     Detroit Red Wings @ St. Louis Blues                Under 6.0  -120    0.542   0.522  0.020       -0.007       0.00
+ Nashville Predators @ Los Angeles Kings     Los Angeles Kings ML  -130    0.504   0.543 -0.039       -0.108       0.00
+ Nashville Predators @ Los Angeles Kings   Nashville Predators ML   110    0.496   0.457  0.039        0.041       0.94
+ Nashville Predators @ Los Angeles Kings                 Over 6.0  -120    0.465   0.522 -0.057       -0.147       0.00
+ Nashville Predators @ Los Angeles Kings                Under 6.0   100    0.535   0.478  0.057        0.070       1.74
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Colorado Avalanche at Toronto Maple Leafs: Mackenzie Blackwood (+0.03 goals/gm) vs Sergei Bobrovsky (-0.01 goals/gm); expected total 6.66
+  Minnesota Wild at Montreal Canadiens: Jesper Wallstedt (+0.15 goals/gm) vs Jacob Fowler (+0.19 goals/gm); expected total 6.09
+  New Jersey Devils at Winnipeg Jets: Jake Allen (-0.08 goals/gm) vs Nico Daws (-0.04 goals/gm); expected total 6.30
+  Washington Capitals at Ottawa Senators: Logan Thompson (+0.02 goals/gm) vs Samuel Ersson (-0.05 goals/gm); expected total 6.61
+  Florida Panthers at Columbus Blue Jackets: Jacob Markstrom (-0.01 goals/gm) vs Cam Talbot (+0.11 goals/gm); expected total 6.05
+  Detroit Red Wings at St. Louis Blues: John Gibson (-0.13 goals/gm) vs Joel Hofer (+0.09 goals/gm); expected total 5.94
+  Nashville Predators at Los Angeles Kings: Juuse Saros, Unconfirmed (+0.08 goals/gm) vs Anton Forsberg (+0.02 goals/gm); expected total 5.98
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

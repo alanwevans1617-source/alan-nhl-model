@@ -1,0 +1,15 @@
+                                  game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Columbus Blue Jackets @ Buffalo Sabres        Buffalo Sabres ML  -170    0.556   0.602 -0.046       -0.117       0.00
+Columbus Blue Jackets @ Buffalo Sabres Columbus Blue Jackets ML   140    0.444   0.398  0.046        0.066       1.18
+Columbus Blue Jackets @ Buffalo Sabres                 Over 6.5   100    0.372   0.478 -0.106       -0.256       0.00
+Columbus Blue Jackets @ Buffalo Sabres                Under 6.5  -120    0.628   0.522  0.106        0.152       2.00
+        Anaheim Ducks @ Calgary Flames        Calgary Flames ML  -145    0.471   0.566 -0.094       -0.204       0.00
+        Anaheim Ducks @ Calgary Flames         Anaheim Ducks ML   120    0.529   0.434  0.094        0.163       2.00
+        Anaheim Ducks @ Calgary Flames                 Over 6.5  -110    0.472   0.500 -0.028       -0.100       0.00
+        Anaheim Ducks @ Calgary Flames                Under 6.5  -110    0.528   0.500  0.028        0.009       0.00
+      San Jose Sharks @ Minnesota Wild        Minnesota Wild ML  -285    0.721   0.710  0.012       -0.026       0.00
+      San Jose Sharks @ Minnesota Wild       San Jose Sharks ML   230    0.279   0.290 -0.012       -0.080       0.00
+      San Jose Sharks @ Minnesota Wild                 Over 6.5  -110    0.397   0.500 -0.103       -0.242       0.00
+      San Jose Sharks @ Minnesota Wild                Under 6.5  -110    0.603   0.500  0.103        0.151       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
