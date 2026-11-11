@@ -341,6 +341,14 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-10,main,Detroit Red Wings @ St. Louis Blues,Under 6.0,-120,0.581,0.522,0.059,W,0.833,Detroit Red Wings 2 - St. Louis Blues 3
 2026-11-10,main,Nashville Predators @ Los Angeles Kings,Nashville Predators ML,110,0.529,0.457,0.072,W,1.1,Nashville Predators 3 - Los Angeles Kings 0
 2026-11-10,main,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.547,0.478,0.069,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-11,main,New York Rangers @ Calgary Flames,Under 6.0,-118,0.608,0.517,0.091,no game found,,
+2026-11-11,main,Philadelphia Flyers @ Edmonton Oilers,Edmonton Oilers ML,-190,0.664,0.626,0.038,no game found,,
+2026-11-11,main,Philadelphia Flyers @ Edmonton Oilers,Under 6.0,100,0.523,0.478,0.044,no game found,,
+2026-11-11,main,Utah Mammoth @ Vegas Golden Knights,Vegas Golden Knights ML,-125,0.576,0.532,0.044,no game found,,
+2026-11-11,main,Utah Mammoth @ Vegas Golden Knights,Under 6.5,-115,0.549,0.511,0.038,no game found,,
+2026-11-11,main,Nashville Predators @ Anaheim Ducks,Nashville Predators ML,118,0.52,0.44,0.08,no game found,,
+2026-11-11,main,Nashville Predators @ Anaheim Ducks,Under 6.5,110,0.496,0.457,0.039,no game found,,
+2026-11-11,main,Pittsburgh Penguins @ San Jose Sharks,Under 6.5,110,0.503,0.453,0.049,no game found,,
 2026-11-02,v3,Vegas Golden Knights @ Boston Bruins,Boston Bruins ML,100,0.544,0.478,0.065,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
 2026-11-02,v3,Vegas Golden Knights @ Boston Bruins,Under 6.0,100,0.517,0.478,0.039,W,1.0,Vegas Golden Knights 2 - Boston Bruins 3 SO
 2026-11-02,v3,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,154,0.458,0.378,0.081,W,1.54,Detroit Red Wings 5 - Florida Panthers 3
@@ -403,6 +411,11 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-10,v3,Florida Panthers @ Columbus Blue Jackets,Columbus Blue Jackets ML,105,0.525,0.468,0.057,L,-1.0,Florida Panthers 4 - Columbus Blue Jackets 1
 2026-11-10,v3,Nashville Predators @ Los Angeles Kings,Nashville Predators ML,110,0.496,0.457,0.039,W,1.1,Nashville Predators 3 - Los Angeles Kings 0
 2026-11-10,v3,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.535,0.478,0.057,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-11,v3,New York Rangers @ Calgary Flames,Under 6.0,-118,0.57,0.517,0.053,no game found,,
+2026-11-11,v3,Philadelphia Flyers @ Edmonton Oilers,Under 6.0,100,0.53,0.478,0.052,no game found,,
+2026-11-11,v3,Utah Mammoth @ Vegas Golden Knights,Under 6.5,-115,0.563,0.511,0.052,no game found,,
+2026-11-11,v3,Nashville Predators @ Anaheim Ducks,Nashville Predators ML,118,0.484,0.44,0.044,no game found,,
+2026-11-11,v3,Pittsburgh Penguins @ San Jose Sharks,Under 6.5,110,0.484,0.453,0.031,no game found,,
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
@@ -633,6 +646,10 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-10,xg,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.56,0.489,0.071,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT
 2026-11-10,xg,Florida Panthers @ Columbus Blue Jackets,Columbus Blue Jackets ML,105,0.507,0.468,0.039,L,-1.0,Florida Panthers 4 - Columbus Blue Jackets 1
 2026-11-10,xg,Nashville Predators @ Los Angeles Kings,Under 6.0,100,0.515,0.478,0.037,W,1.0,Nashville Predators 3 - Los Angeles Kings 0
+2026-11-11,xg,New York Rangers @ Calgary Flames,Under 6.0,-118,0.56,0.517,0.043,no game found,,
+2026-11-11,xg,Philadelphia Flyers @ Edmonton Oilers,Under 6.0,100,0.544,0.478,0.065,no game found,,
+2026-11-11,xg,Utah Mammoth @ Vegas Golden Knights,Under 6.5,-115,0.563,0.511,0.052,no game found,,
+2026-11-11,xg,Nashville Predators @ Anaheim Ducks,Nashville Predators ML,118,0.502,0.44,0.061,no game found,,
 2026-10-19,xgb,Anaheim Ducks @ New York Rangers,Under 6.5,-110,0.532,0.5,0.032,L,-1.0,Anaheim Ducks 2 - New York Rangers 5
 2026-10-19,xgb,Colorado Avalanche @ Philadelphia Flyers,Under 6.0,-105,0.519,0.489,0.03,W,0.952,Colorado Avalanche 2 - Philadelphia Flyers 3
 2026-10-19,xgb,Pittsburgh Penguins @ Utah Mammoth,Pittsburgh Penguins ML,155,0.395,0.374,0.02,L,-1.0,Pittsburgh Penguins 4 - Utah Mammoth 5
@@ -713,3 +730,6 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-09,xgb,Philadelphia Flyers @ Vancouver Canucks,Under 6.5,-120,0.555,0.522,0.033,W,0.833,Philadelphia Flyers 3 - Vancouver Canucks 1
 2026-11-10,xgb,New Jersey Devils @ Winnipeg Jets,Under 6.5,-115,0.544,0.511,0.033,W,0.87,New Jersey Devils 2 - Winnipeg Jets 4
 2026-11-10,xgb,Washington Capitals @ Ottawa Senators,Ottawa Senators ML,-105,0.524,0.489,0.035,L,-1.0,Washington Capitals 3 - Ottawa Senators 2 OT
+2026-11-11,xgb,Philadelphia Flyers @ Edmonton Oilers,Under 6.0,100,0.511,0.478,0.033,no game found,,
+2026-11-11,xgb,Utah Mammoth @ Vegas Golden Knights,Under 6.5,-115,0.537,0.511,0.026,no game found,,
+2026-11-11,xgb,Nashville Predators @ Anaheim Ducks,Nashville Predators ML,118,0.471,0.44,0.031,no game found,,
