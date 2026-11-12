@@ -1,6 +1,12 @@
 {
-  "locked": {},
+  "locked": {
+    "2026-11-12": [
+      "Carolina Hurricanes @ Seattle Kraken"
+    ]
+  },
   "morning_done": "2026-11-12",
-  "odds_credits_remaining": null,
-  "odds_pulls": {}
+  "odds_credits_remaining": "476",
+  "odds_pulls": {
+    "2026-11-12": 1
+  }
 }
