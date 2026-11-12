@@ -256,6 +256,70 @@ def pull_odds(day, st):
     return rows
 
 
+# ---------------------------------------------------------------- phone notifications (ntfy)
+def site_url():
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if "/" in repo:
+        owner, name = repo.split("/", 1)
+        return f"https://{owner.lower()}.github.io/{name}/"
+    return ""
+
+
+def notify(title, message):
+    """Push a message to the ntfy app. Needs the NTFY_TOPIC secret; silently skipped without it."""
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic:
+        return
+    title = title.replace("\u2013", "-").encode("ascii", "ignore").decode()  # headers must be plain ASCII
+    headers = {"Title": title, "Tags": "ice_hockey"}
+    if site_url():
+        headers["Click"] = site_url()
+    try:
+        r = requests.post(f"https://ntfy.sh/{topic}", data=message.encode("utf-8"), headers=headers, timeout=20)
+        log(f"Notification sent ({r.status_code}).")
+    except requests.RequestException as e:
+        log(f"Notification failed ({e.__class__.__name__}).")
+
+
+def _odds(o):
+    return f"+{o}" if o > 0 else str(o)
+
+
+def picks_message(out, have):
+    """Summarize the flagged bets from one V3 run."""
+    from grade_picks import parse_line
+    bets = [p for p in (parse_line(l) for l in out.splitlines()) if p and p["stake_pct"] > 0]
+    times = sorted({g["start"].astimezone(ET).strftime("%I:%M %p").lstrip("0") for g in have})
+    title = f"V3 picks for {', '.join(times)} ET games"
+    if not bets:
+        return title, f"No bets with a 3+ point edge in {len(have)} game(s)."
+    lines = []
+    for p in sorted(bets, key=lambda p: -p["edge"]):
+        what = p["bet"] if p["side"] == "ML" else f"{p['away'].split()[-1]} @ {p['home'].split()[-1]} {p['bet']}"
+        flag = "  (7+ edge, extra doubt)" if p["edge"] >= 0.07 else ""
+        lines.append(f"{what} ({_odds(p['odds'])}), edge {100 * p['edge']:+.1f}{flag}")
+    return title, "\n".join(lines) + "\nPaper picks only."
+
+
+def morning_message(day):
+    path = os.path.join(HERE, "graded_picks.csv")
+    if not os.path.exists(path):
+        return None
+    g = pd.read_csv(path, dtype={"date": str})
+    g = g[(g.model == "v3") & g.result.isin(["W", "L", "P"])]
+    if g.empty:
+        return None
+    last = g[g.date == g[g.date < day].date.max()] if (g.date < day).any() else g.iloc[0:0]
+    def rec(x):
+        w, l, p = (x.result == "W").sum(), (x.result == "L").sum(), (x.result == "P").sum()
+        return f"{w}\u2013{l}" + (f"\u2013{p}" if p else "") + f", {x.units.sum():+.2f} units"
+    if last.empty:
+        return None
+    d = pd.Timestamp(last.date.iloc[0])
+    return (f"V3 last night ({d:%b} {d.day}): {rec(last)}",
+            f"Season: {rec(g)}\nTonight's picks arrive about 1\u20132 hours before each game.")
+
+
 # ---------------------------------------------------------------- steps
 def run(cmd, out_path=None, append=False):
     """Run a project script. Failures are reported but never stop the whole run."""
@@ -293,6 +357,9 @@ def morning(day, st):
     run(["get_xg.py"])
     run(["get_goalie_stats.py"])
     st["morning_done"] = day
+    msg = morning_message(day)
+    if msg:
+        notify(*msg)
 
 
 def fresh_goalies(day):
@@ -342,6 +409,7 @@ def lock(day, games, due, st):
     with open(os.path.join(HERE, picks), "a", encoding="utf-8") as f:
         f.write(header + out)
     log(out)
+    notify(*picks_message(out, have))
     st.setdefault("locked", {}).setdefault(day, []).extend(f"{g['away']} @ {g['home']}" for g in have)
     return True
 
