@@ -43,7 +43,7 @@ NHL = "https://api-web.nhle.com/v1"
 ODDS_URL = "https://api.the-odds-api.com/v4/sports/icehockey_nhl/odds"
 BOOK = "betmgm"
 
-LOCK_MINUTES = 75      # pick a game once it is this close to puck drop
+LOCK_MINUTES = 150     # pick a game once it is this close to puck drop (GitHub runs only ~hourly)
 CLUSTER_MINUTES = 45   # ...and any game starting within this many minutes after it
 MAX_PULLS_PER_DAY = 8  # odds pulls per day (2 credits each): 8 x 2 x 31 days = 496, under the 500 free
 PREV_SEASON, CURR_SEASON = "20252026", "20262027"
