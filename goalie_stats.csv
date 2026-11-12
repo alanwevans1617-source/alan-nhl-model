@@ -15,40 +15,39 @@ Michael DiPietro,michaeldipietro,Boston Bruins,5,146,11,15.87,4.87,0.925,0.116
 Semyon Varlamov,semyonvarlamov,New York Islanders,5,130,14,18.76,4.76,0.892,0.115
 Alex Nedeljkovic,alexnedeljkovic,San Jose Sharks,7,220,23,28.07,5.07,0.895,0.113
 Joseph Woll,josephwoll,Philadelphia Flyers,10,295,29,33.76,4.76,0.902,0.1
-Yaroslav Askarov,yaroslavaskarov,San Jose Sharks,13,379,42,45.84,3.84,0.889,0.076
-Devin Cooley,devincooley,Calgary Flames,8,232,20,22.34,2.34,0.914,0.052
+Yaroslav Askarov,yaroslavaskarov,San Jose Sharks,14,414,44,49.18,5.18,0.894,0.1
 Adin Hill,adinhill,Vegas Golden Knights,9,238,23,25.33,2.33,0.903,0.051
+Devin Cooley,devincooley,Calgary Flames,9,255,22,24.3,2.3,0.914,0.05
 Logan Thompson,loganthompson,Washington Capitals,12,320,35,37.31,2.31,0.891,0.048
-Colten Ellis,coltenellis,Buffalo Sabres,7,173,20,21.82,1.82,0.884,0.042
 Anthony Stolarz,anthonystolarz,Toronto Maple Leafs,7,206,19,20.79,1.79,0.908,0.04
-Carter Hart,carterhart,Vegas Golden Knights,10,251,25,26.66,1.66,0.9,0.036
+Justus Annunen,justusannunen,Nashville Predators,5,140,16,17.5,1.5,0.886,0.036
 Dylan Garand,dylangarand,New York Rangers,14,328,31,32.58,1.58,0.905,0.032
 Jacob Markstrom,jacobmarkstrom,Florida Panthers,10,240,24,25.41,1.41,0.9,0.031
+Joonas Korpisalo,joonaskorpisalo,New York Rangers,2,58,4,5.15,1.15,0.931,0.03
 Devon Levi,devonlevi,Edmonton Oilers,9,248,25,26.21,1.21,0.899,0.026
 Matt Murray,mattmurray,Nashville Predators,1,20,2,2.83,0.83,0.9,0.022
+Carter Hart,carterhart,Vegas Golden Knights,11,268,28,28.91,0.91,0.896,0.02
 Connor Hellebuyck,connorhellebuyck,New Jersey Devils,5,115,10,10.77,0.77,0.913,0.019
-Laurent Brossoit,laurentbrossoit,Anaheim Ducks,4,106,13,13.75,0.75,0.877,0.018
 Casey DeSmith,caseydesmith,Dallas Stars,4,110,10,10.59,0.59,0.909,0.014
 Mackenzie Blackwood,mackenzieblackwood,Colorado Avalanche,15,384,38,38.63,0.63,0.901,0.012
+Andrei Vasilevskiy,andreivasilevskiy,Tampa Bay Lightning,14,348,40,39.99,-0.01,0.885,-0.0
 Matt Tomkins,matttomkins,Edmonton Oilers,2,50,6,6.01,0.01,0.88,0.0
 Akira Schmid,akiraschmid,Florida Panthers,9,229,26,25.95,-0.05,0.886,-0.001
-Joonas Korpisalo,joonaskorpisalo,New York Rangers,1,28,3,2.86,-0.14,0.893,-0.004
+Sergei Murashov,sergeimurashov,Pittsburgh Penguins,7,211,23,22.93,-0.07,0.891,-0.002
+Laurent Brossoit,laurentbrossoit,Anaheim Ducks,5,128,17,16.86,-0.14,0.867,-0.003
 Anton Forsberg,antonforsberg,Los Angeles Kings,7,172,16,15.82,-0.18,0.907,-0.004
 Stuart Skinner,stuartskinner,Winnipeg Jets,13,343,40,39.73,-0.27,0.883,-0.005
-Andrei Vasilevskiy,andreivasilevskiy,Tampa Bay Lightning,13,317,37,36.61,-0.39,0.883,-0.008
 Michal Postava,michalpostava,Detroit Red Wings,2,35,4,3.71,-0.29,0.886,-0.008
+Tristan Jarry,tristanjarry,Edmonton Oilers,9,238,23,22.6,-0.4,0.903,-0.009
+Colten Ellis,coltenellis,Buffalo Sabres,8,181,23,22.55,-0.45,0.873,-0.01
 Charlie Lindgren,charlielindgren,Washington Capitals,5,118,14,13.49,-0.51,0.881,-0.012
-Dan Vladar,danvladar,Philadelphia Flyers,10,274,33,32.2,-0.8,0.88,-0.017
 Philipp Grubauer,philippgrubauer,Seattle Kraken,10,245,27,26.22,-0.78,0.89,-0.017
-Ukko-Pekka Luukkonen,ukkopekkaluukkonen,Buffalo Sabres,11,287,35,33.98,-1.02,0.878,-0.022
-Justus Annunen,justusannunen,Nashville Predators,4,111,14,13.09,-0.91,0.874,-0.022
 Arsenii Sergeev,arseniisergeev,Calgary Flames,1,34,5,4.18,-0.82,0.853,-0.022
+Dan Vladar,danvladar,Philadelphia Flyers,11,298,36,34.78,-1.22,0.879,-0.026
 Cooper Black,cooperblack,Florida Panthers,1,21,3,1.99,-1.01,0.857,-0.027
 Dennis Hildeby,dennishildeby,Tampa Bay Lightning,4,100,12,10.82,-1.18,0.88,-0.029
 Spencer Martin,spencermartin,New York Rangers,1,18,3,1.91,-1.09,0.833,-0.029
 Lukas Dostal,lukasdostal,Anaheim Ducks,10,253,34,32.61,-1.39,0.866,-0.03
-Tristan Jarry,tristanjarry,Edmonton Oilers,8,206,21,19.58,-1.42,0.898,-0.032
-Sergei Murashov,sergeimurashov,Pittsburgh Penguins,6,175,21,19.54,-1.46,0.88,-0.034
 Jet Greaves,jetgreaves,Columbus Blue Jackets,9,216,26,24.4,-1.6,0.88,-0.036
 Nico Daws,nicodaws,Winnipeg Jets,7,153,17,15.28,-1.72,0.889,-0.041
 Spencer Knight,spencerknight,Chicago Blackhawks,14,413,49,46.83,-2.17,0.881,-0.042
@@ -61,12 +60,13 @@ Joey Daccord,joeydaccord,Seattle Kraken,9,236,28,25.45,-2.55,0.881,-0.056
 Calvin Pickard,calvinpickard,Minnesota Wild,3,76,11,8.76,-2.24,0.855,-0.057
 Samuel Ersson,samuelersson,Ottawa Senators,10,217,25,22.41,-2.59,0.885,-0.058
 Clay Stevenson,claystevenson,Winnipeg Jets,5,123,16,13.4,-2.6,0.87,-0.063
-Sebastian Cossa,sebastiancossa,Utah Mammoth,7,147,19,15.47,-3.53,0.871,-0.084
+Ukko-Pekka Luukkonen,ukkopekkaluukkonen,Buffalo Sabres,12,301,40,36.7,-3.3,0.867,-0.069
 Brandon Bussi,brandonbussi,Carolina Hurricanes,7,175,23,18.84,-4.16,0.869,-0.096
 Jonas Johansson,jonasjohansson,Ottawa Senators,4,105,16,12.03,-3.97,0.848,-0.098
 Darcy Kuemper,darcykuemper,Los Angeles Kings,10,271,33,28.17,-4.83,0.878,-0.103
-John Gibson,johngibson,Detroit Red Wings,12,268,36,30.31,-5.69,0.866,-0.122
+Sebastian Cossa,sebastiancossa,Utah Mammoth,8,175,24,18.77,-5.23,0.863,-0.121
 Jake Allen,jakeallen,New Jersey Devils,10,268,32,26.29,-5.71,0.881,-0.122
+John Gibson,johngibson,Detroit Red Wings,12,268,36,30.31,-5.69,0.866,-0.122
 Jordan Binnington,jordanbinnington,St. Louis Blues,5,141,21,15.59,-5.41,0.851,-0.129
 Scott Wedgewood,scottwedgewood,Colorado Avalanche,5,135,18,12.43,-5.57,0.867,-0.133
 Dustin Wolf,dustinwolf,Calgary Flames,10,274,36,29.39,-6.61,0.869,-0.141
