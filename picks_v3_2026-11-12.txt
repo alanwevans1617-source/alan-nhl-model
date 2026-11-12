@@ -12,3 +12,42 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Carolina Hurricanes at Seattle Kraken: Brandon Bussi, Likely (-0.13 goals/gm) vs Philipp Grubauer, Likely (+0.00 goals/gm); expected total 6.70
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 06:29 PM ET: Montreal Canadiens at Boston Bruins (07:00 PM); Minnesota Wild at Toronto Maple Leafs (07:00 PM); Colorado Avalanche at Ottawa Senators (07:00 PM); Washington Capitals at New Jersey Devils (07:00 PM); Tampa Bay Lightning at Columbus Blue Jackets (07:00 PM); Detroit Red Wings at Florida Panthers (07:30 PM)
+                                       game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+         Montreal Canadiens @ Boston Bruins         Boston Bruins ML  -125    0.568   0.532  0.036        0.022       0.70
+         Montreal Canadiens @ Boston Bruins    Montreal Canadiens ML   105    0.432   0.468 -0.036       -0.114       0.00
+         Montreal Canadiens @ Boston Bruins                 Over 6.0  -115    0.496   0.511 -0.015       -0.072       0.00
+         Montreal Canadiens @ Boston Bruins                Under 6.0  -105    0.504   0.489  0.015       -0.016       0.00
+       Minnesota Wild @ Toronto Maple Leafs   Toronto Maple Leafs ML   150    0.366   0.384 -0.018       -0.085       0.00
+       Minnesota Wild @ Toronto Maple Leafs        Minnesota Wild ML  -180    0.634   0.616  0.018       -0.014       0.00
+       Minnesota Wild @ Toronto Maple Leafs                 Over 6.5  -102    0.416   0.483 -0.067       -0.176       0.00
+       Minnesota Wild @ Toronto Maple Leafs                Under 6.5  -118    0.584   0.517  0.067        0.079       2.00
+       Colorado Avalanche @ Ottawa Senators       Ottawa Senators ML  -115    0.529   0.511  0.018       -0.011       0.00
+       Colorado Avalanche @ Ottawa Senators    Colorado Avalanche ML  -105    0.471   0.489 -0.018       -0.080       0.00
+       Colorado Avalanche @ Ottawa Senators                 Over 6.5   100    0.446   0.478 -0.033       -0.109       0.00
+       Colorado Avalanche @ Ottawa Senators                Under 6.5  -120    0.554   0.522  0.033        0.016       0.49
+    Washington Capitals @ New Jersey Devils     New Jersey Devils ML  -155    0.583   0.583  0.000       -0.041       0.00
+    Washington Capitals @ New Jersey Devils   Washington Capitals ML   130    0.417   0.417 -0.000       -0.041       0.00
+    Washington Capitals @ New Jersey Devils                 Over 6.0  -115    0.551   0.511  0.040        0.031       0.88
+    Washington Capitals @ New Jersey Devils                Under 6.0  -105    0.449   0.489 -0.040       -0.124       0.00
+Tampa Bay Lightning @ Columbus Blue Jackets Columbus Blue Jackets ML  -110    0.414   0.500 -0.086       -0.209       0.00
+Tampa Bay Lightning @ Columbus Blue Jackets   Tampa Bay Lightning ML  -110    0.586   0.500  0.086        0.118       2.00
+Tampa Bay Lightning @ Columbus Blue Jackets                 Over 6.5  -105    0.464   0.489 -0.025       -0.093       0.00
+Tampa Bay Lightning @ Columbus Blue Jackets                Under 6.5  -115    0.536   0.511  0.025        0.001       0.00
+       Detroit Red Wings @ Florida Panthers      Florida Panthers ML  -200    0.585   0.639 -0.053       -0.122       0.00
+       Detroit Red Wings @ Florida Panthers     Detroit Red Wings ML   165    0.415   0.361  0.053        0.099       1.51
+       Detroit Red Wings @ Florida Panthers                 Over 6.0  -105    0.522   0.489  0.033        0.019       0.50
+       Detroit Red Wings @ Florida Panthers                Under 6.0  -115    0.478   0.511 -0.033       -0.106       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Montreal Canadiens at Boston Bruins: Jacob Fowler (+0.20 goals/gm) vs Jeremy Swayman (+0.11 goals/gm); expected total 6.14
+  Minnesota Wild at Toronto Maple Leafs: Jesper Wallstedt (+0.18 goals/gm) vs Anthony Stolarz (+0.05 goals/gm); expected total 6.14
+  Colorado Avalanche at Ottawa Senators: Scott Wedgewood (-0.12 goals/gm) vs Linus Ullmark (+0.18 goals/gm); expected total 6.32
+  Washington Capitals at New Jersey Devils: Logan Thompson (+0.03 goals/gm) vs Connor Hellebuyck (+0.06 goals/gm); expected total 6.44
+  Tampa Bay Lightning at Columbus Blue Jackets: Dennis Hildeby (-0.03 goals/gm) vs Jet Greaves (-0.06 goals/gm); expected total 6.44
+  Detroit Red Wings at Florida Panthers: John Gibson (-0.12 goals/gm) vs Akira Schmid (-0.01 goals/gm); expected total 6.28
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

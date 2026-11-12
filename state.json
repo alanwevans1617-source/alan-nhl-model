@@ -1,12 +1,18 @@
 {
   "locked": {
     "2026-11-12": [
-      "Carolina Hurricanes @ Seattle Kraken"
+      "Carolina Hurricanes @ Seattle Kraken",
+      "Montreal Canadiens @ Boston Bruins",
+      "Minnesota Wild @ Toronto Maple Leafs",
+      "Colorado Avalanche @ Ottawa Senators",
+      "Washington Capitals @ New Jersey Devils",
+      "Tampa Bay Lightning @ Columbus Blue Jackets",
+      "Detroit Red Wings @ Florida Panthers"
     ]
   },
   "morning_done": "2026-11-12",
-  "odds_credits_remaining": "476",
+  "odds_credits_remaining": "474",
   "odds_pulls": {
-    "2026-11-12": 1
+    "2026-11-12": 2
   }
 }
