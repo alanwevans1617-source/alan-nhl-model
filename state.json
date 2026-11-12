@@ -7,12 +7,15 @@
       "Colorado Avalanche @ Ottawa Senators",
       "Washington Capitals @ New Jersey Devils",
       "Tampa Bay Lightning @ Columbus Blue Jackets",
-      "Detroit Red Wings @ Florida Panthers"
+      "Detroit Red Wings @ Florida Panthers",
+      "Buffalo Sabres @ Chicago Blackhawks",
+      "Winnipeg Jets @ Dallas Stars",
+      "St. Louis Blues @ Utah Mammoth"
     ]
   },
   "morning_done": "2026-11-12",
-  "odds_credits_remaining": "474",
+  "odds_credits_remaining": "472",
   "odds_pulls": {
-    "2026-11-12": 2
+    "2026-11-12": 3
   }
 }

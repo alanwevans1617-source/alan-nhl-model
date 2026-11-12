@@ -416,6 +416,14 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-11,v3,Utah Mammoth @ Vegas Golden Knights,Under 6.5,-115,0.563,0.511,0.052,L,-1.0,Utah Mammoth 3 - Vegas Golden Knights 5
 2026-11-11,v3,Nashville Predators @ Anaheim Ducks,Nashville Predators ML,118,0.484,0.44,0.044,W,1.18,Nashville Predators 4 - Anaheim Ducks 2
 2026-11-11,v3,Pittsburgh Penguins @ San Jose Sharks,Under 6.5,110,0.484,0.453,0.031,W,1.1,Pittsburgh Penguins 3 - San Jose Sharks 2 SO
+2026-11-12,v3,Carolina Hurricanes @ Seattle Kraken,Seattle Kraken ML,240,0.36,0.282,0.079,L,-1.0,Carolina Hurricanes 4 - Seattle Kraken 1
+2026-11-12,v3,Montreal Canadiens @ Boston Bruins,Boston Bruins ML,-125,0.568,0.532,0.036,pending,,
+2026-11-12,v3,Minnesota Wild @ Toronto Maple Leafs,Under 6.5,-118,0.584,0.517,0.067,pending,,
+2026-11-12,v3,Colorado Avalanche @ Ottawa Senators,Under 6.5,-120,0.554,0.522,0.033,pending,,
+2026-11-12,v3,Washington Capitals @ New Jersey Devils,Over 6.0,-115,0.551,0.511,0.04,pending,,
+2026-11-12,v3,Tampa Bay Lightning @ Columbus Blue Jackets,Tampa Bay Lightning ML,-110,0.586,0.5,0.086,pending,,
+2026-11-12,v3,Detroit Red Wings @ Florida Panthers,Detroit Red Wings ML,165,0.415,0.361,0.053,pending,,
+2026-11-12,v3,Detroit Red Wings @ Florida Panthers,Over 6.0,-105,0.522,0.489,0.033,pending,,
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2

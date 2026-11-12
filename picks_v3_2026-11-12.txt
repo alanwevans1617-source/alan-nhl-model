@@ -51,3 +51,27 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Tampa Bay Lightning at Columbus Blue Jackets: Dennis Hildeby (-0.03 goals/gm) vs Jet Greaves (-0.06 goals/gm); expected total 6.44
   Detroit Red Wings at Florida Panthers: John Gibson (-0.12 goals/gm) vs Akira Schmid (-0.01 goals/gm); expected total 6.28
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 06:43 PM ET: Buffalo Sabres at Chicago Blackhawks (08:00 PM); Winnipeg Jets at Dallas Stars (08:00 PM); St. Louis Blues at Utah Mammoth (09:00 PM)
+                               game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Buffalo Sabres @ Chicago Blackhawks Chicago Blackhawks ML   130    0.406   0.417 -0.011       -0.065       0.00
+Buffalo Sabres @ Chicago Blackhawks     Buffalo Sabres ML  -155    0.594   0.583  0.011       -0.024       0.00
+Buffalo Sabres @ Chicago Blackhawks              Over 6.5  -110    0.442   0.500 -0.058       -0.157       0.00
+Buffalo Sabres @ Chicago Blackhawks             Under 6.5  -110    0.558   0.500  0.058        0.066       1.81
+       Winnipeg Jets @ Dallas Stars       Dallas Stars ML  -165    0.619   0.599  0.020       -0.006       0.00
+       Winnipeg Jets @ Dallas Stars      Winnipeg Jets ML   140    0.381   0.401 -0.020       -0.085       0.00
+       Winnipeg Jets @ Dallas Stars              Over 5.5  -120    0.506   0.522 -0.016       -0.073       0.00
+       Winnipeg Jets @ Dallas Stars             Under 5.5   100    0.494   0.478  0.016       -0.011       0.00
+     St. Louis Blues @ Utah Mammoth       Utah Mammoth ML   110    0.537   0.457  0.079        0.127       2.00
+     St. Louis Blues @ Utah Mammoth    St. Louis Blues ML  -130    0.463   0.543 -0.079       -0.180       0.00
+     St. Louis Blues @ Utah Mammoth              Over 6.0  -110    0.534   0.500  0.034        0.019       0.53
+     St. Louis Blues @ Utah Mammoth             Under 6.0  -110    0.466   0.500 -0.034       -0.110       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Buffalo Sabres at Chicago Blackhawks: Alex Lyon, no stats (+0.02 goals/gm) vs Spencer Knight, Unconfirmed (-0.01 goals/gm); expected total 6.30
+  Winnipeg Jets at Dallas Stars: Stuart Skinner (+0.01 goals/gm) vs Jake Oettinger (+0.10 goals/gm); expected total 5.70
+  St. Louis Blues at Utah Mammoth: Joel Hofer (+0.10 goals/gm) vs Karel Vejmelka, Likely (-0.09 goals/gm); expected total 6.34
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
