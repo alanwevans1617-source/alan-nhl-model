@@ -75,3 +75,17 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Winnipeg Jets at Dallas Stars: Stuart Skinner (+0.01 goals/gm) vs Jake Oettinger (+0.10 goals/gm); expected total 5.70
   St. Louis Blues at Utah Mammoth: Joel Hofer (+0.10 goals/gm) vs Karel Vejmelka, Likely (-0.09 goals/gm); expected total 6.34
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:57 PM ET: New York Islanders at Los Angeles Kings (10:00 PM)
+                                  game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+New York Islanders @ Los Angeles Kings  Los Angeles Kings ML  -120    0.526   0.522  0.005       -0.035       0.00
+New York Islanders @ Los Angeles Kings New York Islanders ML   100    0.474   0.478 -0.005       -0.053       0.00
+New York Islanders @ Los Angeles Kings              Over 6.0  -110    0.469   0.500 -0.031       -0.104       0.00
+New York Islanders @ Los Angeles Kings             Under 6.0  -110    0.531   0.500  0.031        0.013       0.36
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  New York Islanders at Los Angeles Kings: Ilya Sorokin, Likely (+0.08 goals/gm) vs Darcy Kuemper, Likely (-0.07 goals/gm); expected total 6.00
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
