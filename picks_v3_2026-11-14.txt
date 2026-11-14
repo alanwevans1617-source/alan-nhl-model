@@ -1,0 +1,14 @@
+
+Locked 11:15 AM ET: Seattle Kraken at Carolina Hurricanes (01:00 PM)
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Seattle Kraken @ Carolina Hurricanes Carolina Hurricanes ML  -400    0.726   0.766 -0.040       -0.092       0.00
+Seattle Kraken @ Carolina Hurricanes      Seattle Kraken ML   310    0.274   0.234  0.040        0.122       0.99
+Seattle Kraken @ Carolina Hurricanes               Over 6.5   100    0.486   0.478  0.008       -0.028       0.00
+Seattle Kraken @ Carolina Hurricanes              Under 6.5  -120    0.514   0.522 -0.008       -0.058       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Seattle Kraken at Carolina Hurricanes: no starters found in goalies.csv, no adjustment
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

@@ -16,12 +16,16 @@
     "2026-11-13": [
       "New York Rangers @ Vancouver Canucks",
       "Nashville Predators @ Vegas Golden Knights"
+    ],
+    "2026-11-14": [
+      "Seattle Kraken @ Carolina Hurricanes"
     ]
   },
   "morning_done": "2026-11-14",
-  "odds_credits_remaining": "466",
+  "odds_credits_remaining": "464",
   "odds_pulls": {
     "2026-11-12": 4,
-    "2026-11-13": 2
+    "2026-11-13": 2,
+    "2026-11-14": 1
   }
 }
