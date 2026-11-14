@@ -27,14 +27,15 @@
       "Ottawa Senators @ Pittsburgh Penguins",
       "New Jersey Devils @ Washington Capitals",
       "Philadelphia Flyers @ Columbus Blue Jackets",
-      "Florida Panthers @ St. Louis Blues"
+      "Florida Panthers @ St. Louis Blues",
+      "Buffalo Sabres @ Dallas Stars"
     ]
   },
   "morning_done": "2026-11-14",
-  "odds_credits_remaining": "460",
+  "odds_credits_remaining": "458",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
-    "2026-11-14": 3
+    "2026-11-14": 4
   }
 }

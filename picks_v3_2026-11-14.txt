@@ -75,3 +75,17 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Philadelphia Flyers at Columbus Blue Jackets: Joseph Woll (+0.08 goals/gm) vs Jet Greaves (-0.05 goals/gm); expected total 5.60
   Florida Panthers at St. Louis Blues: Jacob Markstrom (+0.03 goals/gm) vs Joel Hofer (+0.13 goals/gm); expected total 5.92
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 05:51 PM ET: Buffalo Sabres at Dallas Stars (08:00 PM)
+                         game               bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Buffalo Sabres @ Dallas Stars   Dallas Stars ML  -135    0.589   0.553  0.036        0.025       0.84
+Buffalo Sabres @ Dallas Stars Buffalo Sabres ML   115    0.411   0.447 -0.036       -0.116       0.00
+Buffalo Sabres @ Dallas Stars          Over 6.5   100    0.391   0.478 -0.087       -0.217       0.00
+Buffalo Sabres @ Dallas Stars         Under 6.5  -120    0.609   0.522  0.087        0.116       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Buffalo Sabres at Dallas Stars: Alex Lyon (+0.01 goals/gm) vs Jake Oettinger (+0.07 goals/gm); expected total 5.99
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
