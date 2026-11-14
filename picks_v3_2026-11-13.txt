@@ -12,3 +12,17 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   New York Rangers at Vancouver Canucks: Dylan Garand (+0.01 goals/gm) vs Leevi Merilainen, Likely, no stats (+0.07 goals/gm); expected total 6.23
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:52 PM ET: Nashville Predators at Vegas Golden Knights (10:00 PM)
+                                      game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Nashville Predators @ Vegas Golden Knights Vegas Golden Knights ML  -160    0.563   0.591 -0.029       -0.086        0.0
+Nashville Predators @ Vegas Golden Knights  Nashville Predators ML   135    0.437   0.409  0.029        0.028        0.0
+Nashville Predators @ Vegas Golden Knights                Over 6.0  -118    0.439   0.517 -0.078       -0.188        0.0
+Nashville Predators @ Vegas Golden Knights               Under 6.0  -102    0.561   0.483  0.078        0.110        2.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Nashville Predators at Vegas Golden Knights: Juuse Saros (+0.11 goals/gm) vs Adin Hill (+0.03 goals/gm); expected total 5.85
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
