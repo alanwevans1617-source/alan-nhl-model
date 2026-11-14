@@ -12,11 +12,15 @@
       "Winnipeg Jets @ Dallas Stars",
       "St. Louis Blues @ Utah Mammoth",
       "New York Islanders @ Los Angeles Kings"
+    ],
+    "2026-11-13": [
+      "New York Rangers @ Vancouver Canucks"
     ]
   },
   "morning_done": "2026-11-13",
-  "odds_credits_remaining": "470",
+  "odds_credits_remaining": "468",
   "odds_pulls": {
-    "2026-11-12": 4
+    "2026-11-12": 4,
+    "2026-11-13": 1
   }
 }

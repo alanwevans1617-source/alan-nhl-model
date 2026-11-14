@@ -1,0 +1,14 @@
+
+Locked 07:13 PM ET: New York Rangers at Vancouver Canucks (09:00 PM)
+                                game                  bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+New York Rangers @ Vancouver Canucks Vancouver Canucks ML   180    0.385   0.342  0.043        0.078       1.08
+New York Rangers @ Vancouver Canucks  New York Rangers ML  -220    0.615   0.658 -0.043       -0.105       0.00
+New York Rangers @ Vancouver Canucks             Over 6.5  -102    0.431   0.483 -0.052       -0.147       0.00
+New York Rangers @ Vancouver Canucks            Under 6.5  -118    0.569   0.517  0.052        0.052       1.53
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  New York Rangers at Vancouver Canucks: Dylan Garand (+0.01 goals/gm) vs Leevi Merilainen, Likely, no stats (+0.07 goals/gm); expected total 6.23
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
