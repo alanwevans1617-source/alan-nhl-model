@@ -12,3 +12,17 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Seattle Kraken at Carolina Hurricanes: no starters found in goalies.csv, no adjustment
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 01:10 PM ET: Winnipeg Jets at Chicago Blackhawks (03:30 PM)
+                              game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Winnipeg Jets @ Chicago Blackhawks Chicago Blackhawks ML   135    0.409   0.409 -0.000       -0.039       0.00
+Winnipeg Jets @ Chicago Blackhawks      Winnipeg Jets ML  -160    0.591   0.591  0.000       -0.039       0.00
+Winnipeg Jets @ Chicago Blackhawks              Over 6.5   100    0.423   0.478 -0.055       -0.153       0.00
+Winnipeg Jets @ Chicago Blackhawks             Under 6.5  -120    0.577   0.522  0.055        0.057       1.71
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Winnipeg Jets at Chicago Blackhawks: Stuart Skinner, Unconfirmed (+0.02 goals/gm) vs Spencer Knight, Unconfirmed (-0.01 goals/gm); expected total 6.19
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
