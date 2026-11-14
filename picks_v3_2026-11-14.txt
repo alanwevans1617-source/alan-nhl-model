@@ -26,3 +26,52 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Winnipeg Jets at Chicago Blackhawks: Stuart Skinner, Unconfirmed (+0.02 goals/gm) vs Spencer Knight, Unconfirmed (-0.01 goals/gm); expected total 6.19
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 05:13 PM ET: Minnesota Wild at Boston Bruins (07:00 PM); Edmonton Oilers at Toronto Maple Leafs (07:00 PM); Colorado Avalanche at Montreal Canadiens (07:00 PM); Detroit Red Wings at Tampa Bay Lightning (07:00 PM); Ottawa Senators at Pittsburgh Penguins (07:00 PM); New Jersey Devils at Washington Capitals (07:00 PM); Philadelphia Flyers at Columbus Blue Jackets (07:00 PM); Florida Panthers at St. Louis Blues (07:00 PM)
+                                       game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+             Minnesota Wild @ Boston Bruins         Boston Bruins ML   110    0.468   0.457  0.011       -0.017       0.00
+             Minnesota Wild @ Boston Bruins        Minnesota Wild ML  -130    0.532   0.543 -0.011       -0.059       0.00
+             Minnesota Wild @ Boston Bruins                 Over 6.0  -110    0.438   0.500 -0.062       -0.163       0.00
+             Minnesota Wild @ Boston Bruins                Under 6.0  -110    0.562   0.500  0.062        0.072       1.99
+      Edmonton Oilers @ Toronto Maple Leafs   Toronto Maple Leafs ML   125    0.424   0.426 -0.002       -0.047       0.00
+      Edmonton Oilers @ Toronto Maple Leafs       Edmonton Oilers ML  -150    0.576   0.574  0.002       -0.040       0.00
+      Edmonton Oilers @ Toronto Maple Leafs                 Over 6.5  -135    0.469   0.553 -0.084       -0.184       0.00
+      Edmonton Oilers @ Toronto Maple Leafs                Under 6.5   115    0.531   0.447  0.084        0.142       2.00
+    Colorado Avalanche @ Montreal Canadiens    Montreal Canadiens ML  -140    0.428   0.560 -0.131       -0.266       0.00
+    Colorado Avalanche @ Montreal Canadiens    Colorado Avalanche ML   118    0.572   0.440  0.131        0.246       2.00
+    Colorado Avalanche @ Montreal Canadiens                 Over 6.5   100    0.532   0.478  0.053        0.063       1.58
+    Colorado Avalanche @ Montreal Canadiens                Under 6.5  -120    0.468   0.522 -0.053       -0.141       0.00
+    Detroit Red Wings @ Tampa Bay Lightning   Tampa Bay Lightning ML  -220    0.616   0.658 -0.042       -0.104       0.00
+    Detroit Red Wings @ Tampa Bay Lightning     Detroit Red Wings ML   180    0.384   0.342  0.042        0.076       1.06
+    Detroit Red Wings @ Tampa Bay Lightning                 Over 6.0  -115    0.520   0.511  0.009       -0.028       0.00
+    Detroit Red Wings @ Tampa Bay Lightning                Under 6.0  -105    0.480   0.489 -0.009       -0.063       0.00
+      Ottawa Senators @ Pittsburgh Penguins   Pittsburgh Penguins ML   115    0.460   0.447  0.013       -0.010       0.00
+      Ottawa Senators @ Pittsburgh Penguins       Ottawa Senators ML  -135    0.540   0.553 -0.013       -0.061       0.00
+      Ottawa Senators @ Pittsburgh Penguins                 Over 6.5  -102    0.447   0.483 -0.036       -0.116       0.00
+      Ottawa Senators @ Pittsburgh Penguins                Under 6.5  -118    0.553   0.517  0.036        0.022       0.66
+    New Jersey Devils @ Washington Capitals   Washington Capitals ML   115    0.462   0.447  0.015       -0.006       0.00
+    New Jersey Devils @ Washington Capitals     New Jersey Devils ML  -135    0.538   0.553 -0.015       -0.064       0.00
+    New Jersey Devils @ Washington Capitals                 Over 6.5  -105    0.468   0.489 -0.021       -0.086       0.00
+    New Jersey Devils @ Washington Capitals                Under 6.5  -115    0.532   0.511  0.021       -0.006       0.00
+Philadelphia Flyers @ Columbus Blue Jackets Columbus Blue Jackets ML  -135    0.515   0.553 -0.038       -0.104       0.00
+Philadelphia Flyers @ Columbus Blue Jackets   Philadelphia Flyers ML   115    0.485   0.447  0.038        0.044       0.95
+Philadelphia Flyers @ Columbus Blue Jackets                 Over 5.5  -115    0.489   0.511 -0.022       -0.086       0.00
+Philadelphia Flyers @ Columbus Blue Jackets                Under 5.5  -105    0.511   0.489  0.022       -0.002       0.00
+         Florida Panthers @ St. Louis Blues       St. Louis Blues ML  -110    0.538   0.500  0.038        0.027       0.74
+         Florida Panthers @ St. Louis Blues      Florida Panthers ML  -110    0.462   0.500 -0.038       -0.118       0.00
+         Florida Panthers @ St. Louis Blues                 Over 6.0  -105    0.453   0.489 -0.036       -0.115       0.00
+         Florida Panthers @ St. Louis Blues                Under 6.0  -115    0.547   0.511  0.036        0.022       0.64
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Minnesota Wild at Boston Bruins: Jesper Wallstedt (+0.18 goals/gm) vs Jeremy Swayman (+0.09 goals/gm); expected total 5.84
+  Edmonton Oilers at Toronto Maple Leafs: Devon Levi, Unconfirmed (+0.02 goals/gm) vs Anthony Stolarz (+0.02 goals/gm); expected total 6.47
+  Colorado Avalanche at Montreal Canadiens: Mackenzie Blackwood (+0.03 goals/gm) vs Jakub Dobes (-0.21 goals/gm); expected total 6.88
+  Detroit Red Wings at Tampa Bay Lightning: Daniil Tarasov, Likely (+0.17 goals/gm) vs Andrei Vasilevskiy, Likely (-0.00 goals/gm); expected total 6.27
+  Ottawa Senators at Pittsburgh Penguins: Linus Ullmark (+0.17 goals/gm) vs Sergei Murashov (+0.01 goals/gm); expected total 6.33
+  New Jersey Devils at Washington Capitals: Connor Hellebuyck (+0.06 goals/gm) vs Charlie Lindgren (-0.01 goals/gm); expected total 6.47
+  Philadelphia Flyers at Columbus Blue Jackets: Joseph Woll (+0.08 goals/gm) vs Jet Greaves (-0.05 goals/gm); expected total 5.60
+  Florida Panthers at St. Louis Blues: Jacob Markstrom (+0.03 goals/gm) vs Joel Hofer (+0.13 goals/gm); expected total 5.92
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
