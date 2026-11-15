@@ -1,13 +1,13 @@
 pulled_at,start,book,home,away,home_ml,away_ml,total_line,over,under
-2026-11-14 19:10,2026-11-14 19:08,betmgm,Boston Bruins,Minnesota Wild,100,-125,5.5,-135,100
-2026-11-14 19:10,2026-11-14 19:08,betmgm,Columbus Blue Jackets,Philadelphia Flyers,-135,105,5.5,-120,-110
-2026-11-14 19:10,2026-11-14 19:08,betmgm,Washington Capitals,New Jersey Devils,105,-135,6.5,-110,-120
-2026-11-14 19:10,2026-11-14 19:09,betmgm,Tampa Bay Lightning,Detroit Red Wings,-210,165,5.5,-150,110
-2026-11-14 19:10,2026-11-14 19:10,betmgm,Pittsburgh Penguins,Ottawa Senators,105,-135,6.5,100,-135
-2026-11-14 19:10,2026-11-14 19:15,betmgm,Toronto Maple Leafs,Edmonton Oilers,120,-145,6.5,-130,110
-2026-11-14 19:10,2026-11-14 19:15,betmgm,St. Louis Blues,Florida Panthers,-110,-110,5.5,-115,-105
-2026-11-14 19:10,2026-11-14 19:20,betmgm,Montreal Canadiens,Colorado Avalanche,-130,110,6.5,100,-120
-2026-11-14 19:10,2026-11-14 20:10,betmgm,Dallas Stars,Buffalo Sabres,-135,115,6.5,100,-120
-2026-11-14 19:10,2026-11-14 21:10,betmgm,Utah Mammoth,San Jose Sharks,-190,155,6.0,-120,100
-2026-11-14 19:10,2026-11-14 22:10,betmgm,Anaheim Ducks,New York Islanders,-110,-110,7.0,115,-135
-2026-11-14 19:10,2026-11-14 22:10,betmgm,Los Angeles Kings,Calgary Flames,-170,140,5.5,-115,-105
+2026-11-14 19:54,2026-11-14 19:08,betmgm,Boston Bruins,Minnesota Wild,230,-300,5.5,125,-165
+2026-11-14 19:54,2026-11-14 19:08,betmgm,Columbus Blue Jackets,Philadelphia Flyers,-295,225,7.5,130,-175
+2026-11-14 19:54,2026-11-14 19:08,betmgm,Washington Capitals,New Jersey Devils,-200,160,9.5,-105,-130
+2026-11-14 19:54,2026-11-14 19:09,betmgm,Tampa Bay Lightning,Detroit Red Wings,-185,145,4.5,100,-135
+2026-11-14 19:54,2026-11-14 19:12,betmgm,St. Louis Blues,Florida Panthers,333,-475,6.5,105,-140
+2026-11-14 19:54,2026-11-14 19:15,betmgm,Toronto Maple Leafs,Edmonton Oilers,110,-140,4.5,-140,105
+2026-11-14 19:54,2026-11-14 19:21,betmgm,Montreal Canadiens,Colorado Avalanche,360,-500,6.5,-130,-102
+2026-11-14 19:54,2026-11-14 19:23,betmgm,Pittsburgh Penguins,Ottawa Senators,100,-125,4.5,-155,115
+2026-11-14 19:54,2026-11-14 20:10,betmgm,Dallas Stars,Buffalo Sabres,-135,115,6.0,-120,100
+2026-11-14 19:54,2026-11-14 21:10,betmgm,Utah Mammoth,San Jose Sharks,-190,155,6.0,-120,100
+2026-11-14 19:54,2026-11-14 22:10,betmgm,Anaheim Ducks,New York Islanders,-110,-110,7.0,110,-130
+2026-11-14 19:54,2026-11-14 22:10,betmgm,Los Angeles Kings,Calgary Flames,-170,140,5.5,-115,-105

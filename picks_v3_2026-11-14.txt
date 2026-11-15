@@ -103,3 +103,22 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   San Jose Sharks at Utah Mammoth: Yaroslav Askarov (+0.05 goals/gm) vs Karel Vejmelka, Likely (-0.05 goals/gm); expected total 6.58
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:54 PM ET: New York Islanders at Anaheim Ducks (10:00 PM); Calgary Flames at Los Angeles Kings (10:00 PM)
+                              game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+New York Islanders @ Anaheim Ducks      Anaheim Ducks ML  -110    0.536   0.500  0.036        0.023       0.63
+New York Islanders @ Anaheim Ducks New York Islanders ML  -110    0.464   0.500 -0.036       -0.114       0.00
+New York Islanders @ Anaheim Ducks              Over 7.0   110    0.433   0.457 -0.024       -0.091       0.00
+New York Islanders @ Anaheim Ducks             Under 7.0  -130    0.567   0.543  0.024        0.003       0.00
+Calgary Flames @ Los Angeles Kings  Los Angeles Kings ML  -170    0.617   0.602  0.015       -0.020       0.00
+Calgary Flames @ Los Angeles Kings     Calgary Flames ML   140    0.383   0.398 -0.015       -0.081       0.00
+Calgary Flames @ Los Angeles Kings              Over 5.5  -115    0.536   0.511  0.025        0.002       0.00
+Calgary Flames @ Los Angeles Kings             Under 5.5  -105    0.464   0.489 -0.025       -0.094       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  New York Islanders at Anaheim Ducks: Semyon Varlamov, Likely (+0.04 goals/gm) vs Lukas Dostal, Unconfirmed (-0.02 goals/gm); expected total 6.78
+  Calgary Flames at Los Angeles Kings: Dustin Wolf (-0.12 goals/gm) vs Anton Forsberg (+0.05 goals/gm); expected total 5.89
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).

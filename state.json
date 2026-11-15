@@ -29,14 +29,16 @@
       "Philadelphia Flyers @ Columbus Blue Jackets",
       "Florida Panthers @ St. Louis Blues",
       "Buffalo Sabres @ Dallas Stars",
-      "San Jose Sharks @ Utah Mammoth"
+      "San Jose Sharks @ Utah Mammoth",
+      "New York Islanders @ Anaheim Ducks",
+      "Calgary Flames @ Los Angeles Kings"
     ]
   },
   "morning_done": "2026-11-14",
-  "odds_credits_remaining": "456",
+  "odds_credits_remaining": "454",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
-    "2026-11-14": 5
+    "2026-11-14": 6
   }
 }
