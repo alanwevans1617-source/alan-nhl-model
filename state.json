@@ -36,15 +36,17 @@
     "2026-11-15": [
       "Edmonton Oilers @ Philadelphia Flyers",
       "Florida Panthers @ Dallas Stars",
-      "Calgary Flames @ Anaheim Ducks"
+      "Calgary Flames @ Anaheim Ducks",
+      "Vancouver Canucks @ Vegas Golden Knights",
+      "Nashville Predators @ San Jose Sharks"
     ]
   },
   "morning_done": "2026-11-15",
-  "odds_credits_remaining": "452",
+  "odds_credits_remaining": "450",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
     "2026-11-14": 6,
-    "2026-11-15": 1
+    "2026-11-15": 2
   }
 }
