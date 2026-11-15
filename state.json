@@ -28,14 +28,15 @@
       "New Jersey Devils @ Washington Capitals",
       "Philadelphia Flyers @ Columbus Blue Jackets",
       "Florida Panthers @ St. Louis Blues",
-      "Buffalo Sabres @ Dallas Stars"
+      "Buffalo Sabres @ Dallas Stars",
+      "San Jose Sharks @ Utah Mammoth"
     ]
   },
   "morning_done": "2026-11-14",
-  "odds_credits_remaining": "458",
+  "odds_credits_remaining": "456",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
-    "2026-11-14": 4
+    "2026-11-14": 5
   }
 }

@@ -89,3 +89,17 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Buffalo Sabres at Dallas Stars: Alex Lyon (+0.01 goals/gm) vs Jake Oettinger (+0.07 goals/gm); expected total 5.99
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:10 PM ET: San Jose Sharks at Utah Mammoth (09:00 PM)
+                          game                bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+San Jose Sharks @ Utah Mammoth    Utah Mammoth ML  -190    0.639   0.626  0.013       -0.025       0.00
+San Jose Sharks @ Utah Mammoth San Jose Sharks ML   155    0.361   0.374 -0.013       -0.079       0.00
+San Jose Sharks @ Utah Mammoth           Over 6.0  -120    0.576   0.522  0.054        0.056       1.67
+San Jose Sharks @ Utah Mammoth          Under 6.0   100    0.424   0.478 -0.054       -0.152       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  San Jose Sharks at Utah Mammoth: Yaroslav Askarov (+0.05 goals/gm) vs Karel Vejmelka, Likely (-0.05 goals/gm); expected total 6.58
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
