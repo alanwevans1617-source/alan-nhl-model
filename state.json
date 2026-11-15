@@ -32,13 +32,19 @@
       "San Jose Sharks @ Utah Mammoth",
       "New York Islanders @ Anaheim Ducks",
       "Calgary Flames @ Los Angeles Kings"
+    ],
+    "2026-11-15": [
+      "Edmonton Oilers @ Philadelphia Flyers",
+      "Florida Panthers @ Dallas Stars",
+      "Calgary Flames @ Anaheim Ducks"
     ]
   },
   "morning_done": "2026-11-15",
-  "odds_credits_remaining": "454",
+  "odds_credits_remaining": "452",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
-    "2026-11-14": 6
+    "2026-11-14": 6,
+    "2026-11-15": 1
   }
 }

@@ -1,0 +1,24 @@
+
+Locked 05:27 PM ET: Edmonton Oilers at Philadelphia Flyers (07:30 PM); Florida Panthers at Dallas Stars (08:00 PM); Calgary Flames at Anaheim Ducks (08:00 PM)
+                                 game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Edmonton Oilers @ Philadelphia Flyers Philadelphia Flyers ML   125    0.432   0.426  0.006       -0.028       0.00
+Edmonton Oilers @ Philadelphia Flyers     Edmonton Oilers ML  -150    0.568   0.574 -0.006       -0.053       0.00
+Edmonton Oilers @ Philadelphia Flyers               Over 6.0  -115    0.435   0.511 -0.076       -0.187       0.00
+Edmonton Oilers @ Philadelphia Flyers              Under 6.0  -105    0.565   0.489  0.076        0.103       2.00
+      Florida Panthers @ Dallas Stars        Dallas Stars ML  -135    0.532   0.547 -0.014       -0.073       0.00
+      Florida Panthers @ Dallas Stars    Florida Panthers ML   110    0.468   0.453  0.014       -0.018       0.00
+      Florida Panthers @ Dallas Stars               Over 6.0   100    0.467   0.478 -0.011       -0.065       0.00
+      Florida Panthers @ Dallas Stars              Under 6.0  -120    0.533   0.522  0.011       -0.024       0.00
+       Calgary Flames @ Anaheim Ducks       Anaheim Ducks ML  -155    0.556   0.578 -0.022       -0.086       0.00
+       Calgary Flames @ Anaheim Ducks      Calgary Flames ML   125    0.444   0.422  0.022       -0.000       0.00
+       Calgary Flames @ Anaheim Ducks               Over 6.5  -120    0.480   0.522 -0.042       -0.120       0.00
+       Calgary Flames @ Anaheim Ducks              Under 6.5   100    0.520   0.478  0.042        0.040       1.01
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Edmonton Oilers at Philadelphia Flyers: Tristan Jarry, Unconfirmed (-0.02 goals/gm) vs Dan Vladar (-0.04 goals/gm); expected total 5.82
+  Florida Panthers at Dallas Stars: Akira Schmid, Unconfirmed (-0.04 goals/gm) vs Casey DeSmith, Unconfirmed (-0.07 goals/gm); expected total 5.99
+  Calgary Flames at Anaheim Ducks: Devin Cooley (+0.07 goals/gm) vs Ville Husso, Unconfirmed (-0.04 goals/gm); expected total 6.54
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
