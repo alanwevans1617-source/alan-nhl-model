@@ -1,0 +1,14 @@
+
+Locked 05:28 PM ET: Montreal Canadiens at New York Rangers (07:30 PM)
+                                 game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Montreal Canadiens @ New York Rangers   New York Rangers ML  -105    0.505   0.489  0.016       -0.015        0.0
+Montreal Canadiens @ New York Rangers Montreal Canadiens ML  -115    0.495   0.511 -0.016       -0.074        0.0
+Montreal Canadiens @ New York Rangers              Over 6.0  -115    0.495   0.511 -0.016       -0.075        0.0
+Montreal Canadiens @ New York Rangers             Under 6.0  -105    0.505   0.489  0.016       -0.014        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Montreal Canadiens at New York Rangers: Jacob Fowler (+0.22 goals/gm) vs Joonas Korpisalo (-0.01 goals/gm); expected total 6.14
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
