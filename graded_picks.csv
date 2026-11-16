@@ -446,6 +446,11 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-14,v3,Buffalo Sabres @ Dallas Stars,Under 6.5,-120,0.609,0.522,0.087,W,0.833,Buffalo Sabres 0 - Dallas Stars 2
 2026-11-14,v3,San Jose Sharks @ Utah Mammoth,Over 6.0,-120,0.576,0.522,0.054,W,0.833,San Jose Sharks 6 - Utah Mammoth 5 SO
 2026-11-14,v3,New York Islanders @ Anaheim Ducks,Anaheim Ducks ML,-110,0.536,0.5,0.036,L,-1.0,New York Islanders 6 - Anaheim Ducks 2
+2026-11-15,v3,Edmonton Oilers @ Philadelphia Flyers,Under 6.0,-105,0.565,0.489,0.076,L,-1.0,Edmonton Oilers 5 - Philadelphia Flyers 2
+2026-11-15,v3,Calgary Flames @ Anaheim Ducks,Under 6.5,100,0.52,0.478,0.042,L,-1.0,Calgary Flames 1 - Anaheim Ducks 6
+2026-11-15,v3,Vancouver Canucks @ Vegas Golden Knights,Vancouver Canucks ML,325,0.284,0.225,0.059,W,3.25,Vancouver Canucks 6 - Vegas Golden Knights 3
+2026-11-15,v3,Vancouver Canucks @ Vegas Golden Knights,Under 6.5,-110,0.548,0.5,0.048,L,-1.0,Vancouver Canucks 6 - Vegas Golden Knights 3
+2026-11-15,v3,Nashville Predators @ San Jose Sharks,Under 6.5,-118,0.581,0.517,0.063,W,0.847,Nashville Predators 2 - San Jose Sharks 4
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
