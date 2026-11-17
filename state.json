@@ -41,16 +41,17 @@
       "Nashville Predators @ San Jose Sharks"
     ],
     "2026-11-16": [
-      "Montreal Canadiens @ New York Rangers"
+      "Montreal Canadiens @ New York Rangers",
+      "Vancouver Canucks @ Utah Mammoth"
     ]
   },
   "morning_done": "2026-11-16",
-  "odds_credits_remaining": "448",
+  "odds_credits_remaining": "446",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
     "2026-11-14": 6,
     "2026-11-15": 2,
-    "2026-11-16": 1
+    "2026-11-16": 2
   }
 }

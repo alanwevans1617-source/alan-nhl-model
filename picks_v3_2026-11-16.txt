@@ -12,3 +12,17 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Montreal Canadiens at New York Rangers: Jacob Fowler (+0.22 goals/gm) vs Joonas Korpisalo (-0.01 goals/gm); expected total 6.14
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:19 PM ET: Vancouver Canucks at Utah Mammoth (09:30 PM)
+                            game                  bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Vancouver Canucks @ Utah Mammoth      Utah Mammoth ML  -325    0.690   0.734 -0.044       -0.098       0.00
+Vancouver Canucks @ Utah Mammoth Vancouver Canucks ML   260    0.310   0.266  0.044        0.116       1.12
+Vancouver Canucks @ Utah Mammoth             Over 6.5  -115    0.528   0.511  0.017       -0.014       0.00
+Vancouver Canucks @ Utah Mammoth            Under 6.5  -105    0.472   0.489 -0.017       -0.078       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Vancouver Canucks at Utah Mammoth: no starters found in goalies.csv, no adjustment
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
