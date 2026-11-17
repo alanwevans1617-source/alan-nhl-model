@@ -451,6 +451,7 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-15,v3,Vancouver Canucks @ Vegas Golden Knights,Vancouver Canucks ML,325,0.284,0.225,0.059,W,3.25,Vancouver Canucks 6 - Vegas Golden Knights 3
 2026-11-15,v3,Vancouver Canucks @ Vegas Golden Knights,Under 6.5,-110,0.548,0.5,0.048,L,-1.0,Vancouver Canucks 6 - Vegas Golden Knights 3
 2026-11-15,v3,Nashville Predators @ San Jose Sharks,Under 6.5,-118,0.581,0.517,0.063,W,0.847,Nashville Predators 2 - San Jose Sharks 4
+2026-11-16,v3,Vancouver Canucks @ Utah Mammoth,Vancouver Canucks ML,260,0.31,0.266,0.044,W,2.6,Vancouver Canucks 3 - Utah Mammoth 2
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
