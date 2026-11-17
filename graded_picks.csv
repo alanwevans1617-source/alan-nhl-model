@@ -452,6 +452,14 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-15,v3,Vancouver Canucks @ Vegas Golden Knights,Under 6.5,-110,0.548,0.5,0.048,L,-1.0,Vancouver Canucks 6 - Vegas Golden Knights 3
 2026-11-15,v3,Nashville Predators @ San Jose Sharks,Under 6.5,-118,0.581,0.517,0.063,W,0.847,Nashville Predators 2 - San Jose Sharks 4
 2026-11-16,v3,Vancouver Canucks @ Utah Mammoth,Vancouver Canucks ML,260,0.31,0.266,0.044,W,2.6,Vancouver Canucks 3 - Utah Mammoth 2
+2026-11-17,v3,Edmonton Oilers @ Florida Panthers,Edmonton Oilers ML,105,0.503,0.468,0.036,pending,,
+2026-11-17,v3,Buffalo Sabres @ Philadelphia Flyers,Philadelphia Flyers ML,110,0.513,0.457,0.056,pending,,
+2026-11-17,v3,Buffalo Sabres @ Philadelphia Flyers,Under 6.0,-110,0.534,0.5,0.034,pending,,
+2026-11-17,v3,Ottawa Senators @ Winnipeg Jets,Over 6.0,100,0.513,0.478,0.035,pending,,
+2026-11-17,v3,Washington Capitals @ Tampa Bay Lightning,Over 6.5,-105,0.535,0.489,0.046,pending,,
+2026-11-17,v3,Toronto Maple Leafs @ Chicago Blackhawks,Under 6.5,-110,0.562,0.5,0.062,pending,,
+2026-11-17,v3,Anaheim Ducks @ St. Louis Blues,Anaheim Ducks ML,115,0.492,0.447,0.044,pending,,
+2026-11-17,v3,Nashville Predators @ Minnesota Wild,Under 6.0,-110,0.575,0.5,0.075,pending,,
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
