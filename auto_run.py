@@ -256,6 +256,81 @@ def pull_odds(day, st):
     return rows
 
 
+# ---------------------------------------------------------------- injuries (flag only)
+ESPN_INJURIES = "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+
+
+def injured_players():
+    """team -> list of (player, status) not expected to play (ESPN; day-to-day excluded). None if unavailable."""
+    try:
+        r = requests.get(ESPN_INJURIES, headers={"User-Agent": "nhl-paper-model"}, timeout=30)
+        js = r.json() if r.status_code == 200 else None
+    except (requests.RequestException, ValueError) as e:
+        log(f"Injury feed unavailable ({e.__class__.__name__}).")
+        return None
+    teams = (js or {}).get("injuries")
+    if not isinstance(teams, list):
+        log("Injury feed looked different than expected; saved a sample to debug/espn_injuries_sample.json.")
+        os.makedirs(os.path.join(HERE, "debug"), exist_ok=True)
+        with open(os.path.join(HERE, "debug", "espn_injuries_sample.json"), "w", encoding="utf-8") as f:
+            f.write(json.dumps(js)[:20000] if js is not None else f"HTTP {r.status_code}")
+        return None
+    out = {}
+    for t in teams:
+        name = team_name(t.get("displayName") or (t.get("team") or {}).get("displayName") or "")
+        if not name:
+            continue
+        for inj in t.get("injuries", []):
+            player = ((inj.get("athlete") or {}).get("displayName") or "").strip()
+            status = str(inj.get("status") or (inj.get("type") or {}).get("description") or "Out")
+            if player and "day" not in status.lower():
+                out.setdefault(name, []).append((player, status))
+    log(f"Injury feed: {sum(len(v) for v in out.values())} players out across {len(out)} teams.")
+    return out
+
+
+def key_players_out(have, day):
+    """team -> ["Name (status)", ...] for key players (key_players.csv) who are out tonight."""
+    path = os.path.join(HERE, "key_players.csv")
+    if not os.path.exists(path):
+        log("No key_players.csv yet (made each morning); skipping the injury flag.")
+        return {}
+    inj = injured_players()
+    if inj is None:
+        return {}
+    kp = pd.read_csv(path)
+    flags, rows = {}, []
+    for g in have:
+        for team in (g["away"], g["home"]):
+            mine = kp[kp.team == team]
+            outs = []
+            for player, status in inj.get(team, []):
+                k = key(player)
+                hit = mine[mine.key == k]
+                if hit.empty:  # e.g. "Mitch" vs "Mitchell": match a unique last name on the team
+                    last = key(player.split()[-1])
+                    cand = mine[mine.name.map(lambda n: key(str(n).split()[-1])) == last]
+                    hit = cand if len(cand) == 1 else hit
+                if not hit.empty:
+                    h = hit.iloc[0]
+                    outs.append(f"{h['name']} ({status}, No. {h['rank']} {'D' if h['group'] == 'D' else 'F'})")
+            if outs:
+                flags[team] = outs
+                rows.append({"date": day, "game": f"{g['away']} @ {g['home']}", "team": team,
+                             "key_out": "; ".join(outs)})
+    if rows:
+        fpath = os.path.join(HERE, "injury_flags.csv")
+        new = not os.path.exists(fpath)
+        with open(fpath, "a", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=["date", "game", "team", "key_out"])
+            if new:
+                w.writeheader()
+            w.writerows(rows)
+    for team, outs in flags.items():
+        log(f"  Key players out for {team}: {', '.join(outs)}")
+    return flags
+
+
 # ---------------------------------------------------------------- phone notifications (ntfy)
 def site_url():
     repo = os.environ.get("GITHUB_REPOSITORY", "")
@@ -285,8 +360,9 @@ def _odds(o):
     return f"+{o}" if o > 0 else str(o)
 
 
-def picks_message(out, have):
+def picks_message(out, have, flags=None):
     """Summarize the flagged bets from one V3 run."""
+    flags = flags or {}
     from grade_picks import parse_line
     bets = [p for p in (parse_line(l) for l in out.splitlines()) if p and p["stake_pct"] > 0]
     times = sorted({g["start"].astimezone(ET).strftime("%I:%M %p").lstrip("0") for g in have})
@@ -296,9 +372,17 @@ def picks_message(out, have):
     lines = []
     for p in sorted(bets, key=lambda p: -p["edge"]):
         what = p["bet"] if p["side"] == "ML" else f"{p['away'].split()[-1]} @ {p['home'].split()[-1]} {p['bet']}"
-        flag = "  (7+ edge, extra doubt)" if p["edge"] >= 0.07 else ""
+        notes = []
+        if p["edge"] >= 0.07:
+            notes.append("7+ edge")
+        if p["side"] == "ML" and p["pick"] in flags:
+            notes.append("key player out")
+        elif p["side"] != "ML" and (p["home"] in flags or p["away"] in flags):
+            notes.append("key player out in game")
+        flag = f"  ({', '.join(notes)}, extra doubt)" if notes else ""
         lines.append(f"{what} ({_odds(p['odds'])}), edge {100 * p['edge']:+.1f}{flag}")
-    return title, "\n".join(lines) + "\nPaper picks only."
+    outs = [f"{t.split()[-1]} out: {', '.join(o.split(' (')[0] for o in v)}" for t, v in flags.items()]
+    return title, "\n".join(lines + outs) + "\nPaper picks only."
 
 
 def morning_message(day):
@@ -356,6 +440,7 @@ def morning(day, st):
         run(["grade_picks.py"])
     run(["get_xg.py"])
     run(["get_goalie_stats.py"])
+    run(["get_key_players.py"])
     st["morning_done"] = day
     msg = morning_message(day)
     if msg:
@@ -406,10 +491,12 @@ def lock(day, games, due, st):
     if not ok:
         log("V3 failed; nothing locked.")
         return False
+    flags = key_players_out(have, day)
+    note = "".join(f"Key players out, {t}: {', '.join(v)}\n" for t, v in flags.items())
     with open(os.path.join(HERE, picks), "a", encoding="utf-8") as f:
-        f.write(header + out)
+        f.write(header + out + note)
     log(out)
-    notify(*picks_message(out, have))
+    notify(*picks_message(out, have, flags))
     st.setdefault("locked", {}).setdefault(day, []).extend(f"{g['away']} @ {g['home']}" for g in have)
     return True
 
