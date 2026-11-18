@@ -1,0 +1,21 @@
+
+Locked 05:27 PM ET: Boston Bruins at Detroit Red Wings (07:30 PM); Montreal Canadiens at New Jersey Devils (07:30 PM)
+                                  game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+     Boston Bruins @ Detroit Red Wings  Detroit Red Wings ML  -110    0.508   0.500  0.008       -0.030        0.0
+     Boston Bruins @ Detroit Red Wings      Boston Bruins ML  -110    0.492   0.500 -0.008       -0.060        0.0
+     Boston Bruins @ Detroit Red Wings              Over 6.0  -110    0.420   0.500 -0.080       -0.199        0.0
+     Boston Bruins @ Detroit Red Wings             Under 6.0  -110    0.580   0.500  0.080        0.108        2.0
+Montreal Canadiens @ New Jersey Devils  New Jersey Devils ML  -170    0.585   0.602 -0.017       -0.071        0.0
+Montreal Canadiens @ New Jersey Devils Montreal Canadiens ML   140    0.415   0.398  0.017       -0.004        0.0
+Montreal Canadiens @ New Jersey Devils              Over 6.0  -115    0.518   0.511  0.007       -0.031        0.0
+Montreal Canadiens @ New Jersey Devils             Under 6.0  -105    0.482   0.489 -0.007       -0.060        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Boston Bruins at Detroit Red Wings: Jeremy Swayman, Unconfirmed (+0.05 goals/gm) vs Daniil Tarasov (+0.21 goals/gm); expected total 5.74
+  Montreal Canadiens at New Jersey Devils: Jacob Fowler (+0.19 goals/gm) vs Connor Hellebuyck (+0.07 goals/gm); expected total 6.26
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Detroit Red Wings: Dylan Larkin (Injured Reserve, No. 1 F)
+Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
