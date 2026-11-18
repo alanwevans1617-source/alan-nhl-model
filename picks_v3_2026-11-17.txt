@@ -61,3 +61,24 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Anaheim Ducks at St. Louis Blues: Ville Husso, Unconfirmed (+0.02 goals/gm) vs Jordan Binnington (-0.17 goals/gm); expected total 6.74
   Nashville Predators at Minnesota Wild: Juuse Saros, Unconfirmed (+0.11 goals/gm) vs Jesper Wallstedt (+0.19 goals/gm); expected total 5.77
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 07:31 PM ET: Dallas Stars at Vegas Golden Knights (10:00 PM); Calgary Flames at San Jose Sharks (10:00 PM)
+                               game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Dallas Stars @ Vegas Golden Knights Vegas Golden Knights ML  -125    0.532   0.532  0.000       -0.042       0.00
+Dallas Stars @ Vegas Golden Knights         Dallas Stars ML   105    0.468   0.468 -0.000       -0.042       0.00
+Dallas Stars @ Vegas Golden Knights                Over 5.5  -120    0.478   0.522 -0.043       -0.123       0.00
+Dallas Stars @ Vegas Golden Knights               Under 5.5   100    0.522   0.478  0.043        0.043       1.08
+   Calgary Flames @ San Jose Sharks      San Jose Sharks ML  -130    0.558   0.543  0.015       -0.013       0.00
+   Calgary Flames @ San Jose Sharks       Calgary Flames ML   110    0.442   0.457 -0.015       -0.072       0.00
+   Calgary Flames @ San Jose Sharks                Over 6.0  -105    0.501   0.489  0.012       -0.022       0.00
+   Calgary Flames @ San Jose Sharks               Under 6.0  -115    0.499   0.511 -0.012       -0.067       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Dallas Stars at Vegas Golden Knights: Jake Oettinger (+0.10 goals/gm) vs Adin Hill (+0.06 goals/gm); expected total 5.54
+  Calgary Flames at San Jose Sharks: Dustin Wolf (-0.10 goals/gm) vs Yaroslav Askarov (+0.02 goals/gm); expected total 6.17
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Vegas Golden Knights: Noah Hanifin (Out, No. 2 D)
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)

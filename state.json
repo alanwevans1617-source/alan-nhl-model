@@ -53,17 +53,19 @@
       "Washington Capitals @ Tampa Bay Lightning",
       "Toronto Maple Leafs @ Chicago Blackhawks",
       "Anaheim Ducks @ St. Louis Blues",
-      "Nashville Predators @ Minnesota Wild"
+      "Nashville Predators @ Minnesota Wild",
+      "Dallas Stars @ Vegas Golden Knights",
+      "Calgary Flames @ San Jose Sharks"
     ]
   },
   "morning_done": "2026-11-17",
-  "odds_credits_remaining": "442",
+  "odds_credits_remaining": "440",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
     "2026-11-14": 6,
     "2026-11-15": 2,
     "2026-11-16": 2,
-    "2026-11-17": 2
+    "2026-11-17": 3
   }
 }
