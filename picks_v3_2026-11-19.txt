@@ -1,0 +1,48 @@
+
+Locked 05:26 PM ET: Los Angeles Kings at Toronto Maple Leafs (07:00 PM); Philadelphia Flyers at Ottawa Senators (07:00 PM); St. Louis Blues at Pittsburgh Penguins (07:00 PM); Buffalo Sabres at Washington Capitals (07:00 PM); Montreal Canadiens at Carolina Hurricanes (07:00 PM); New York Islanders at Winnipeg Jets (07:00 PM); Edmonton Oilers at Tampa Bay Lightning (07:30 PM)
+                                    game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Los Angeles Kings @ Toronto Maple Leafs Toronto Maple Leafs ML  -120    0.500   0.522 -0.022       -0.084        0.0
+ Los Angeles Kings @ Toronto Maple Leafs   Los Angeles Kings ML   100    0.500   0.478  0.022        0.001        0.0
+ Los Angeles Kings @ Toronto Maple Leafs               Over 6.0  -120    0.508   0.522 -0.014       -0.069        0.0
+ Los Angeles Kings @ Toronto Maple Leafs              Under 6.0   100    0.492   0.478  0.014       -0.016        0.0
+   Philadelphia Flyers @ Ottawa Senators     Ottawa Senators ML  -160    0.588   0.591 -0.003       -0.044        0.0
+   Philadelphia Flyers @ Ottawa Senators Philadelphia Flyers ML   135    0.412   0.409  0.003       -0.032        0.0
+   Philadelphia Flyers @ Ottawa Senators               Over 6.0  -115    0.440   0.511 -0.071       -0.177        0.0
+   Philadelphia Flyers @ Ottawa Senators              Under 6.0  -105    0.560   0.489  0.071        0.093        2.0
+   St. Louis Blues @ Pittsburgh Penguins Pittsburgh Penguins ML  -110    0.489   0.500 -0.011       -0.067        0.0
+   St. Louis Blues @ Pittsburgh Penguins     St. Louis Blues ML  -110    0.511   0.500  0.011       -0.024        0.0
+   St. Louis Blues @ Pittsburgh Penguins               Over 6.5   100    0.438   0.478 -0.040       -0.124        0.0
+   St. Louis Blues @ Pittsburgh Penguins              Under 6.5  -120    0.562   0.522  0.040        0.030        0.9
+    Buffalo Sabres @ Washington Capitals Washington Capitals ML  -140    0.570   0.560  0.011       -0.022        0.0
+    Buffalo Sabres @ Washington Capitals      Buffalo Sabres ML   118    0.430   0.440 -0.011       -0.063        0.0
+    Buffalo Sabres @ Washington Capitals               Over 6.5  -125    0.516   0.532 -0.016       -0.071        0.0
+    Buffalo Sabres @ Washington Capitals              Under 6.5   105    0.484   0.468  0.016       -0.009        0.0
+Montreal Canadiens @ Carolina Hurricanes Carolina Hurricanes ML  -350    0.713   0.747 -0.034       -0.083        0.0
+Montreal Canadiens @ Carolina Hurricanes  Montreal Canadiens ML   280    0.287   0.253  0.034        0.089        0.8
+Montreal Canadiens @ Carolina Hurricanes               Over 6.5  -105    0.498   0.489  0.009       -0.028        0.0
+Montreal Canadiens @ Carolina Hurricanes              Under 6.5  -115    0.502   0.511 -0.009       -0.061        0.0
+      New York Islanders @ Winnipeg Jets       Winnipeg Jets ML  -118    0.508   0.517 -0.009       -0.061        0.0
+      New York Islanders @ Winnipeg Jets  New York Islanders ML  -102    0.492   0.483  0.009       -0.026        0.0
+      New York Islanders @ Winnipeg Jets               Over 6.5  -105    0.428   0.489 -0.062       -0.165        0.0
+      New York Islanders @ Winnipeg Jets              Under 6.5  -115    0.572   0.511  0.062        0.070        2.0
+   Edmonton Oilers @ Tampa Bay Lightning Tampa Bay Lightning ML  -140    0.550   0.560 -0.010       -0.057        0.0
+   Edmonton Oilers @ Tampa Bay Lightning     Edmonton Oilers ML   118    0.450   0.440  0.010       -0.019        0.0
+   Edmonton Oilers @ Tampa Bay Lightning               Over 6.0  -120    0.523   0.522  0.001       -0.041        0.0
+   Edmonton Oilers @ Tampa Bay Lightning              Under 6.0   100    0.477   0.478 -0.001       -0.046        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Los Angeles Kings at Toronto Maple Leafs: Darcy Kuemper (-0.07 goals/gm) vs Anthony Stolarz (+0.05 goals/gm); expected total 6.21
+  Philadelphia Flyers at Ottawa Senators: Joseph Woll (+0.08 goals/gm) vs Samuel Ersson (-0.09 goals/gm); expected total 5.85
+  St. Louis Blues at Pittsburgh Penguins: Joel Hofer (+0.13 goals/gm) vs Arturs Silovs (-0.03 goals/gm); expected total 6.28
+  Buffalo Sabres at Washington Capitals: Ukko-Pekka Luukkonen (-0.05 goals/gm) vs Logan Thompson (+0.00 goals/gm); expected total 6.78
+  Montreal Canadiens at Carolina Hurricanes: Jakub Dobes (-0.21 goals/gm) vs Pyotr Kochetkov, Unconfirmed (+0.15 goals/gm); expected total 6.66
+  New York Islanders at Winnipeg Jets: Semyon Varlamov, Likely (+0.03 goals/gm) vs Nico Daws, Likely (-0.01 goals/gm); expected total 6.21
+  Edmonton Oilers at Tampa Bay Lightning: Devon Levi (+0.03 goals/gm) vs Andrei Vasilevskiy, Unconfirmed (+0.00 goals/gm); expected total 6.29
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Los Angeles Kings: Artemi Panarin (Out, No. 1 F)
+Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F)
+Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
+Key players out, Tampa Bay Lightning: Brandon Hagel (Injured Reserve, No. 3 F)
