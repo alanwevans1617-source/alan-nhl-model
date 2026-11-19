@@ -19,3 +19,18 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Detroit Red Wings: Dylan Larkin (Injured Reserve, No. 1 F)
 Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
+
+Locked 08:01 PM ET: Colorado Avalanche at Utah Mammoth (10:00 PM)
+                             game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Colorado Avalanche @ Utah Mammoth       Utah Mammoth ML  -110    0.431   0.500 -0.069       -0.178        0.0
+Colorado Avalanche @ Utah Mammoth Colorado Avalanche ML  -110    0.569   0.500  0.069        0.087        2.0
+Colorado Avalanche @ Utah Mammoth              Over 6.5  -102    0.503   0.483  0.020       -0.004        0.0
+Colorado Avalanche @ Utah Mammoth             Under 6.5  -118    0.497   0.517 -0.020       -0.081        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Colorado Avalanche at Utah Mammoth: Mackenzie Blackwood (+0.05 goals/gm) vs Sebastian Cossa, Likely (-0.05 goals/gm); expected total 6.69
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Colorado Avalanche: Cale Makar (Out, No. 1 D), Nathan MacKinnon (Out, No. 1 F)
