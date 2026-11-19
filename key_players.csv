@@ -4,11 +4,11 @@ Anaheim Ducks,Tristan Luneau,tristanluneau,D,2,D,22,20.0
 Anaheim Ducks,Mikael Granlund,mikaelgranlund,F,1,C,21,20.6
 Anaheim Ducks,Leo Carlsson,leocarlsson,F,2,C,22,20.4
 Anaheim Ducks,Beckett Sennecke,beckettsennecke,F,3,R,21,20.4
-Boston Bruins,Charlie McAvoy,charliemcavoy,D,1,D,15,24.3
-Boston Bruins,Hampus Lindholm,hampuslindholm,D,2,D,21,20.5
-Boston Bruins,David Pastrnak,davidpastrnak,F,1,R,21,20.3
-Boston Bruins,Pavel Zacha,pavelzacha,F,2,C,20,19.3
-Boston Bruins,JJ Peterka,jjpeterka,F,3,R,21,17.6
+Boston Bruins,Charlie McAvoy,charliemcavoy,D,1,D,16,24.1
+Boston Bruins,Hampus Lindholm,hampuslindholm,D,2,D,22,20.6
+Boston Bruins,David Pastrnak,davidpastrnak,F,1,R,22,20.2
+Boston Bruins,Pavel Zacha,pavelzacha,F,2,C,21,19.2
+Boston Bruins,JJ Peterka,jjpeterka,F,3,R,22,17.4
 Buffalo Sabres,Owen Power,owenpower,D,1,D,21,25.4
 Buffalo Sabres,Rasmus Dahlin,rasmusdahlin,D,2,D,18,24.8
 Buffalo Sabres,Zach Benson,zachbenson,F,1,L,21,20.2
@@ -30,10 +30,10 @@ Chicago Blackhawks,Connor Bedard,connorbedard,F,1,C,15,20.1
 Chicago Blackhawks,Roman Kantserov,romankantserov,F,2,R,21,18.7
 Chicago Blackhawks,Patrick Kane,patrickkane,F,3,R,18,17.9
 Colorado Avalanche,Cale Makar,calemakar,D,1,D,19,22.4
-Colorado Avalanche,Devon Toews,devontoews,D,2,D,21,21.7
+Colorado Avalanche,Devon Toews,devontoews,D,2,D,22,21.8
 Colorado Avalanche,Nathan MacKinnon,nathanmackinnon,F,1,C,20,20.2
-Colorado Avalanche,Martin Necas,martinnecas,F,2,C,21,19.9
-Colorado Avalanche,Artturi Lehkonen,artturilehkonen,F,3,L,21,18.8
+Colorado Avalanche,Martin Necas,martinnecas,F,2,C,22,19.8
+Colorado Avalanche,Artturi Lehkonen,artturilehkonen,F,3,L,22,18.7
 Columbus Blue Jackets,Zach Werenski,zachwerenski,D,1,D,19,27.5
 Columbus Blue Jackets,Denton Mateychuk,dentonmateychuk,D,2,D,19,22.0
 Columbus Blue Jackets,Adam Fantilli,adamfantilli,F,1,C,19,20.3
@@ -44,11 +44,11 @@ Dallas Stars,Miro Heiskanen,miroheiskanen,D,2,D,16,25.0
 Dallas Stars,Mikko Rantanen,mikkorantanen,F,1,R,21,20.1
 Dallas Stars,Wyatt Johnston,wyattjohnston,F,2,C,19,19.7
 Dallas Stars,Jason Robertson,jasonrobertson,F,3,L,21,19.5
-Detroit Red Wings,Moritz Seider,moritzseider,D,1,D,21,25.9
-Detroit Red Wings,Justin Faulk,justinfaulk,D,2,D,21,20.6
+Detroit Red Wings,Moritz Seider,moritzseider,D,1,D,22,25.8
+Detroit Red Wings,Justin Faulk,justinfaulk,D,2,D,22,20.7
 Detroit Red Wings,Dylan Larkin,dylanlarkin,F,1,C,10,21.7
-Detroit Red Wings,Lucas Raymond,lucasraymond,F,2,L,21,19.8
-Detroit Red Wings,Alex DeBrincat,alexdebrincat,F,3,R,21,19.6
+Detroit Red Wings,Lucas Raymond,lucasraymond,F,2,L,22,19.8
+Detroit Red Wings,Alex DeBrincat,alexdebrincat,F,3,R,22,19.7
 Edmonton Oilers,Evan Bouchard,evanbouchard,D,1,D,23,25.3
 Edmonton Oilers,Ryan Shea,ryanshea,D,2,D,23,22.9
 Edmonton Oilers,Connor McDavid,connormcdavid,F,1,C,23,23.5
@@ -69,21 +69,21 @@ Minnesota Wild,Jonas Brodin,jonasbrodin,D,2,D,23,22.4
 Minnesota Wild,Kirill Kaprizov,kirillkaprizov,F,1,L,23,21.3
 Minnesota Wild,Matt Boldy,mattboldy,F,2,L,23,21.3
 Minnesota Wild,Joel Eriksson Ek,joelerikssonek,F,3,C,23,19.1
-Montreal Canadiens,Lane Hutson,lanehutson,D,1,D,21,25.1
+Montreal Canadiens,Lane Hutson,lanehutson,D,1,D,22,25.2
 Montreal Canadiens,Mike Matheson,mikematheson,D,2,D,9,23.5
-Montreal Canadiens,Nick Suzuki,nicksuzuki,F,1,C,15,20.9
-Montreal Canadiens,Cole Caufield,colecaufield,F,2,R,21,18.6
-Montreal Canadiens,Juraj Slafkovsk,jurajslafkovsk,F,3,L,21,18.4
+Montreal Canadiens,Nick Suzuki,nicksuzuki,F,1,C,16,20.9
+Montreal Canadiens,Cole Caufield,colecaufield,F,2,R,22,18.5
+Montreal Canadiens,Juraj Slafkovsk,jurajslafkovsk,F,3,L,22,18.3
 Nashville Predators,Roman Josi,romanjosi,D,1,D,22,25.6
 Nashville Predators,Adam Wilsby,adamwilsby,D,2,D,22,20.3
 Nashville Predators,Ryan O'Reilly,ryanoreilly,F,1,C,22,20.7
 Nashville Predators,Filip Forsberg,filipforsberg,F,2,L,22,20.4
 Nashville Predators,Steven Stamkos,stevenstamkos,F,3,C,22,18.5
-New Jersey Devils,Luke Hughes,lukehughes,D,1,D,21,24.3
-New Jersey Devils,Brett Pesce,brettpesce,D,2,D,19,21.0
-New Jersey Devils,Jack Hughes,jackhughes,F,1,C,21,20.7
-New Jersey Devils,Nico Hischier,nicohischier,F,2,C,21,18.4
-New Jersey Devils,Jesper Bratt,jesperbratt,F,3,L,21,17.4
+New Jersey Devils,Luke Hughes,lukehughes,D,1,D,22,24.3
+New Jersey Devils,Brett Pesce,brettpesce,D,2,D,20,21.1
+New Jersey Devils,Jack Hughes,jackhughes,F,1,C,22,20.7
+New Jersey Devils,Nico Hischier,nicohischier,F,2,C,22,18.4
+New Jersey Devils,Jesper Bratt,jesperbratt,F,3,L,22,17.4
 New York Islanders,Matthew Schaefer,matthewschaefer,D,1,D,20,26.8
 New York Islanders,Logan Stanley,loganstanley,D,2,D,19,20.7
 New York Islanders,Bo Horvat,bohorvat,F,1,C,20,21.0
@@ -134,11 +134,11 @@ Toronto Maple Leafs,Jake McCabe,jakemccabe,D,2,D,23,20.1
 Toronto Maple Leafs,Auston Matthews,austonmatthews,F,1,C,23,20.6
 Toronto Maple Leafs,William Nylander,williamnylander,F,2,R,23,19.9
 Toronto Maple Leafs,Kirill Marchenko,kirillmarchenko,F,3,R,14,17.6
-Utah Mammoth,Mikhail Sergachev,mikhailsergachev,D,1,D,22,24.6
-Utah Mammoth,MacKenzie Weegar,mackenzieweegar,D,2,D,22,22.1
-Utah Mammoth,Clayton Keller,claytonkeller,F,1,R,22,19.2
-Utah Mammoth,Logan Cooley,logancooley,F,2,C,19,18.8
-Utah Mammoth,Vincent Trocheck,vincenttrocheck,F,3,C,22,18.5
+Utah Mammoth,Mikhail Sergachev,mikhailsergachev,D,1,D,23,24.6
+Utah Mammoth,MacKenzie Weegar,mackenzieweegar,D,2,D,23,22.1
+Utah Mammoth,Clayton Keller,claytonkeller,F,1,R,23,19.2
+Utah Mammoth,Logan Cooley,logancooley,F,2,C,20,18.9
+Utah Mammoth,Vincent Trocheck,vincenttrocheck,F,3,C,23,18.6
 Vancouver Canucks,Filip Hronek,filiphronek,D,1,D,23,26.6
 Vancouver Canucks,Zeev Buium,zeevbuium,D,2,D,23,21.4
 Vancouver Canucks,Elias Pettersson,eliaspettersson,F,1,C,23,20.6

@@ -461,6 +461,8 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-17,v3,Anaheim Ducks @ St. Louis Blues,Anaheim Ducks ML,115,0.492,0.447,0.044,L,-1.0,Anaheim Ducks 6 - St. Louis Blues 8
 2026-11-17,v3,Nashville Predators @ Minnesota Wild,Under 6.0,-110,0.575,0.5,0.075,L,-1.0,Nashville Predators 3 - Minnesota Wild 7
 2026-11-17,v3,Dallas Stars @ Vegas Golden Knights,Under 5.5,100,0.522,0.478,0.043,L,-1.0,Dallas Stars 4 - Vegas Golden Knights 3 OT
+2026-11-18,v3,Boston Bruins @ Detroit Red Wings,Under 6.0,-110,0.58,0.5,0.08,W,0.909,Boston Bruins 4 - Detroit Red Wings 1
+2026-11-18,v3,Colorado Avalanche @ Utah Mammoth,Colorado Avalanche ML,-110,0.569,0.5,0.069,L,-1.0,Colorado Avalanche 1 - Utah Mammoth 4
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2

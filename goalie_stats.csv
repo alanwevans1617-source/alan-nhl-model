@@ -1,8 +1,8 @@
 name,key,team,games,shots,goals,xgoals,gsax,sv_pct,saved_per_game
 Jesper Wallstedt,jesperwallstedt,Minnesota Wild,20,528,40,57.51,17.51,0.924,0.312
-Jacob Fowler,jacobfowler,Montreal Canadiens,13,377,29,41.57,12.57,0.923,0.249
+Jacob Fowler,jacobfowler,Montreal Canadiens,14,407,31,45.17,14.17,0.924,0.274
 Linus Ullmark,linusullmark,Ottawa Senators,11,249,15,25.39,10.39,0.94,0.227
-Daniil Tarasov,daniiltarasov,Detroit Red Wings,9,217,15,24.5,9.5,0.931,0.213
+Daniil Tarasov,daniiltarasov,Detroit Red Wings,10,247,18,27.11,9.11,0.927,0.199
 Ilya Sorokin,ilyasorokin,New York Islanders,14,419,34,44.28,10.28,0.919,0.197
 Pyotr Kochetkov,pyotrkochetkov,Carolina Hurricanes,13,263,21,29.92,8.92,0.92,0.192
 Juuse Saros,juusesaros,Nashville Predators,16,477,39,49.07,10.07,0.918,0.186
@@ -10,21 +10,21 @@ Joel Hofer,joelhofer,St. Louis Blues,15,432,34,42.19,8.19,0.921,0.156
 Jake Oettinger,jakeoettinger,Dallas Stars,16,353,35,42.62,7.62,0.901,0.153
 Alex Nedeljkovic,alexnedeljkovic,San Jose Sharks,8,255,25,31.7,6.7,0.902,0.145
 Michael DiPietro,michaeldipietro,Boston Bruins,7,181,14,19.56,5.56,0.923,0.128
+Jeremy Swayman,jeremyswayman,Boston Bruins,16,424,39,45.7,6.7,0.908,0.128
 Semyon Varlamov,semyonvarlamov,New York Islanders,6,158,16,21.23,5.23,0.899,0.123
 Igor Shesterkin,igorshesterkin,New York Rangers,5,109,8,12.95,4.95,0.927,0.122
 Cam Talbot,camtalbot,Columbus Blue Jackets,10,271,25,30.23,5.23,0.908,0.112
-Jeremy Swayman,jeremyswayman,Boston Bruins,15,403,38,43.64,5.64,0.906,0.109
 Nikita Tolopilo,nikitatolopilo,Vancouver Canucks,1,37,2,5.96,3.96,0.946,0.104
-Joseph Woll,josephwoll,Philadelphia Flyers,12,346,35,38.93,3.93,0.899,0.079
+Joseph Woll,josephwoll,Philadelphia Flyers,12,346,35,38.93,3.93,0.899,0.08
 Tristan Jarry,tristanjarry,Edmonton Oilers,10,275,25,28.72,3.72,0.909,0.079
 Joonas Korpisalo,joonaskorpisalo,New York Rangers,3,83,5,8.04,3.04,0.94,0.076
 Dylan Garand,dylangarand,New York Rangers,15,356,32,35.45,3.45,0.91,0.069
 Devon Levi,devonlevi,Edmonton Oilers,11,289,27,29.81,2.81,0.907,0.059
 Adin Hill,adinhill,Vegas Golden Knights,11,293,29,31.4,2.4,0.901,0.051
 Jacob Markstrom,jacobmarkstrom,Florida Panthers,12,283,29,31.2,2.2,0.898,0.047
-Connor Hellebuyck,connorhellebuyck,New Jersey Devils,7,189,16,17.78,1.78,0.915,0.041
+Connor Hellebuyck,connorhellebuyck,New Jersey Devils,8,217,19,20.84,1.84,0.912,0.041
 Yaroslav Askarov,yaroslavaskarov,San Jose Sharks,16,475,53,55.12,2.12,0.888,0.039
-Mackenzie Blackwood,mackenzieblackwood,Colorado Avalanche,16,410,39,40.98,1.98,0.905,0.038
+Mackenzie Blackwood,mackenzieblackwood,Colorado Avalanche,17,438,42,44.0,2.0,0.904,0.038
 Devin Cooley,devincooley,Calgary Flames,10,288,27,28.53,1.53,0.906,0.032
 Matt Murray,mattmurray,Nashville Predators,1,20,2,2.83,0.83,0.9,0.022
 Anthony Stolarz,anthonystolarz,Toronto Maple Leafs,9,254,24,24.88,0.88,0.906,0.019
@@ -62,17 +62,17 @@ Jet Greaves,jetgreaves,Columbus Blue Jackets,11,265,33,29.56,-3.44,0.875,-0.074
 Brandon Bussi,brandonbussi,Carolina Hurricanes,8,188,24,20.67,-3.33,0.872,-0.076
 Joey Daccord,joeydaccord,Seattle Kraken,10,250,32,28.4,-3.6,0.872,-0.078
 Ville Husso,villehusso,Anaheim Ducks,8,174,25,21.55,-3.45,0.856,-0.08
+Sebastian Cossa,sebastiancossa,Utah Mammoth,9,206,25,21.06,-3.94,0.879,-0.089
 Sergei Bobrovsky,sergeibobrovsky,Toronto Maple Leafs,14,404,51,45.98,-5.02,0.874,-0.097
 Dustin Wolf,dustinwolf,Calgary Flames,12,328,40,35.27,-4.73,0.878,-0.097
-Jonas Johansson,jonasjohansson,Ottawa Senators,4,105,16,12.03,-3.97,0.848,-0.098
 Lukas Dostal,lukasdostal,Anaheim Ducks,12,281,40,35.41,-4.59,0.858,-0.098
+Jonas Johansson,jonasjohansson,Ottawa Senators,4,105,16,12.03,-3.97,0.848,-0.098
 Darcy Kuemper,darcykuemper,Los Angeles Kings,12,320,37,32.19,-4.81,0.884,-0.099
-Sebastian Cossa,sebastiancossa,Utah Mammoth,8,175,24,18.77,-5.23,0.863,-0.121
 Jake Allen,jakeallen,New Jersey Devils,10,268,32,26.29,-5.71,0.881,-0.123
 Karel Vejmelka,karelvejmelka,Utah Mammoth,16,369,48,40.95,-7.05,0.87,-0.14
 Jakub Dobes,jakubdobes,Montreal Canadiens,8,209,31,24.57,-6.43,0.852,-0.145
 Arvid Soderblom,arvidsoderblom,Chicago Blackhawks,5,133,21,14.88,-6.12,0.842,-0.147
 John Gibson,johngibson,Detroit Red Wings,13,297,41,33.37,-7.63,0.862,-0.16
-Scott Wedgewood,scottwedgewood,Colorado Avalanche,6,161,22,14.73,-7.27,0.863,-0.17
+Scott Wedgewood,scottwedgewood,Colorado Avalanche,6,161,22,14.73,-7.27,0.863,-0.171
 Jordan Binnington,jordanbinnington,St. Louis Blues,6,172,27,18.8,-8.2,0.843,-0.191
 Kevin Lankinen,kevinlankinen,Vancouver Canucks,9,220,43,28.04,-14.96,0.805,-0.334
