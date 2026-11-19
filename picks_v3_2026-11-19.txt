@@ -46,3 +46,24 @@ Key players out, Los Angeles Kings: Artemi Panarin (Out, No. 1 F)
 Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F)
 Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
 Key players out, Tampa Bay Lightning: Brandon Hagel (Injured Reserve, No. 3 F)
+
+Locked 06:22 PM ET: Columbus Blue Jackets at Chicago Blackhawks (08:00 PM); Minnesota Wild at Calgary Flames (08:00 PM)
+                                      game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Columbus Blue Jackets @ Chicago Blackhawks    Chicago Blackhawks ML   135    0.444   0.409  0.035        0.043       0.79
+Columbus Blue Jackets @ Chicago Blackhawks Columbus Blue Jackets ML  -160    0.556   0.591 -0.035       -0.096       0.00
+Columbus Blue Jackets @ Chicago Blackhawks                 Over 6.0   100    0.450   0.478 -0.028       -0.099       0.00
+Columbus Blue Jackets @ Chicago Blackhawks                Under 6.0  -120    0.550   0.522  0.028        0.008       0.00
+           Minnesota Wild @ Calgary Flames        Calgary Flames ML   200    0.300   0.318 -0.018       -0.099       0.00
+           Minnesota Wild @ Calgary Flames        Minnesota Wild ML  -250    0.700   0.682  0.018       -0.020       0.00
+           Minnesota Wild @ Calgary Flames                 Over 6.0  -120    0.450   0.522 -0.072       -0.175       0.00
+           Minnesota Wild @ Calgary Flames                Under 6.0   100    0.550   0.478  0.072        0.100       2.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Columbus Blue Jackets at Chicago Blackhawks: Cam Talbot (+0.10 goals/gm) vs Spencer Knight, Unconfirmed (-0.01 goals/gm); expected total 5.90
+  Minnesota Wild at Calgary Flames: Jesper Wallstedt (+0.18 goals/gm) vs Dustin Wolf (-0.08 goals/gm); expected total 5.90
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Chicago Blackhawks: Connor Bedard (Out, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
