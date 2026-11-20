@@ -25,7 +25,7 @@ OUT = os.environ.get("NHL_OUT") or os.path.join(HERE, "dashboard.html")
 FOCUS = os.environ.get("NHL_FOCUS", "main")  # "v3" on the automated website
 RETIRE_DAY = "2026-11-12"  # V1, V2 and V2b stopped when V3 went automatic
 RETIRED = {"main": RETIRE_DAY, "xg": RETIRE_DAY, "xgb": RETIRE_DAY} if FOCUS == "v3" else {}
-TARGET = 100  # picks needed before judging the model
+TARGET = 300  # picks needed before judging the model
 NUM_HEADERS = {"Live units", "Backtest units", "Odds", "Model", "Market", "Edge", "Units", "ROI", "Avg edge", "Picks",
                "V1 edge", "V2 edge", "V2b edge", "V3 edge", "V1 units", "V2 units", "V2b units", "V3 units",
                "Graded", "Waiting"}
@@ -134,8 +134,11 @@ def h2h_svg(daily):
         v += step
     parts.append(f'<line class="zero" x1="{L}" x2="{W-R}" y1="{y(0):.1f}" y2="{y(0):.1f}"/>'
                  f'<text class="tick" x="{L-8}" y="{y(0)+4:.1f}" text-anchor="end">0</text>')
+    last = -1e9
     for i, d in enumerate(dates, start=1):
-        parts.append(f'<text class="tick" x="{x(i):.1f}" y="{H-12}" text-anchor="middle">{nice(d, "%b")} {int(d[8:])}</text>')
+        if x(i) - last >= 72:  # skip labels that would overlap
+            parts.append(f'<text class="tick" x="{x(i):.1f}" y="{H-12}" text-anchor="middle">{nice(d, "%b")} {int(d[8:])}</text>')
+            last = x(i)
     for m, s in series.items():
         pts = " ".join(f"{x(i):.1f},{y(v):.1f}" for i, v in enumerate(s))
         parts.append(f'<polyline class="h2h {m}" points="{pts}"/>')
@@ -181,12 +184,14 @@ def chart_svg(done):
                  f'<text class="tick" x="{L-8}" y="{y(0)+4:.1f}" text-anchor="end">0</text>')
     # a tick at the first pick of each day
     dates = done.date.tolist()
+    last = -1e9
     for i, d in enumerate(dates):
         if i == 0 or d != dates[i - 1]:
             xx = x(i + 1)
-            parts.append(f'<line class="day" x1="{xx:.1f}" x2="{xx:.1f}" y1="{T}" y2="{H-B}"/>'
-                         f'<text class="tick" x="{xx:.1f}" y="{H-12}" text-anchor="middle">'
-                         f'{nice(d, "%b")} {int(d[8:])}</text>')
+            parts.append(f'<line class="day" x1="{xx:.1f}" x2="{xx:.1f}" y1="{T}" y2="{H-B}"/>')
+            if xx - last >= 72:  # skip labels that would overlap
+                parts.append(f'<text class="tick" x="{xx:.1f}" y="{H-12}" text-anchor="middle">{nice(d, "%b")} {int(d[8:])}</text>')
+                last = xx
     parts.append(f'<polyline class="run" points="{pts}"/>')
     for i, (v, r) in enumerate(zip(cum, done.result), start=1):
         parts.append(f'<circle class="dot {r}" cx="{x(i):.1f}" cy="{y(v):.1f}" r="4">'
@@ -580,7 +585,7 @@ def main():
     since = nice(fpk.date.min(), "%b") + " " + str(int(fpk.date.min()[8:])) if len(fpk) else "today"
     headline = f'{fname} {fmt_rec(w, l, p)}, <span class="{sign_class(u)}">{fmt_units(u)} units</span>'
     sub = (f"V3, V2 plus tonight's starting goalies: {n} graded picks at 1 unit each since {since}, ROI {fmt_roi(roi)}. "
-           "Picked automatically about an hour before each game." if FOCUS == "v3" else
+           "Picked automatically 1\u20132\u00bd hours before each game." if FOCUS == "v3" else
            f"V1, the main model: {n} graded picks at 1 unit each since Sept 30, ROI {fmt_roi(roi)}.")
     progress = min(100, 100 * n / TARGET)
     story_html, story_day = storylines_html(lines)
@@ -636,7 +641,8 @@ def main():
                               if r.maxedge is not None and r.maxedge >= 0.07 else ""))]
             for r in waiting.itertuples()])
     else:
-        wait_html = '<p class="empty">Nothing waiting. Run tonight\'s routine to add picks.</p>'
+        wait_html = ('<p class="empty">Nothing waiting yet. Tonight\'s picks appear here 1\u20132\u00bd hours before each game.</p>'
+                     if FOCUS == "v3" else '<p class="empty">Nothing waiting. Run tonight\'s routine to add picks.</p>')
 
     # ---- day by day, both models
     daily_rows = []
@@ -653,16 +659,22 @@ def main():
                 dw, dl, dp, du, _ = record(gd)
                 cells += [td(fmt_rec(dw, dl, dp)), td(fmt_units(du), "num " + sign_class(du))]
         daily_rows.append(cells)
-    daily_html = table(["Date"] + [h for m in MODELS for h in (f"{NAMES[m]} record", f"{NAMES[m]} units")], daily_rows)
+    daily_all_html = table(["Date"] + [h for m in MODELS for h in (f"{NAMES[m]} record", f"{NAMES[m]} units")], daily_rows)
+    fi = MODELS.index(FOCUS)
+    fdays = sorted(picks[picks.model == FOCUS].date.unique(), reverse=True)
+    daily_html = table(["Date", f"{NAMES[FOCUS]} record", f"{NAMES[FOCUS]} units"],
+                       [[r[0], r[1 + 2 * fi], r[2 + 2 * fi]] for r in daily_rows if r[0] in [td(d) for d in fdays]])
 
     # ---- breakdowns for each model
-    brows = []
+    brows, orows = [], []
     for m in MODELS:
         dm = picks[(picks.model == m) & graded]
         if len(dm):
-            brows += breakdown_rows(dm, NAMES[m])
+            (brows if m == FOCUS else orows).extend(breakdown_rows(dm, NAMES[m]))
     breakdown_html = (table(["Version", "", "Group", "Record", "Units", "ROI", "Avg edge"], brows)
                       if brows else '<p class="empty">Breakdowns appear once picks are graded.</p>')
+    breakdown_old_html = (table(["Version", "", "Group", "Record", "Units", "ROI", "Avg edge"], orows)
+                          if orows else '<p class="empty">No other versions.</p>')
 
     # ---- every line priced, newest day first, both models side by side
     days = []
@@ -757,6 +769,12 @@ td.wrap {{ white-space:normal; min-width:150px; }} .small {{ font-size:13px; }}
 .sg {{ font-weight:600; white-space:nowrap; }}
 .st {{ color:var(--ink); }}
 @media (max-width:640px) {{ .stories li {{ grid-template-columns:auto 1fr; }} .st {{ grid-column:1 / -1; }} }}
+.jump {{ display:flex; flex-wrap:wrap; gap:8px; margin:24px 0 8px; }}
+.jump a {{ font-size:14px; color:var(--blue); text-decoration:none; border:1px solid var(--rule); border-radius:999px; padding:4px 12px; background:var(--board); }}
+.jump a:hover {{ border-color:var(--blue); }}
+h3 {{ font-family:"Barlow Condensed",sans-serif; font-size:22px; margin:28px 0 8px; }}
+details.older > summary {{ color:var(--blue); }}
+h2[id], h3 {{ scroll-margin-top:12px; }}
 footer {{ margin-top:48px; color:var(--soft); font-size:14px; max-width:70ch; }}
 </style></head>
 <body><main>
@@ -766,32 +784,44 @@ footer {{ margin-top:48px; color:var(--soft); font-size:14px; max-width:70ch; }}
 <div class="rink">{chart_svg(done)}</div>
 <div class="goal"><div class="bar"><span></span></div>{n} of {TARGET} {fname} picks before judging the model</div>
 
-<h2>Tonight's storylines</h2>
+<nav class="jump"><a href="#today">Today's picks</a><a href="#stories">Storylines</a><a href="#trends">Trend systems</a><a href="#wins">Where {fname} wins</a><a href="#daily">Day by day</a><a href="#lines">Every line</a><a href="#older">Other versions</a></nav>
+
+<h2 id="today">Picks waiting on results</h2>
+<p>Bets {"V3" if FOCUS == "v3" else "any version"} picked that don't have a final score yet. A check tag means an edge of 7+ points, which usually means the model is missing something.</p>
+{wait_html}
+
+<h2 id="stories">Tonight's storylines</h2>
 <p>The most unusual things about {"tonight's" if story_day is None else nice(story_day, "%A") + "'s"} games, picked automatically. Context only: streaks and trends like these are usually priced in, and most fade.</p>
 {story_html}
 
-<h2>Trend systems</h2>
+<h2 id="trends">Trend systems</h2>
 <p>Four simple betting angles from this season's data, tracked on paper at 1 unit and BetMGM's price from your odds pull. "Live" counts only games from Nov 2 on, after the angles were chosen; "Backtest" is the earlier games they were found in, so it flatters them. Expect most trends like these to fade as the books adjust.</p>
 {sys_html}
 
-<h2>Head to head</h2>
+<h2 id="wins">Where {fname} wins and loses</h2>
+<p>{fname}'s graded picks split by market, side and edge size. Groups this small are mostly noise.</p>
+{breakdown_html}
+
+<h2 id="daily">Day by day</h2>
+{daily_html}
+
+<h2 id="lines">Every line the model priced</h2>
+<p>Bold rows are bets the model picked; grey rows are lines it passed on. The last 7 days are listed; older days are folded at the end.</p>
+{"".join(days[:7])}
+{f'<details class="older"><summary>Show {len(days) - 7} older days</summary>{"".join(days[7:])}</details>' if len(days) > 7 else ""}
+
+<h2 id="older">Other versions</h2>
+<p>{"V1, V2 and V2b stopped on Nov 12, when V3 started running automatically, so their records are frozen." if FOCUS == "v3" else "Every version's full record."}</p>
+
+<h3>Head to head</h3>
 <p>Every version on the same games and the same BetMGM odds, counted from the day V2 started{"" if h2h_start is None else " (" + nice(h2h_start, "%b") + " " + str(int(h2h_start[8:])) + ")"}. V1 rates teams on goals only; V2 uses 50% expected goals; V2b is V2 averaged 50/50 with the sportsbook's no-vig price; V3 is V2 adjusted for tonight's starting goalies (V2b and V3 started later, see "Since").{" V1, V2 and V2b stopped on Nov 12, when V3 started running automatically, so their records are frozen." if FOCUS == "v3" else ""} Each needs 100+ graded picks before the comparison means much.</p>
 {h2h_html}
 
-<h2>Waiting on results</h2>
-<p>Bets any version picked that don't have a final score yet, with each version's edge. A check tag means an edge of 7+ points, which usually means the model is missing something.</p>
-{wait_html}
+<h3>Where the other versions won and lost</h3>
+{breakdown_old_html}
 
-<h2>Where it wins and loses</h2>
-<p>Graded picks for each model, split by market, side and edge size. Groups this small are mostly noise.</p>
-{breakdown_html}
-
-<h2>Day by day</h2>
-{daily_html}
-
-<h2>Every line the model priced</h2>
-<p>Bold rows are bets at least one model picked. Grey rows are lines every version passed on. V2b edges are already blended with the market, so they run about half the size of V2's. V3 differs from V2 only by the starting goalies.</p>
-{"".join(days)}
+<h3>Day by day, every version</h3>
+{daily_all_html}
 
 <footer>Updated {datetime.now():%B %d, %Y at %I:%M %p}{" Eastern" if FOCUS == "v3" else ""}. Paper tracking only. Sportsbooks are hard to beat, and many good models only break even. Expected goals data: MoneyPuck.com.</footer>
 </main>
