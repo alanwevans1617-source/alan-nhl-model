@@ -73,11 +73,12 @@
       "Columbus Blue Jackets @ Chicago Blackhawks",
       "Minnesota Wild @ Calgary Flames",
       "Anaheim Ducks @ Colorado Avalanche",
-      "Vancouver Canucks @ Seattle Kraken"
+      "Vancouver Canucks @ Seattle Kraken",
+      "Dallas Stars @ Vegas Golden Knights"
     ]
   },
   "morning_done": "2026-11-19",
-  "odds_credits_remaining": "430",
+  "odds_credits_remaining": "428",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -86,6 +87,6 @@
     "2026-11-16": 2,
     "2026-11-17": 3,
     "2026-11-18": 2,
-    "2026-11-19": 3
+    "2026-11-19": 4
   }
 }

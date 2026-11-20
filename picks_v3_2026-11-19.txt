@@ -87,3 +87,18 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Vancouver Canucks at Seattle Kraken: Leevi Merilainen, Likely, no stats (+0.06 goals/gm) vs Philipp Grubauer, Likely (+0.01 goals/gm); expected total 6.47
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Colorado Avalanche: Cale Makar (Injured Reserve, No. 1 D), Nathan MacKinnon (Out, No. 1 F)
+
+Locked 07:56 PM ET: Dallas Stars at Vegas Golden Knights (10:00 PM)
+                               game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Dallas Stars @ Vegas Golden Knights Vegas Golden Knights ML  -125    0.527   0.532 -0.005       -0.051        0.0
+Dallas Stars @ Vegas Golden Knights         Dallas Stars ML   105    0.473   0.468  0.005       -0.031        0.0
+Dallas Stars @ Vegas Golden Knights                Over 5.5  -115    0.490   0.511 -0.021       -0.084        0.0
+Dallas Stars @ Vegas Golden Knights               Under 5.5  -105    0.510   0.489  0.021       -0.004        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Dallas Stars at Vegas Golden Knights: Jake Oettinger (+0.10 goals/gm) vs Adin Hill (+0.04 goals/gm); expected total 5.61
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Vegas Golden Knights: Noah Hanifin (Out, No. 2 D)
