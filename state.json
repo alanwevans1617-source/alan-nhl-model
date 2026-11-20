@@ -71,11 +71,13 @@
       "New York Islanders @ Winnipeg Jets",
       "Edmonton Oilers @ Tampa Bay Lightning",
       "Columbus Blue Jackets @ Chicago Blackhawks",
-      "Minnesota Wild @ Calgary Flames"
+      "Minnesota Wild @ Calgary Flames",
+      "Anaheim Ducks @ Colorado Avalanche",
+      "Vancouver Canucks @ Seattle Kraken"
     ]
   },
   "morning_done": "2026-11-19",
-  "odds_credits_remaining": "432",
+  "odds_credits_remaining": "430",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -84,6 +86,6 @@
     "2026-11-16": 2,
     "2026-11-17": 3,
     "2026-11-18": 2,
-    "2026-11-19": 2
+    "2026-11-19": 3
   }
 }

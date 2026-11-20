@@ -67,3 +67,23 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Chicago Blackhawks: Connor Bedard (Out, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
 Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
+
+Locked 07:21 PM ET: Anaheim Ducks at Colorado Avalanche (09:00 PM); Vancouver Canucks at Seattle Kraken (09:40 PM)
+                              game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Anaheim Ducks @ Colorado Avalanche Colorado Avalanche ML  -130    0.630   0.543  0.087        0.115       2.00
+Anaheim Ducks @ Colorado Avalanche      Anaheim Ducks ML   110    0.370   0.457 -0.087       -0.223       0.00
+Anaheim Ducks @ Colorado Avalanche              Over 6.5  -130    0.621   0.543  0.079        0.099       2.00
+Anaheim Ducks @ Colorado Avalanche             Under 6.5   110    0.379   0.457 -0.079       -0.205       0.00
+Vancouver Canucks @ Seattle Kraken     Seattle Kraken ML  -170    0.587   0.602 -0.015       -0.067       0.00
+Vancouver Canucks @ Seattle Kraken  Vancouver Canucks ML   140    0.413   0.398  0.015       -0.009       0.00
+Vancouver Canucks @ Seattle Kraken              Over 6.5  -110    0.469   0.500 -0.031       -0.104       0.00
+Vancouver Canucks @ Seattle Kraken             Under 6.5  -110    0.531   0.500  0.031        0.013       0.36
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Anaheim Ducks at Colorado Avalanche: Lukas Dostal (-0.06 goals/gm) vs Scott Wedgewood, Unconfirmed (-0.16 goals/gm); expected total 7.50
+  Vancouver Canucks at Seattle Kraken: Leevi Merilainen, Likely, no stats (+0.06 goals/gm) vs Philipp Grubauer, Likely (+0.01 goals/gm); expected total 6.47
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Colorado Avalanche: Cale Makar (Injured Reserve, No. 1 D), Nathan MacKinnon (Out, No. 1 F)
