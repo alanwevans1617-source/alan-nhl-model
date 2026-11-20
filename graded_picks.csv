@@ -463,6 +463,15 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-17,v3,Dallas Stars @ Vegas Golden Knights,Under 5.5,100,0.522,0.478,0.043,L,-1.0,Dallas Stars 4 - Vegas Golden Knights 3 OT
 2026-11-18,v3,Boston Bruins @ Detroit Red Wings,Under 6.0,-110,0.58,0.5,0.08,W,0.909,Boston Bruins 4 - Detroit Red Wings 1
 2026-11-18,v3,Colorado Avalanche @ Utah Mammoth,Colorado Avalanche ML,-110,0.569,0.5,0.069,L,-1.0,Colorado Avalanche 1 - Utah Mammoth 4
+2026-11-19,v3,Philadelphia Flyers @ Ottawa Senators,Under 6.0,-105,0.56,0.489,0.071,L,-1.0,Philadelphia Flyers 6 - Ottawa Senators 5 OT
+2026-11-19,v3,St. Louis Blues @ Pittsburgh Penguins,Under 6.5,-120,0.562,0.522,0.04,L,-1.0,St. Louis Blues 5 - Pittsburgh Penguins 2
+2026-11-19,v3,Montreal Canadiens @ Carolina Hurricanes,Montreal Canadiens ML,280,0.287,0.253,0.034,W,2.8,Montreal Canadiens 2 - Carolina Hurricanes 1 OT
+2026-11-19,v3,New York Islanders @ Winnipeg Jets,Under 6.5,-115,0.572,0.511,0.062,L,-1.0,New York Islanders 3 - Winnipeg Jets 4 OT
+2026-11-19,v3,Columbus Blue Jackets @ Chicago Blackhawks,Chicago Blackhawks ML,135,0.444,0.409,0.035,L,-1.0,Columbus Blue Jackets 4 - Chicago Blackhawks 2
+2026-11-19,v3,Minnesota Wild @ Calgary Flames,Under 6.0,100,0.55,0.478,0.072,W,1.0,Minnesota Wild 4 - Calgary Flames 1
+2026-11-19,v3,Anaheim Ducks @ Colorado Avalanche,Colorado Avalanche ML,-130,0.63,0.543,0.087,W,0.769,Anaheim Ducks 0 - Colorado Avalanche 4
+2026-11-19,v3,Anaheim Ducks @ Colorado Avalanche,Over 6.5,-130,0.621,0.543,0.079,L,-1.0,Anaheim Ducks 0 - Colorado Avalanche 4
+2026-11-19,v3,Vancouver Canucks @ Seattle Kraken,Under 6.5,-110,0.531,0.5,0.031,W,0.909,Vancouver Canucks 1 - Seattle Kraken 5
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
