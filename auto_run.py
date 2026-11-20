@@ -222,8 +222,8 @@ def pull_odds(day, st):
     rows = {}
     for ev in r.json():
         start = datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00"))
-        if start.astimezone(ET).strftime("%Y-%m-%d") != day:
-            continue
+        if start.astimezone(ET).strftime("%Y-%m-%d") != day or start <= datetime.now(timezone.utc):
+            continue  # other days, and games already under way (live in-game odds)
         home, away = team_name(ev["home_team"]), team_name(ev["away_team"])
         if not home or not away:
             log(f"  Unknown team name from the odds feed: {ev['away_team']} @ {ev['home_team']}")

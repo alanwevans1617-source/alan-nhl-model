@@ -39,7 +39,9 @@ CURR_URL = "https://www.hockey-reference.com/leagues/NHL_2027_games.html"
 
 # ---------------------------------------------------------------- data
 def load_games(src):
-    """Regular-season games with scores. Shootout games are scored as ties."""
+    """Regular-season games with scores, as REGULATION scores: the deciding goal of an
+    overtime or shootout game is removed, so those games count as ties (the model then adds
+    that goal back when pricing totals; see market_probs)."""
     if str(src).startswith("http"):
         import requests
         r = requests.get(src, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
@@ -62,9 +64,9 @@ def load_games(src):
     })
     df = df.dropna(subset=["date", "away_g", "home_g"]).copy()
     df["home_win"] = (df.home_g > df.away_g).astype(int)  # true winner, SO included
-    so = df.ot.eq("SO")
-    df.loc[so & (df.home_win == 1), "home_g"] -= 1  # remove the shootout bonus goal
-    df.loc[so & (df.home_win == 0), "away_g"] -= 1
+    extra = df.ot.isin(["OT", "SO"])  # remove the OT winner / shootout bonus goal -> regulation score
+    df.loc[extra & (df.home_win == 1), "home_g"] -= 1
+    df.loc[extra & (df.home_win == 0), "away_g"] -= 1
     return df.sort_values("date").reset_index(drop=True)
 
 
@@ -138,16 +140,20 @@ class Ratings:
 
 
 def market_probs(lh, la, total_line=None, k=15):
-    """Independent-Poisson score grid -> moneyline / puck line / total probabilities.
-    A tie after OT means a shootout, treated as a coin flip."""
+    """Independent-Poisson grid of REGULATION scores -> moneyline / puck line / total probabilities.
+    A regulation tie goes to OT/shootout: a coin flip for the moneyline, and always exactly one
+    more goal for the total (the OT winner or the shootout goal), e.g. 3-3 counts as 7.
+    (Fixed Nov 20, 2026: before this, tied scores were counted without that extra goal,
+    which made unders look about 3-5 points better than they are on 6.0 and 6.5 lines.)"""
     g = np.outer(poisson.pmf(np.arange(k), lh), poisson.pmf(np.arange(k), la))
     g /= g.sum()
     i, j = np.indices(g.shape)
     tie = g[i == j].sum()
     out = {"p_home": g[i > j].sum() + tie / 2, "p_away": g[i < j].sum() + tie / 2,
-           "p_home_pl": g[i - j >= 2].sum(), "exp_total": lh + la}
+           "p_home_pl": g[i - j >= 2].sum(), "exp_total": lh + la + tie}
     if total_line is not None:
-        over, under = g[i + j > total_line].sum(), g[i + j < total_line].sum()
+        final = i + j + (i == j)  # a tied game always gets one more goal
+        over, under = g[final > total_line].sum(), g[final < total_line].sum()
         out["p_over"] = over / (over + under)  # conditional on no push
     return out
 
@@ -291,7 +297,7 @@ def run_predict(args):
                 goalie_lines.append(
                     f"  {r.away} at {r.home}: {s.away_goalie}{flag(s.away_status)}{'' if k_away else ', no stats'} "
                     f"({-d_away:+.2f} goals/gm) vs {s.home_goalie}{flag(s.home_status)}{'' if k_home else ', no stats'} "
-                    f"({-d_home:+.2f} goals/gm); expected total {lh + la:.2f}")
+                    f"({-d_home:+.2f} goals/gm); expected total {market_probs(lh, la)['exp_total']:.2f}")
         tl = getattr(r, "total_line", np.nan)
         pr = market_probs(lh, la, None if pd.isna(tl) else tl)
         game = f"{r.away} @ {r.home}"

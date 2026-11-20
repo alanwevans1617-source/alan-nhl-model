@@ -374,7 +374,7 @@ def storylines(lines, day_lines):
             x["date"], x["file"] = m[1], os.path.basename(f)
             oh.append(x)
         if oh:
-            oh = pd.concat(oh).sort_values("file").drop_duplicates(["date", "home", "away"], keep="last")
+            oh = _pregame(pd.concat(oh)).sort_values("file").drop_duplicates(["date", "home", "away"], keep="last")
             mg = oh.merge(scores, on=["date", "home", "away"])
             mg = mg[mg.total_line.notna()]
             mg["tot"] = mg.home_g + mg.away_g
@@ -466,6 +466,14 @@ SYSTEMS = [
 ]
 
 
+def _pregame(df):
+    """Drop odds pulled after a game had started (live in-game lines)."""
+    if {"pulled_at", "start"} <= set(df.columns):
+        late = df.pulled_at.astype(str) >= df.start.astype(str)
+        df = df[~(late & df.pulled_at.notna() & df.start.notna())]
+    return df
+
+
 def _odds_history():
     rows = []
     for f in sorted(glob.glob(os.path.join(HERE, "odds_history", "odds_*.csv"))):
@@ -478,7 +486,7 @@ def _odds_history():
         rows.append(x)
     if not rows:
         return None
-    return pd.concat(rows).sort_values("file").drop_duplicates(["date", "home", "away"], keep="last")
+    return _pregame(pd.concat(rows)).sort_values("file").drop_duplicates(["date", "home", "away"], keep="last")
 
 
 def _profit(odds):
@@ -585,7 +593,8 @@ def main():
     since = nice(fpk.date.min(), "%b") + " " + str(int(fpk.date.min()[8:])) if len(fpk) else "today"
     headline = f'{fname} {fmt_rec(w, l, p)}, <span class="{sign_class(u)}">{fmt_units(u)} units</span>'
     sub = (f"V3, V2 plus tonight's starting goalies: {n} graded picks at 1 unit each since {since}, ROI {fmt_roi(roi)}. "
-           "Picked automatically 1\u20132\u00bd hours before each game." if FOCUS == "v3" else
+           "Picked automatically 1\u20132\u00bd hours before each game. "
+           "Totals fix from Nov 20: tied games now count the overtime/shootout goal, which removed a lean toward unders." if FOCUS == "v3" else
            f"V1, the main model: {n} graded picks at 1 unit each since Sept 30, ROI {fmt_roi(roi)}.")
     progress = min(100, 100 * n / TARGET)
     story_html, story_day = storylines_html(lines)
