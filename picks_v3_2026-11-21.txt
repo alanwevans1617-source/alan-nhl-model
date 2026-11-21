@@ -48,3 +48,51 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Pittsburgh Penguins at Nashville Predators: Sergei Murashov, Unconfirmed (+0.01 goals/gm) vs Juuse Saros, Unconfirmed (+0.12 goals/gm); expected total 6.49
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Pittsburgh Penguins: Evgeni Malkin (Out, No. 3 F)
+
+Locked 04:59 PM ET: Washington Capitals at Boston Bruins (07:00 PM); Columbus Blue Jackets at Toronto Maple Leafs (07:00 PM); Philadelphia Flyers at Montreal Canadiens (07:00 PM); Los Angeles Kings at Ottawa Senators (07:00 PM); New York Islanders at Detroit Red Wings (07:00 PM); New Jersey Devils at St. Louis Blues (07:00 PM); Vegas Golden Knights at Winnipeg Jets (07:00 PM)
+                                       game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+        Washington Capitals @ Boston Bruins         Boston Bruins ML  -135    0.593   0.553  0.041        0.033       1.10
+        Washington Capitals @ Boston Bruins   Washington Capitals ML   115    0.407   0.447 -0.041       -0.125       0.00
+        Washington Capitals @ Boston Bruins                 Over 6.5  -120    0.535   0.522  0.013       -0.020       0.00
+        Washington Capitals @ Boston Bruins                Under 6.5   100    0.465   0.478 -0.013       -0.069       0.00
+Columbus Blue Jackets @ Toronto Maple Leafs   Toronto Maple Leafs ML  -120    0.501   0.522 -0.020       -0.081       0.00
+Columbus Blue Jackets @ Toronto Maple Leafs Columbus Blue Jackets ML   100    0.499   0.478  0.020       -0.003       0.00
+Columbus Blue Jackets @ Toronto Maple Leafs                 Over 6.0  -120    0.495   0.522 -0.027       -0.093       0.00
+Columbus Blue Jackets @ Toronto Maple Leafs                Under 6.0   100    0.505   0.478  0.027        0.010       0.00
+   Philadelphia Flyers @ Montreal Canadiens    Montreal Canadiens ML  -160    0.617   0.591  0.025        0.002       0.00
+   Philadelphia Flyers @ Montreal Canadiens   Philadelphia Flyers ML   135    0.383   0.409 -0.025       -0.099       0.00
+   Philadelphia Flyers @ Montreal Canadiens                 Over 6.0   100    0.472   0.478 -0.006       -0.055       0.00
+   Philadelphia Flyers @ Montreal Canadiens                Under 6.0  -120    0.528   0.522  0.006       -0.033       0.00
+        Los Angeles Kings @ Ottawa Senators       Ottawa Senators ML  -180    0.633   0.616  0.017       -0.015       0.00
+        Los Angeles Kings @ Ottawa Senators     Los Angeles Kings ML   150    0.367   0.384 -0.017       -0.082       0.00
+        Los Angeles Kings @ Ottawa Senators                 Over 5.5  -115    0.487   0.511 -0.024       -0.090       0.00
+        Los Angeles Kings @ Ottawa Senators                Under 5.5  -105    0.513   0.489  0.024        0.002       0.00
+     New York Islanders @ Detroit Red Wings     Detroit Red Wings ML   110    0.468   0.457  0.011       -0.017       0.00
+     New York Islanders @ Detroit Red Wings    New York Islanders ML  -130    0.532   0.543 -0.011       -0.059       0.00
+     New York Islanders @ Detroit Red Wings                 Over 6.0  -105    0.490   0.489  0.001       -0.043       0.00
+     New York Islanders @ Detroit Red Wings                Under 6.0  -115    0.510   0.511 -0.001       -0.047       0.00
+        New Jersey Devils @ St. Louis Blues       St. Louis Blues ML   110    0.491   0.457  0.034        0.032       0.72
+        New Jersey Devils @ St. Louis Blues     New Jersey Devils ML  -130    0.509   0.543 -0.034       -0.100       0.00
+        New Jersey Devils @ St. Louis Blues                 Over 6.0  -115    0.487   0.511 -0.024       -0.090       0.00
+        New Jersey Devils @ St. Louis Blues                Under 6.0  -105    0.513   0.489  0.024        0.002       0.00
+       Vegas Golden Knights @ Winnipeg Jets         Winnipeg Jets ML   115    0.471   0.447  0.023        0.012       0.00
+       Vegas Golden Knights @ Winnipeg Jets  Vegas Golden Knights ML  -135    0.529   0.553 -0.023       -0.078       0.00
+       Vegas Golden Knights @ Winnipeg Jets                 Over 6.5  -102    0.471   0.483 -0.012       -0.067       0.00
+       Vegas Golden Knights @ Winnipeg Jets                Under 6.5  -118    0.529   0.517  0.012       -0.023       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Washington Capitals at Boston Bruins: Charlie Lindgren (-0.04 goals/gm) vs Jeremy Swayman (+0.06 goals/gm); expected total 6.74
+  Columbus Blue Jackets at Toronto Maple Leafs: Cam Talbot (+0.11 goals/gm) vs Anthony Stolarz (+0.04 goals/gm); expected total 6.14
+  Philadelphia Flyers at Montreal Canadiens: Dan Vladar (-0.06 goals/gm) vs Jacob Fowler (+0.20 goals/gm); expected total 6.02
+  Los Angeles Kings at Ottawa Senators: Anton Forsberg, Likely (+0.03 goals/gm) vs Linus Ullmark (+0.22 goals/gm); expected total 5.76
+  New York Islanders at Detroit Red Wings: Ilya Sorokin, Likely (+0.11 goals/gm) vs John Gibson (-0.16 goals/gm); expected total 6.12
+  New Jersey Devils at St. Louis Blues: Connor Hellebuyck, Likely (+0.07 goals/gm) vs Joel Hofer, Unconfirmed (+0.14 goals/gm); expected total 6.10
+  Vegas Golden Knights at Winnipeg Jets: Carter Hart, Unconfirmed (-0.03 goals/gm) vs Stuart Skinner (+0.01 goals/gm); expected total 6.33
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F)
+Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
+Key players out, Los Angeles Kings: Artemi Panarin (Out, No. 1 F)
+Key players out, Detroit Red Wings: Dylan Larkin (Injured Reserve, No. 1 F)

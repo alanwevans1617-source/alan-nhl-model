@@ -80,11 +80,18 @@
       "Edmonton Oilers @ Carolina Hurricanes",
       "Chicago Blackhawks @ Calgary Flames",
       "Buffalo Sabres @ Florida Panthers",
-      "Pittsburgh Penguins @ Nashville Predators"
+      "Pittsburgh Penguins @ Nashville Predators",
+      "Washington Capitals @ Boston Bruins",
+      "Columbus Blue Jackets @ Toronto Maple Leafs",
+      "Philadelphia Flyers @ Montreal Canadiens",
+      "Los Angeles Kings @ Ottawa Senators",
+      "New York Islanders @ Detroit Red Wings",
+      "New Jersey Devils @ St. Louis Blues",
+      "Vegas Golden Knights @ Winnipeg Jets"
     ]
   },
   "morning_done": "2026-11-21",
-  "odds_credits_remaining": "422",
+  "odds_credits_remaining": "420",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -94,6 +101,6 @@
     "2026-11-17": 3,
     "2026-11-18": 2,
     "2026-11-19": 4,
-    "2026-11-21": 3
+    "2026-11-21": 4
   }
 }
