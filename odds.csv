@@ -1,13 +1,15 @@
 pulled_at,start,book,home,away,home_ml,away_ml,total_line,over,under
-2026-11-19 19:56,2026-11-19 19:08,betmgm,Ottawa Senators,Philadelphia Flyers,-145,115,6.5,-118,-110
-2026-11-19 19:56,2026-11-19 19:08,betmgm,Toronto Maple Leafs,Los Angeles Kings,-700,475,6.5,105,-140
-2026-11-19 19:56,2026-11-19 19:08,betmgm,Winnipeg Jets,New York Islanders,-135,105,8.5,-140,105
-2026-11-19 19:56,2026-11-19 19:09,betmgm,Pittsburgh Penguins,St. Louis Blues,-250,195,5.5,115,-155
-2026-11-19 19:56,2026-11-19 19:10,betmgm,Carolina Hurricanes,Montreal Canadiens,-295,225,4.5,-115,-115
-2026-11-19 19:56,2026-11-19 19:11,betmgm,Washington Capitals,Buffalo Sabres,625,-1100,9.5,100,-135
-2026-11-19 19:56,2026-11-19 19:40,betmgm,Tampa Bay Lightning,Edmonton Oilers,-140,110,5.5,135,-185
-2026-11-19 19:56,2026-11-19 20:10,betmgm,Calgary Flames,Minnesota Wild,200,-250,6.0,-120,100
-2026-11-19 19:56,2026-11-19 20:10,betmgm,Chicago Blackhawks,Columbus Blue Jackets,135,-160,6.0,-118,-102
-2026-11-19 19:56,2026-11-19 21:10,betmgm,Colorado Avalanche,Anaheim Ducks,-130,110,6.5,-130,110
-2026-11-19 19:56,2026-11-19 21:50,betmgm,Seattle Kraken,Vancouver Canucks,-170,140,6.5,-110,-110
-2026-11-19 19:56,2026-11-19 22:10,betmgm,Vegas Golden Knights,Dallas Stars,-125,105,5.5,-115,-105
+2026-11-21 11:22,2026-11-21 13:00,betmgm,Carolina Hurricanes,Edmonton Oilers,-210,170,6.0,-118,-102
+2026-11-21 11:22,2026-11-21 15:30,betmgm,Calgary Flames,Chicago Blackhawks,-160,135,5.5,-120,100
+2026-11-21 11:22,2026-11-21 18:00,betmgm,Florida Panthers,Buffalo Sabres,-145,120,6.0,-120,100
+2026-11-21 11:22,2026-11-21 18:00,betmgm,Nashville Predators,Pittsburgh Penguins,-135,115,6.5,-105,-115
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Boston Bruins,Washington Capitals,-125,105,6.5,-115,-105
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Toronto Maple Leafs,Columbus Blue Jackets,-118,-102,6.5,100,-120
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Detroit Red Wings,New York Islanders,110,-130,6.0,-105,-115
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Ottawa Senators,Los Angeles Kings,-180,145,5.5,-120,100
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Montreal Canadiens,Philadelphia Flyers,-160,135,6.0,100,-120
+2026-11-21 11:22,2026-11-21 19:00,betmgm,St. Louis Blues,New Jersey Devils,110,-130,6.0,-115,-105
+2026-11-21 11:22,2026-11-21 19:00,betmgm,Winnipeg Jets,Vegas Golden Knights,115,-135,6.5,-102,-118
+2026-11-21 11:22,2026-11-21 21:00,betmgm,Utah Mammoth,Anaheim Ducks,-160,135,7.0,110,-135
+2026-11-21 11:22,2026-11-21 22:00,betmgm,Vancouver Canucks,Minnesota Wild,240,-300,6.5,-105,-115
+2026-11-21 11:22,2026-11-21 22:00,betmgm,San Jose Sharks,Seattle Kraken,-118,-102,6.5,-110,-110
