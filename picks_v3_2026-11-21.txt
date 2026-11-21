@@ -96,3 +96,18 @@ Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F
 Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
 Key players out, Los Angeles Kings: Artemi Panarin (Out, No. 1 F)
 Key players out, Detroit Red Wings: Dylan Larkin (Injured Reserve, No. 1 F)
+
+Locked 06:54 PM ET: Anaheim Ducks at Utah Mammoth (09:00 PM)
+                        game              bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Anaheim Ducks @ Utah Mammoth  Utah Mammoth ML  -170    0.586   0.602 -0.016       -0.069        0.0
+Anaheim Ducks @ Utah Mammoth Anaheim Ducks ML   140    0.414   0.398  0.016       -0.007        0.0
+Anaheim Ducks @ Utah Mammoth         Over 7.0   110    0.528   0.457  0.071        0.109        2.0
+Anaheim Ducks @ Utah Mammoth        Under 7.0  -130    0.472   0.543 -0.071       -0.165        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Anaheim Ducks at Utah Mammoth: Ville Husso (-0.04 goals/gm) vs Sebastian Cossa, Likely (-0.03 goals/gm); expected total 7.32
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Anaheim Ducks: Beckett Sennecke (Injured Reserve, No. 3 F)
