@@ -28,3 +28,23 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Chicago Blackhawks: Connor Bedard (Out, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
 Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
+
+Locked 03:35 PM ET: Buffalo Sabres at Florida Panthers (06:00 PM); Pittsburgh Penguins at Nashville Predators (06:00 PM)
+                                     game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+        Buffalo Sabres @ Florida Panthers    Florida Panthers ML  -145    0.556   0.566 -0.009       -0.060       0.00
+        Buffalo Sabres @ Florida Panthers      Buffalo Sabres ML   120    0.444   0.434  0.009       -0.024       0.00
+        Buffalo Sabres @ Florida Panthers               Over 6.0  -120    0.543   0.522  0.021       -0.004       0.00
+        Buffalo Sabres @ Florida Panthers              Under 6.0   100    0.457   0.478 -0.021       -0.086       0.00
+Pittsburgh Penguins @ Nashville Predators Nashville Predators ML  -135    0.583   0.553  0.030        0.015       0.49
+Pittsburgh Penguins @ Nashville Predators Pittsburgh Penguins ML   115    0.417   0.447 -0.030       -0.103       0.00
+Pittsburgh Penguins @ Nashville Predators               Over 6.5  -105    0.495   0.489  0.006       -0.034       0.00
+Pittsburgh Penguins @ Nashville Predators              Under 6.5  -115    0.505   0.511 -0.006       -0.056       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Buffalo Sabres at Florida Panthers: Alex Lyon, Likely (+0.01 goals/gm) vs Jacob Markstrom (+0.04 goals/gm); expected total 6.41
+  Pittsburgh Penguins at Nashville Predators: Sergei Murashov, Unconfirmed (+0.01 goals/gm) vs Juuse Saros, Unconfirmed (+0.12 goals/gm); expected total 6.49
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Pittsburgh Penguins: Evgeni Malkin (Out, No. 3 F)
