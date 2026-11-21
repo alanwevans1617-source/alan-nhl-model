@@ -77,11 +77,12 @@
       "Dallas Stars @ Vegas Golden Knights"
     ],
     "2026-11-21": [
-      "Edmonton Oilers @ Carolina Hurricanes"
+      "Edmonton Oilers @ Carolina Hurricanes",
+      "Chicago Blackhawks @ Calgary Flames"
     ]
   },
   "morning_done": "2026-11-21",
-  "odds_credits_remaining": "426",
+  "odds_credits_remaining": "424",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -91,6 +92,6 @@
     "2026-11-17": 3,
     "2026-11-18": 2,
     "2026-11-19": 4,
-    "2026-11-21": 1
+    "2026-11-21": 2
   }
 }

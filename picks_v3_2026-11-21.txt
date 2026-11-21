@@ -12,3 +12,19 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Edmonton Oilers at Carolina Hurricanes: Tristan Jarry, Unconfirmed (+0.05 goals/gm) vs Pyotr Kochetkov, Unconfirmed (+0.16 goals/gm); expected total 6.07
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 01:16 PM ET: Chicago Blackhawks at Calgary Flames (03:30 PM)
+                               game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Chicago Blackhawks @ Calgary Flames     Calgary Flames ML  -160    0.548   0.591 -0.043       -0.110       0.00
+Chicago Blackhawks @ Calgary Flames Chicago Blackhawks ML   135    0.452   0.409  0.043        0.062       1.15
+Chicago Blackhawks @ Calgary Flames              Over 5.5  -120    0.549   0.522  0.027        0.006       0.00
+Chicago Blackhawks @ Calgary Flames             Under 5.5   100    0.451   0.478 -0.027       -0.098       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Chicago Blackhawks at Calgary Flames: Spencer Knight, Unconfirmed (-0.01 goals/gm) vs Dustin Wolf, Likely (-0.09 goals/gm); expected total 6.13
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Chicago Blackhawks: Connor Bedard (Out, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
