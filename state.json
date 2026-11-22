@@ -91,10 +91,13 @@
       "Anaheim Ducks @ Utah Mammoth",
       "Minnesota Wild @ Vancouver Canucks",
       "Seattle Kraken @ San Jose Sharks"
+    ],
+    "2026-11-22": [
+      "Carolina Hurricanes @ New York Rangers"
     ]
   },
   "morning_done": "2026-11-22",
-  "odds_credits_remaining": "416",
+  "odds_credits_remaining": "414",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -104,6 +107,7 @@
     "2026-11-17": 3,
     "2026-11-18": 2,
     "2026-11-19": 4,
-    "2026-11-21": 6
+    "2026-11-21": 6,
+    "2026-11-22": 1
   }
 }

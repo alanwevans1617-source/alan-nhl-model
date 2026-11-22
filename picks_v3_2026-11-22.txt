@@ -1,0 +1,14 @@
+
+Locked 10:23 AM ET: Carolina Hurricanes at New York Rangers (12:30 PM)
+                                  game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Carolina Hurricanes @ New York Rangers    New York Rangers ML   135    0.427   0.409  0.018        0.003        0.0
+Carolina Hurricanes @ New York Rangers Carolina Hurricanes ML  -160    0.573   0.591 -0.018       -0.068        0.0
+Carolina Hurricanes @ New York Rangers               Over 6.0  -120    0.542   0.522  0.020       -0.007        0.0
+Carolina Hurricanes @ New York Rangers              Under 6.0   100    0.458   0.478 -0.020       -0.083        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Carolina Hurricanes at New York Rangers: Brandon Bussi, Unconfirmed (-0.11 goals/gm) vs Dylan Garand, Unconfirmed (+0.03 goals/gm); expected total 6.40
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
