@@ -12,3 +12,18 @@ Ratings trained on 50% expected goals (Data: MoneyPuck.com).
 Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
   Carolina Hurricanes at New York Rangers: Brandon Bussi, Unconfirmed (-0.11 goals/gm) vs Dylan Garand, Unconfirmed (+0.03 goals/gm); expected total 6.40
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+
+Locked 02:59 PM ET: Buffalo Sabres at Tampa Bay Lightning (05:00 PM)
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Buffalo Sabres @ Tampa Bay Lightning Tampa Bay Lightning ML  -210    0.633   0.647 -0.014       -0.066        0.0
+Buffalo Sabres @ Tampa Bay Lightning      Buffalo Sabres ML   170    0.367   0.353  0.014       -0.008        0.0
+Buffalo Sabres @ Tampa Bay Lightning               Over 6.5  -105    0.512   0.489  0.023       -0.001        0.0
+Buffalo Sabres @ Tampa Bay Lightning              Under 6.5  -115    0.488   0.511 -0.023       -0.087        0.0
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Buffalo Sabres at Tampa Bay Lightning: no starters found in goalies.csv, no adjustment
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Tampa Bay Lightning: Brandon Hagel (Injured Reserve, No. 3 F)
