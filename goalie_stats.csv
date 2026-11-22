@@ -1,78 +1,78 @@
 name,key,team,games,shots,goals,xgoals,gsax,sv_pct,saved_per_game
 Jesper Wallstedt,jesperwallstedt,Minnesota Wild,21,551,41,60.14,19.14,0.926,0.336
-Jacob Fowler,jacobfowler,Montreal Canadiens,14,407,31,45.17,14.17,0.924,0.274
-Linus Ullmark,linusullmark,Ottawa Senators,11,249,15,25.39,10.39,0.94,0.226
-Pyotr Kochetkov,pyotrkochetkov,Carolina Hurricanes,14,287,23,33.1,10.1,0.92,0.213
+Jacob Fowler,jacobfowler,Montreal Canadiens,15,427,35,47.47,12.47,0.918,0.238
+Linus Ullmark,linusullmark,Ottawa Senators,12,270,17,27.61,10.61,0.937,0.227
 Daniil Tarasov,daniiltarasov,Detroit Red Wings,10,247,18,27.11,9.11,0.927,0.199
-Ilya Sorokin,ilyasorokin,New York Islanders,14,419,34,44.28,10.28,0.919,0.197
-Juuse Saros,juusesaros,Nashville Predators,16,477,39,49.07,10.07,0.918,0.185
+Ilya Sorokin,ilyasorokin,New York Islanders,15,439,36,46.34,10.34,0.918,0.195
 Joel Hofer,joelhofer,St. Louis Blues,16,465,36,45.66,9.66,0.923,0.179
 Jake Oettinger,jakeoettinger,Dallas Stars,17,383,38,47.05,9.05,0.901,0.178
+Juuse Saros,juusesaros,Nashville Predators,17,501,42,51.04,9.04,0.916,0.164
+Pyotr Kochetkov,pyotrkochetkov,Carolina Hurricanes,15,302,27,34.54,7.54,0.911,0.158
 Alex Nedeljkovic,alexnedeljkovic,San Jose Sharks,8,255,25,31.7,6.7,0.902,0.145
 Michael DiPietro,michaeldipietro,Boston Bruins,7,181,14,19.56,5.56,0.923,0.128
-Jeremy Swayman,jeremyswayman,Boston Bruins,16,424,39,45.7,6.7,0.908,0.128
-Cam Talbot,camtalbot,Columbus Blue Jackets,11,296,27,32.84,5.84,0.909,0.123
 Igor Shesterkin,igorshesterkin,New York Rangers,5,109,8,12.95,4.95,0.927,0.121
+Jeremy Swayman,jeremyswayman,Boston Bruins,17,459,44,50.17,6.17,0.904,0.115
 Semyon Varlamov,semyonvarlamov,New York Islanders,7,180,20,24.97,4.97,0.889,0.115
+Cam Talbot,camtalbot,Columbus Blue Jackets,12,322,30,35.51,5.51,0.907,0.113
 Nikita Tolopilo,nikitatolopilo,Vancouver Canucks,1,37,2,5.96,3.96,0.946,0.104
 Tristan Jarry,tristanjarry,Edmonton Oilers,10,275,25,28.72,3.72,0.909,0.079
 Joonas Korpisalo,joonaskorpisalo,New York Rangers,3,83,5,8.04,3.04,0.94,0.076
 Dylan Garand,dylangarand,New York Rangers,15,356,32,35.45,3.45,0.91,0.069
-Devon Levi,devonlevi,Edmonton Oilers,12,309,30,33.07,3.07,0.903,0.064
-Jacob Markstrom,jacobmarkstrom,Florida Panthers,12,283,29,31.2,2.2,0.898,0.047
-Connor Hellebuyck,connorhellebuyck,New Jersey Devils,8,217,19,20.84,1.84,0.912,0.041
-Adin Hill,adinhill,Vegas Golden Knights,12,315,32,33.88,1.88,0.898,0.039
+Jacob Markstrom,jacobmarkstrom,Florida Panthers,13,303,32,34.23,2.23,0.894,0.047
 Yaroslav Askarov,yaroslavaskarov,San Jose Sharks,16,475,53,55.12,2.12,0.888,0.039
 Andrei Vasilevskiy,andreivasilevskiy,Tampa Bay Lightning,17,419,44,46.05,2.05,0.895,0.039
+Adin Hill,adinhill,Vegas Golden Knights,12,315,32,33.88,1.88,0.898,0.039
 Mackenzie Blackwood,mackenzieblackwood,Colorado Avalanche,17,438,42,44.0,2.0,0.904,0.038
 Joseph Woll,josephwoll,Philadelphia Flyers,13,372,40,41.89,1.89,0.892,0.037
 Philipp Grubauer,philippgrubauer,Seattle Kraken,13,321,33,34.66,1.66,0.897,0.034
 Devin Cooley,devincooley,Calgary Flames,10,288,27,28.53,1.53,0.906,0.032
 Matt Murray,mattmurray,Nashville Predators,1,20,2,2.83,0.83,0.9,0.022
-Anthony Stolarz,anthonystolarz,Toronto Maple Leafs,10,282,27,27.88,0.88,0.904,0.019
+Stuart Skinner,stuartskinner,Winnipeg Jets,17,444,52,53.0,1.0,0.883,0.019
 Dennis Hildeby,dennishildeby,Tampa Bay Lightning,5,129,13,13.6,0.6,0.899,0.014
-Stuart Skinner,stuartskinner,Winnipeg Jets,16,411,48,48.41,0.41,0.883,0.008
 Casey DeSmith,caseydesmith,Dallas Stars,6,139,13,13.3,0.3,0.906,0.007
-Anton Forsberg,antonforsberg,Los Angeles Kings,8,195,18,18.23,0.23,0.908,0.005
+Devon Levi,devonlevi,Edmonton Oilers,13,345,37,37.04,0.04,0.893,0.001
 Matt Tomkins,matttomkins,Edmonton Oilers,2,50,6,6.01,0.01,0.88,0.0
 Laurent Brossoit,laurentbrossoit,Anaheim Ducks,5,128,17,16.86,-0.14,0.867,-0.003
-Alex Lyon,alexlyon,Buffalo Sabres,3,88,9,8.8,-0.2,0.898,-0.005
+Anthony Stolarz,anthonystolarz,Toronto Maple Leafs,11,317,31,30.83,-0.17,0.902,-0.004
 Michal Postava,michalpostava,Detroit Red Wings,2,35,4,3.71,-0.29,0.886,-0.008
 Colten Ellis,coltenellis,Buffalo Sabres,8,181,23,22.55,-0.45,0.873,-0.01
-Sergei Murashov,sergeimurashov,Pittsburgh Penguins,8,245,26,25.44,-0.56,0.894,-0.012
 Leevi Merilinen,leevimerilinen,Vancouver Canucks,17,495,55,54.24,-0.76,0.889,-0.014
 Akira Schmid,akiraschmid,Florida Panthers,11,279,32,31.22,-0.78,0.885,-0.017
-Carter Hart,carterhart,Vegas Golden Knights,12,294,33,32.0,-1.0,0.888,-0.021
+Anton Forsberg,antonforsberg,Los Angeles Kings,9,223,22,21.17,-0.83,0.901,-0.018
 Arsenii Sergeev,arseniisergeev,Calgary Flames,1,34,5,4.18,-0.82,0.853,-0.022
-Nico Daws,nicodaws,Winnipeg Jets,9,191,21,19.83,-1.17,0.89,-0.027
 Cooper Black,cooperblack,Florida Panthers,1,21,3,1.99,-1.01,0.857,-0.027
+Nico Daws,nicodaws,Winnipeg Jets,9,191,21,19.83,-1.17,0.89,-0.027
 Spencer Martin,spencermartin,New York Rangers,1,18,3,1.91,-1.09,0.833,-0.029
-Spencer Knight,spencerknight,Chicago Blackhawks,18,533,61,58.5,-2.5,0.886,-0.044
+Connor Hellebuyck,connorhellebuyck,New Jersey Devils,9,223,23,21.68,-1.32,0.897,-0.029
+Carter Hart,carterhart,Vegas Golden Knights,13,324,37,35.51,-1.49,0.886,-0.031
+Spencer Knight,spencerknight,Chicago Blackhawks,19,568,64,62.05,-1.95,0.887,-0.034
+Alex Lyon,alexlyon,Buffalo Sabres,4,118,13,11.39,-1.61,0.89,-0.039
+Sergei Murashov,sergeimurashov,Pittsburgh Penguins,9,274,30,28.02,-1.98,0.891,-0.042
 Ukko-Pekka Luukkonen,ukkopekkaluukkonen,Buffalo Sabres,13,338,43,40.77,-2.23,0.873,-0.045
-Justus Annunen,justusannunen,Nashville Predators,6,160,22,19.77,-2.23,0.862,-0.052
+Justus Annunen,justusannunen,Nashville Predators,7,162,22,19.88,-2.12,0.864,-0.05
 James Reimer,jamesreimer,New York Rangers,1,8,3,1.03,-1.97,0.625,-0.053
 Calvin Pickard,calvinpickard,Minnesota Wild,3,76,11,8.76,-2.24,0.855,-0.057
 Arturs Silovs,arturssilovs,Pittsburgh Penguins,13,347,44,41.16,-2.84,0.873,-0.057
 Logan Thompson,loganthompson,Washington Capitals,15,378,46,43.04,-2.96,0.878,-0.058
 Clay Stevenson,claystevenson,Winnipeg Jets,5,123,16,13.4,-2.6,0.87,-0.063
-Dan Vladar,danvladar,Philadelphia Flyers,12,318,40,36.78,-3.22,0.874,-0.066
-Charlie Lindgren,charlielindgren,Washington Capitals,7,162,22,18.83,-3.17,0.864,-0.074
 Jet Greaves,jetgreaves,Columbus Blue Jackets,11,265,33,29.56,-3.44,0.875,-0.074
 Brandon Bussi,brandonbussi,Carolina Hurricanes,8,188,24,20.67,-3.33,0.872,-0.076
 Joey Daccord,joeydaccord,Seattle Kraken,10,250,32,28.4,-3.6,0.872,-0.078
 Ville Husso,villehusso,Anaheim Ducks,8,174,25,21.55,-3.45,0.856,-0.08
+Dan Vladar,danvladar,Philadelphia Flyers,13,341,43,38.99,-4.01,0.874,-0.081
 Sebastian Cossa,sebastiancossa,Utah Mammoth,9,206,25,21.06,-3.94,0.879,-0.089
 Jakub Dobes,jakubdobes,Montreal Canadiens,9,236,32,27.72,-4.28,0.864,-0.094
 Darcy Kuemper,darcykuemper,Los Angeles Kings,13,347,40,35.23,-4.77,0.885,-0.096
 Sergei Bobrovsky,sergeibobrovsky,Toronto Maple Leafs,14,404,51,45.98,-5.02,0.874,-0.097
 Jonas Johansson,jonasjohansson,Ottawa Senators,4,105,16,12.03,-3.97,0.848,-0.098
 Scott Wedgewood,scottwedgewood,Colorado Avalanche,7,186,22,17.61,-4.39,0.882,-0.101
-Dustin Wolf,dustinwolf,Calgary Flames,13,349,43,37.1,-5.9,0.877,-0.119
 Lukas Dostal,lukasdostal,Anaheim Ducks,13,308,44,38.17,-5.83,0.857,-0.121
-Jake Allen,jakeallen,New Jersey Devils,10,268,32,26.29,-5.71,0.881,-0.122
+Dustin Wolf,dustinwolf,Calgary Flames,14,382,47,40.46,-6.54,0.877,-0.129
 Karel Vejmelka,karelvejmelka,Utah Mammoth,16,369,48,40.95,-7.05,0.87,-0.14
 Arvid Soderblom,arvidsoderblom,Chicago Blackhawks,5,133,21,14.88,-6.12,0.842,-0.147
 Samuel Ersson,samuelersson,Ottawa Senators,11,236,31,24.26,-6.74,0.869,-0.148
-John Gibson,johngibson,Detroit Red Wings,13,297,41,33.37,-7.63,0.862,-0.16
-Jordan Binnington,jordanbinnington,St. Louis Blues,6,172,27,18.8,-8.2,0.843,-0.19
+Charlie Lindgren,charlielindgren,Washington Capitals,8,185,29,22.24,-6.76,0.843,-0.155
+John Gibson,johngibson,Detroit Red Wings,14,317,44,36.15,-7.85,0.861,-0.162
+Jake Allen,jakeallen,New Jersey Devils,11,284,36,27.81,-8.19,0.873,-0.174
+Jordan Binnington,jordanbinnington,St. Louis Blues,7,215,33,23.42,-9.58,0.847,-0.215
 Kevin Lankinen,kevinlankinen,Vancouver Canucks,9,220,43,28.04,-14.96,0.805,-0.334

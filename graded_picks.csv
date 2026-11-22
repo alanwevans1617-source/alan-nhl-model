@@ -472,6 +472,13 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-19,v3,Anaheim Ducks @ Colorado Avalanche,Colorado Avalanche ML,-130,0.63,0.543,0.087,W,0.769,Anaheim Ducks 0 - Colorado Avalanche 4
 2026-11-19,v3,Anaheim Ducks @ Colorado Avalanche,Over 6.5,-130,0.621,0.543,0.079,L,-1.0,Anaheim Ducks 0 - Colorado Avalanche 4
 2026-11-19,v3,Vancouver Canucks @ Seattle Kraken,Under 6.5,-110,0.531,0.5,0.031,W,0.909,Vancouver Canucks 1 - Seattle Kraken 5
+2026-11-21,v3,Edmonton Oilers @ Carolina Hurricanes,Under 6.0,-102,0.518,0.483,0.036,L,-1.0,Edmonton Oilers 4 - Carolina Hurricanes 7
+2026-11-21,v3,Chicago Blackhawks @ Calgary Flames,Chicago Blackhawks ML,135,0.452,0.409,0.043,W,1.35,Chicago Blackhawks 4 - Calgary Flames 3 OT
+2026-11-21,v3,Pittsburgh Penguins @ Nashville Predators,Nashville Predators ML,-135,0.583,0.553,0.03,W,0.741,Pittsburgh Penguins 3 - Nashville Predators 4
+2026-11-21,v3,Washington Capitals @ Boston Bruins,Boston Bruins ML,-135,0.593,0.553,0.041,W,0.741,Washington Capitals 5 - Boston Bruins 7
+2026-11-21,v3,New Jersey Devils @ St. Louis Blues,St. Louis Blues ML,110,0.491,0.457,0.034,W,1.1,New Jersey Devils 6 - St. Louis Blues 9
+2026-11-21,v3,Anaheim Ducks @ Utah Mammoth,Over 7.0,110,0.528,0.457,0.071,L,-1.0,Anaheim Ducks 2 - Utah Mammoth 3
+2026-11-21,v3,Minnesota Wild @ Vancouver Canucks,Minnesota Wild ML,-300,0.751,0.718,0.033,L,-1.0,Minnesota Wild 3 - Vancouver Canucks 4 SO
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
