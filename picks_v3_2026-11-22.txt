@@ -27,3 +27,24 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Buffalo Sabres at Tampa Bay Lightning: no starters found in goalies.csv, no adjustment
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Tampa Bay Lightning: Brandon Hagel (Injured Reserve, No. 3 F)
+
+Locked 04:32 PM ET: Edmonton Oilers at St. Louis Blues (07:00 PM); Pittsburgh Penguins at Dallas Stars (07:00 PM)
+                              game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+ Edmonton Oilers @ St. Louis Blues     St. Louis Blues ML  -125    0.533   0.532  0.001       -0.040       0.00
+ Edmonton Oilers @ St. Louis Blues     Edmonton Oilers ML   105    0.467   0.468 -0.001       -0.043       0.00
+ Edmonton Oilers @ St. Louis Blues               Over 6.0  -110    0.519   0.500  0.019       -0.010       0.00
+ Edmonton Oilers @ St. Louis Blues              Under 6.0  -110    0.481   0.500 -0.019       -0.081       0.00
+Pittsburgh Penguins @ Dallas Stars        Dallas Stars ML  -235    0.604   0.670 -0.066       -0.139       0.00
+Pittsburgh Penguins @ Dallas Stars Pittsburgh Penguins ML   190    0.396   0.330  0.066        0.148       1.95
+Pittsburgh Penguins @ Dallas Stars               Over 6.0  -120    0.500   0.522 -0.022       -0.084       0.00
+Pittsburgh Penguins @ Dallas Stars              Under 6.0   100    0.500   0.478  0.022        0.001       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Edmonton Oilers at St. Louis Blues: Tristan Jarry (+0.06 goals/gm) vs Joel Hofer (+0.15 goals/gm); expected total 6.28
+  Pittsburgh Penguins at Dallas Stars: Arturs Silovs, Unconfirmed (-0.03 goals/gm) vs Jake Oettinger (+0.11 goals/gm); expected total 6.17
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Edmonton Oilers: Ryan Nugent-Hopkins (Out, No. 3 F)
+Key players out, Pittsburgh Penguins: Evgeni Malkin (Out, No. 3 F)
