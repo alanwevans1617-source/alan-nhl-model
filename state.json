@@ -88,11 +88,13 @@
       "New York Islanders @ Detroit Red Wings",
       "New Jersey Devils @ St. Louis Blues",
       "Vegas Golden Knights @ Winnipeg Jets",
-      "Anaheim Ducks @ Utah Mammoth"
+      "Anaheim Ducks @ Utah Mammoth",
+      "Minnesota Wild @ Vancouver Canucks",
+      "Seattle Kraken @ San Jose Sharks"
     ]
   },
   "morning_done": "2026-11-21",
-  "odds_credits_remaining": "418",
+  "odds_credits_remaining": "416",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -102,6 +104,6 @@
     "2026-11-17": 3,
     "2026-11-18": 2,
     "2026-11-19": 4,
-    "2026-11-21": 5
+    "2026-11-21": 6
   }
 }

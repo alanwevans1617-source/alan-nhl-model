@@ -111,3 +111,24 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Anaheim Ducks at Utah Mammoth: Ville Husso (-0.04 goals/gm) vs Sebastian Cossa, Likely (-0.03 goals/gm); expected total 7.32
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Anaheim Ducks: Beckett Sennecke (Injured Reserve, No. 3 F)
+
+Locked 07:55 PM ET: Minnesota Wild at Vancouver Canucks (10:00 PM); Seattle Kraken at San Jose Sharks (10:00 PM)
+                              game                  bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Minnesota Wild @ Vancouver Canucks Vancouver Canucks ML   240    0.249   0.282 -0.033       -0.155       0.00
+Minnesota Wild @ Vancouver Canucks    Minnesota Wild ML  -300    0.751   0.718  0.033        0.002       0.14
+Minnesota Wild @ Vancouver Canucks             Over 6.5   100    0.481   0.478  0.003       -0.038       0.00
+Minnesota Wild @ Vancouver Canucks            Under 6.5  -120    0.519   0.522 -0.003       -0.048       0.00
+  Seattle Kraken @ San Jose Sharks   San Jose Sharks ML  -115    0.502   0.511 -0.008       -0.061       0.00
+  Seattle Kraken @ San Jose Sharks    Seattle Kraken ML  -105    0.498   0.489  0.008       -0.028       0.00
+  Seattle Kraken @ San Jose Sharks             Over 6.5  -105    0.482   0.489 -0.007       -0.058       0.00
+  Seattle Kraken @ San Jose Sharks            Under 6.5  -115    0.518   0.511  0.007       -0.032       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Minnesota Wild at Vancouver Canucks: Jesper Wallstedt (+0.19 goals/gm) vs Leevi Merilainen, Likely, no stats (+0.05 goals/gm); expected total 6.43
+  Seattle Kraken at San Jose Sharks: Philipp Grubauer, Unconfirmed (+0.04 goals/gm) vs Alex Nedeljkovic (+0.11 goals/gm); expected total 6.40
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Minnesota Wild: Quinn Hughes (Out, No. 1 D)
+Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)
