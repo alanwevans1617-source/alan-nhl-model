@@ -96,11 +96,12 @@
       "Carolina Hurricanes @ New York Rangers",
       "Buffalo Sabres @ Tampa Bay Lightning",
       "Edmonton Oilers @ St. Louis Blues",
-      "Pittsburgh Penguins @ Dallas Stars"
+      "Pittsburgh Penguins @ Dallas Stars",
+      "Chicago Blackhawks @ Vancouver Canucks"
     ]
   },
   "morning_done": "2026-11-22",
-  "odds_credits_remaining": "410",
+  "odds_credits_remaining": "408",
   "odds_pulls": {
     "2026-11-12": 4,
     "2026-11-13": 2,
@@ -111,6 +112,6 @@
     "2026-11-18": 2,
     "2026-11-19": 4,
     "2026-11-21": 6,
-    "2026-11-22": 3
+    "2026-11-22": 4
   }
 }

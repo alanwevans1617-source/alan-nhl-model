@@ -48,3 +48,19 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Edmonton Oilers: Ryan Nugent-Hopkins (Out, No. 3 F)
 Key players out, Pittsburgh Penguins: Evgeni Malkin (Out, No. 3 F)
+
+Locked 06:21 PM ET: Chicago Blackhawks at Vancouver Canucks (08:00 PM)
+                                  game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Chicago Blackhawks @ Vancouver Canucks  Vancouver Canucks ML  -105    0.530   0.489  0.041        0.035       0.92
+Chicago Blackhawks @ Vancouver Canucks Chicago Blackhawks ML  -115    0.470   0.511 -0.041       -0.121       0.00
+Chicago Blackhawks @ Vancouver Canucks              Over 6.5  -110    0.474   0.500 -0.026       -0.096       0.00
+Chicago Blackhawks @ Vancouver Canucks             Under 6.5  -110    0.526   0.500  0.026        0.005       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Chicago Blackhawks at Vancouver Canucks: Drew Commesso, Likely, no stats (+0.03 goals/gm) vs Nikita Tolopilo, Likely (+0.15 goals/gm); expected total 6.35
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Chicago Blackhawks: Connor Bedard (Injured Reserve, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
+Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)
