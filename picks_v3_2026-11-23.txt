@@ -1,0 +1,37 @@
+
+Locked 05:28 PM ET: Columbus Blue Jackets at New Jersey Devils (07:00 PM); Los Angeles Kings at Montreal Canadiens (07:30 PM); Calgary Flames at Ottawa Senators (07:30 PM); Toronto Maple Leafs at New York Islanders (07:30 PM); Utah Mammoth at Winnipeg Jets (07:30 PM)
+                                     game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Columbus Blue Jackets @ New Jersey Devils     New Jersey Devils ML  -210    0.613   0.647 -0.034       -0.095       0.00
+Columbus Blue Jackets @ New Jersey Devils Columbus Blue Jackets ML   170    0.387   0.353  0.034        0.045       0.66
+Columbus Blue Jackets @ New Jersey Devils                 Over 6.0  -115    0.516   0.511  0.005       -0.035       0.00
+Columbus Blue Jackets @ New Jersey Devils                Under 6.0  -105    0.484   0.489 -0.005       -0.056       0.00
+   Los Angeles Kings @ Montreal Canadiens    Montreal Canadiens ML  -155    0.551   0.583 -0.032       -0.094       0.00
+   Los Angeles Kings @ Montreal Canadiens     Los Angeles Kings ML   130    0.449   0.417  0.032        0.033       0.63
+   Los Angeles Kings @ Montreal Canadiens                 Over 6.0  -120    0.536   0.522  0.014       -0.017       0.00
+   Los Angeles Kings @ Montreal Canadiens                Under 6.0   100    0.464   0.478 -0.014       -0.072       0.00
+         Calgary Flames @ Ottawa Senators       Ottawa Senators ML  -275    0.692   0.701 -0.009       -0.057       0.00
+         Calgary Flames @ Ottawa Senators        Calgary Flames ML   220    0.308   0.299  0.009       -0.013       0.00
+         Calgary Flames @ Ottawa Senators                 Over 5.5  -115    0.488   0.511 -0.023       -0.088       0.00
+         Calgary Flames @ Ottawa Senators                Under 5.5  -105    0.512   0.489  0.023        0.000       0.00
+ Toronto Maple Leafs @ New York Islanders    New York Islanders ML  -160    0.601   0.591  0.010       -0.023       0.00
+ Toronto Maple Leafs @ New York Islanders   Toronto Maple Leafs ML   135    0.399   0.409 -0.010       -0.063       0.00
+ Toronto Maple Leafs @ New York Islanders                 Over 6.5  -105    0.463   0.489 -0.026       -0.095       0.00
+ Toronto Maple Leafs @ New York Islanders                Under 6.5  -115    0.537   0.511  0.026        0.003       0.00
+             Utah Mammoth @ Winnipeg Jets         Winnipeg Jets ML  -105    0.489   0.489 -0.000       -0.046       0.00
+             Utah Mammoth @ Winnipeg Jets          Utah Mammoth ML  -115    0.511   0.511  0.000       -0.044       0.00
+             Utah Mammoth @ Winnipeg Jets                 Over 6.5  -110    0.507   0.500  0.007       -0.032       0.00
+             Utah Mammoth @ Winnipeg Jets                Under 6.5  -110    0.493   0.500 -0.007       -0.059       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Columbus Blue Jackets at New Jersey Devils: Cam Talbot (+0.10 goals/gm) vs Connor Hellebuyck (+0.03 goals/gm); expected total 6.26
+  Los Angeles Kings at Montreal Canadiens: Darcy Kuemper, Unconfirmed (-0.06 goals/gm) vs Jakub Dobes (-0.15 goals/gm); expected total 6.37
+  Calgary Flames at Ottawa Senators: Devin Cooley (+0.06 goals/gm) vs Linus Ullmark (+0.21 goals/gm); expected total 5.75
+  Toronto Maple Leafs at New York Islanders: Anthony Stolarz (+0.02 goals/gm) vs Ilya Sorokin, Likely (+0.11 goals/gm); expected total 6.29
+  Utah Mammoth at Winnipeg Jets: Sebastian Cossa (-0.03 goals/gm) vs Stuart Skinner, Likely (+0.02 goals/gm); expected total 6.56
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
+Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F)
