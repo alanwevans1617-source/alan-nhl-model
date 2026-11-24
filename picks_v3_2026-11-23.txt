@@ -35,3 +35,25 @@ Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.co
 Key players out, Montreal Canadiens: Mike Matheson (Out, No. 2 D)
 Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
 Key players out, Toronto Maple Leafs: Kirill Marchenko (Injured Reserve, No. 3 F)
+
+Locked 07:26 PM ET: Anaheim Ducks at Seattle Kraken (09:40 PM); Minnesota Wild at San Jose Sharks (10:00 PM)
+                            game                bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+  Anaheim Ducks @ Seattle Kraken  Seattle Kraken ML  -118    0.489   0.517 -0.028       -0.096       0.00
+  Anaheim Ducks @ Seattle Kraken   Anaheim Ducks ML  -102    0.511   0.483  0.028        0.012       0.00
+  Anaheim Ducks @ Seattle Kraken           Over 6.5  -135    0.597   0.553  0.044        0.039       1.32
+  Anaheim Ducks @ Seattle Kraken          Under 6.5   115    0.403   0.447 -0.044       -0.134       0.00
+Minnesota Wild @ San Jose Sharks San Jose Sharks ML   150    0.348   0.384 -0.036       -0.130       0.00
+Minnesota Wild @ San Jose Sharks  Minnesota Wild ML  -180    0.652   0.616  0.036        0.015       0.65
+Minnesota Wild @ San Jose Sharks           Over 6.5   100    0.507   0.478  0.029        0.015       0.00
+Minnesota Wild @ San Jose Sharks          Under 6.5  -120    0.493   0.522 -0.029       -0.097       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Anaheim Ducks at Seattle Kraken: Lukas Dostal, Unconfirmed (-0.08 goals/gm) vs Joey Daccord, Likely (-0.06 goals/gm); expected total 7.15
+  Minnesota Wild at San Jose Sharks: Filip Gustavsson, no stats (-0.14 goals/gm) vs Yaroslav Askarov (-0.00 goals/gm); expected total 6.57
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Anaheim Ducks: Beckett Sennecke (Injured Reserve, No. 2 F)
+Key players out, Minnesota Wild: Quinn Hughes (Injured Reserve, No. 1 D)
+Key players out, San Jose Sharks: Jacob Trouba (Out, No. 1 D)
