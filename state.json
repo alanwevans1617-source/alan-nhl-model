@@ -87,11 +87,13 @@
       "Calgary Flames @ Pittsburgh Penguins",
       "Philadelphia Flyers @ Washington Capitals",
       "New Jersey Devils @ Columbus Blue Jackets",
-      "Vancouver Canucks @ Detroit Red Wings"
+      "Vancouver Canucks @ Detroit Red Wings",
+      "Nashville Predators @ Dallas Stars",
+      "Utah Mammoth @ Minnesota Wild"
     ]
   },
   "morning_done": "2026-11-25",
-  "odds_credits_remaining": "400",
+  "odds_credits_remaining": "398",
   "odds_pulls": {
     "2026-11-15": 2,
     "2026-11-16": 2,
@@ -102,6 +104,6 @@
     "2026-11-22": 4,
     "2026-11-23": 2,
     "2026-11-24": 1,
-    "2026-11-25": 1
+    "2026-11-25": 2
   }
 }

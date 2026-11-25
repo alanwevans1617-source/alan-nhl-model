@@ -55,3 +55,23 @@ Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.co
 Key players out, St. Louis Blues: Pavel Buchnevich (Out, No. 3 F), Jimmy Snuggerud (Out, No. 2 F)
 Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
 Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)
+
+Locked 05:30 PM ET: Nashville Predators at Dallas Stars (08:00 PM); Utah Mammoth at Minnesota Wild (08:00 PM)
+                              game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Nashville Predators @ Dallas Stars        Dallas Stars ML  -170    0.543   0.602 -0.059       -0.138       0.00
+Nashville Predators @ Dallas Stars Nashville Predators ML   140    0.457   0.398  0.059        0.097       1.73
+Nashville Predators @ Dallas Stars               Over 5.5  -120    0.451   0.522 -0.071       -0.174       0.00
+Nashville Predators @ Dallas Stars              Under 5.5   100    0.549   0.478  0.071        0.099       2.00
+     Utah Mammoth @ Minnesota Wild      Minnesota Wild ML  -150    0.655   0.574  0.080        0.091       2.00
+     Utah Mammoth @ Minnesota Wild        Utah Mammoth ML   125    0.345   0.426 -0.080       -0.223       0.00
+     Utah Mammoth @ Minnesota Wild               Over 6.0  -120    0.509   0.522 -0.013       -0.066       0.00
+     Utah Mammoth @ Minnesota Wild              Under 6.0   100    0.491   0.478  0.013       -0.018       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Nashville Predators at Dallas Stars: Juuse Saros, Unconfirmed (+0.11 goals/gm) vs Jake Oettinger (+0.15 goals/gm); expected total 5.56
+  Utah Mammoth at Minnesota Wild: Karel Vejmelka, Unconfirmed (-0.08 goals/gm) vs Jesper Wallstedt (+0.18 goals/gm); expected total 6.22
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Minnesota Wild: Quinn Hughes (Injured Reserve, No. 1 D)
