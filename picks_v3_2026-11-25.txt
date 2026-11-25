@@ -1,0 +1,57 @@
+
+Locked 04:35 PM ET: Winnipeg Jets at Boston Bruins (07:00 PM); New York Rangers at Buffalo Sabres (07:00 PM); Carolina Hurricanes at Tampa Bay Lightning (07:00 PM); Ottawa Senators at Florida Panthers (07:00 PM); St. Louis Blues at New York Islanders (07:00 PM); Calgary Flames at Pittsburgh Penguins (07:00 PM); Philadelphia Flyers at Washington Capitals (07:00 PM); New Jersey Devils at Columbus Blue Jackets (07:00 PM); Vancouver Canucks at Detroit Red Wings (07:30 PM)
+                                     game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+            Winnipeg Jets @ Boston Bruins         Boston Bruins ML  -165    0.587   0.599 -0.012       -0.056       0.00
+            Winnipeg Jets @ Boston Bruins         Winnipeg Jets ML   140    0.413   0.401  0.012       -0.010       0.00
+            Winnipeg Jets @ Boston Bruins                 Over 6.5  -110    0.493   0.500 -0.007       -0.060       0.00
+            Winnipeg Jets @ Boston Bruins                Under 6.5  -110    0.507   0.500  0.007       -0.031       0.00
+        New York Rangers @ Buffalo Sabres        Buffalo Sabres ML  -135    0.492   0.553 -0.061       -0.144       0.00
+        New York Rangers @ Buffalo Sabres      New York Rangers ML   115    0.508   0.447  0.061        0.092       2.00
+        New York Rangers @ Buffalo Sabres                 Over 6.5   100    0.469   0.478 -0.009       -0.062       0.00
+        New York Rangers @ Buffalo Sabres                Under 6.5  -120    0.531   0.522  0.009       -0.026       0.00
+Carolina Hurricanes @ Tampa Bay Lightning   Tampa Bay Lightning ML  -105    0.454   0.489 -0.035       -0.114       0.00
+Carolina Hurricanes @ Tampa Bay Lightning   Carolina Hurricanes ML  -115    0.546   0.511  0.035        0.021       0.59
+Carolina Hurricanes @ Tampa Bay Lightning                 Over 6.0  -120    0.581   0.522  0.059        0.066       1.97
+Carolina Hurricanes @ Tampa Bay Lightning                Under 6.0   100    0.419   0.478 -0.059       -0.162       0.00
+       Ottawa Senators @ Florida Panthers      Florida Panthers ML  -120    0.438   0.522 -0.084       -0.198       0.00
+       Ottawa Senators @ Florida Panthers       Ottawa Senators ML   100    0.562   0.478  0.084        0.125       2.00
+       Ottawa Senators @ Florida Panthers                 Over 5.5  -120    0.515   0.522 -0.007       -0.056       0.00
+       Ottawa Senators @ Florida Panthers                Under 5.5   100    0.485   0.478  0.007       -0.030       0.00
+     St. Louis Blues @ New York Islanders    New York Islanders ML  -130    0.492   0.543 -0.051       -0.130       0.00
+     St. Louis Blues @ New York Islanders       St. Louis Blues ML   110    0.508   0.457  0.051        0.067       1.52
+     St. Louis Blues @ New York Islanders                 Over 6.0  -105    0.477   0.489 -0.012       -0.069       0.00
+     St. Louis Blues @ New York Islanders                Under 6.0  -115    0.523   0.511  0.012       -0.022       0.00
+     Calgary Flames @ Pittsburgh Penguins   Pittsburgh Penguins ML  -170    0.601   0.602 -0.001       -0.046       0.00
+     Calgary Flames @ Pittsburgh Penguins        Calgary Flames ML   140    0.399   0.398  0.001       -0.042       0.00
+     Calgary Flames @ Pittsburgh Penguins                 Over 6.0  -110    0.547   0.500  0.047        0.044       1.22
+     Calgary Flames @ Pittsburgh Penguins                Under 6.0  -110    0.453   0.500 -0.047       -0.135       0.00
+Philadelphia Flyers @ Washington Capitals   Washington Capitals ML  -160    0.528   0.591 -0.063       -0.142       0.00
+Philadelphia Flyers @ Washington Capitals   Philadelphia Flyers ML   135    0.472   0.409  0.063        0.109       2.00
+Philadelphia Flyers @ Washington Capitals                 Over 6.5  -105    0.511   0.489  0.022       -0.002       0.00
+Philadelphia Flyers @ Washington Capitals                Under 6.5  -115    0.489   0.511 -0.022       -0.086       0.00
+New Jersey Devils @ Columbus Blue Jackets Columbus Blue Jackets ML   125    0.436   0.426  0.010       -0.020       0.00
+New Jersey Devils @ Columbus Blue Jackets     New Jersey Devils ML  -150    0.564   0.574 -0.010       -0.059       0.00
+New Jersey Devils @ Columbus Blue Jackets                 Over 6.0  -118    0.499   0.517 -0.018       -0.078       0.00
+New Jersey Devils @ Columbus Blue Jackets                Under 6.0  -102    0.501   0.483  0.018       -0.008       0.00
+    Vancouver Canucks @ Detroit Red Wings     Detroit Red Wings ML  -235    0.665   0.670 -0.005       -0.052       0.00
+    Vancouver Canucks @ Detroit Red Wings     Vancouver Canucks ML   190    0.335   0.330  0.005       -0.029       0.00
+    Vancouver Canucks @ Detroit Red Wings                 Over 6.0  -120    0.498   0.522 -0.023       -0.086       0.00
+    Vancouver Canucks @ Detroit Red Wings                Under 6.0   100    0.502   0.478  0.023        0.003       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Winnipeg Jets at Boston Bruins: Nico Daws (-0.03 goals/gm) vs Jeremy Swayman (+0.06 goals/gm); expected total 6.47
+  New York Rangers at Buffalo Sabres: Joonas Korpisalo (+0.04 goals/gm) vs Ukko-Pekka Luukkonen, Likely (-0.01 goals/gm); expected total 6.32
+  Carolina Hurricanes at Tampa Bay Lightning: Brandon Bussi, Likely (-0.08 goals/gm) vs Andrei Vasilevskiy, Unconfirmed (+0.03 goals/gm); expected total 6.63
+  Ottawa Senators at Florida Panthers: Linus Ullmark (+0.23 goals/gm) vs Jacob Markstrom (+0.04 goals/gm); expected total 5.93
+  St. Louis Blues at New York Islanders: Joel Hofer, Unconfirmed (+0.14 goals/gm) vs Ilya Sorokin (+0.10 goals/gm); expected total 6.05
+  Calgary Flames at Pittsburgh Penguins: Dustin Wolf (-0.11 goals/gm) vs Arturs Silovs (-0.01 goals/gm); expected total 6.43
+  Philadelphia Flyers at Washington Capitals: Joseph Woll (+0.05 goals/gm) vs Logan Thompson (-0.01 goals/gm); expected total 6.59
+  New Jersey Devils at Columbus Blue Jackets: Connor Hellebuyck, Likely (+0.02 goals/gm) vs Cam Talbot (+0.09 goals/gm); expected total 6.17
+  Vancouver Canucks at Detroit Red Wings: Leevi Merilainen, Likely, no stats (+0.05 goals/gm) vs Daniil Tarasov (+0.20 goals/gm); expected total 6.16
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, St. Louis Blues: Pavel Buchnevich (Out, No. 3 F), Jimmy Snuggerud (Out, No. 2 F)
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
+Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)

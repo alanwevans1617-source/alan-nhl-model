@@ -1,21 +1,5 @@
 {
   "locked": {
-    "2026-11-14": [
-      "Seattle Kraken @ Carolina Hurricanes",
-      "Winnipeg Jets @ Chicago Blackhawks",
-      "Minnesota Wild @ Boston Bruins",
-      "Edmonton Oilers @ Toronto Maple Leafs",
-      "Colorado Avalanche @ Montreal Canadiens",
-      "Detroit Red Wings @ Tampa Bay Lightning",
-      "Ottawa Senators @ Pittsburgh Penguins",
-      "New Jersey Devils @ Washington Capitals",
-      "Philadelphia Flyers @ Columbus Blue Jackets",
-      "Florida Panthers @ St. Louis Blues",
-      "Buffalo Sabres @ Dallas Stars",
-      "San Jose Sharks @ Utah Mammoth",
-      "New York Islanders @ Anaheim Ducks",
-      "Calgary Flames @ Los Angeles Kings"
-    ],
     "2026-11-15": [
       "Edmonton Oilers @ Philadelphia Flyers",
       "Florida Panthers @ Dallas Stars",
@@ -93,12 +77,22 @@
     ],
     "2026-11-24": [
       "Vegas Golden Knights @ Edmonton Oilers"
+    ],
+    "2026-11-25": [
+      "Winnipeg Jets @ Boston Bruins",
+      "New York Rangers @ Buffalo Sabres",
+      "Carolina Hurricanes @ Tampa Bay Lightning",
+      "Ottawa Senators @ Florida Panthers",
+      "St. Louis Blues @ New York Islanders",
+      "Calgary Flames @ Pittsburgh Penguins",
+      "Philadelphia Flyers @ Washington Capitals",
+      "New Jersey Devils @ Columbus Blue Jackets",
+      "Vancouver Canucks @ Detroit Red Wings"
     ]
   },
   "morning_done": "2026-11-25",
-  "odds_credits_remaining": "402",
+  "odds_credits_remaining": "400",
   "odds_pulls": {
-    "2026-11-14": 6,
     "2026-11-15": 2,
     "2026-11-16": 2,
     "2026-11-17": 3,
@@ -107,6 +101,7 @@
     "2026-11-21": 6,
     "2026-11-22": 4,
     "2026-11-23": 2,
-    "2026-11-24": 1
+    "2026-11-24": 1,
+    "2026-11-25": 1
   }
 }
