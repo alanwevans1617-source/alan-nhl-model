@@ -75,3 +75,32 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Utah Mammoth at Minnesota Wild: Karel Vejmelka, Unconfirmed (-0.08 goals/gm) vs Jesper Wallstedt (+0.18 goals/gm); expected total 6.22
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Minnesota Wild: Quinn Hughes (Injured Reserve, No. 1 D)
+
+Locked 07:28 PM ET: Montreal Canadiens at Colorado Avalanche (09:30 PM); Chicago Blackhawks at Seattle Kraken (09:40 PM); San Jose Sharks at Anaheim Ducks (10:00 PM)
+                                   game                   bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Montreal Canadiens @ Colorado Avalanche Colorado Avalanche ML  -120    0.584   0.522  0.062        0.071       2.00
+Montreal Canadiens @ Colorado Avalanche Montreal Canadiens ML   100    0.416   0.478 -0.062       -0.168       0.00
+Montreal Canadiens @ Colorado Avalanche              Over 6.5   100    0.459   0.478 -0.019       -0.081       0.00
+Montreal Canadiens @ Colorado Avalanche             Under 6.5  -120    0.541   0.522  0.019       -0.009       0.00
+    Chicago Blackhawks @ Seattle Kraken     Seattle Kraken ML  -150    0.577   0.574  0.002       -0.039       0.00
+    Chicago Blackhawks @ Seattle Kraken Chicago Blackhawks ML   125    0.423   0.426 -0.002       -0.048       0.00
+    Chicago Blackhawks @ Seattle Kraken              Over 6.5  -105    0.493   0.489  0.004       -0.037       0.00
+    Chicago Blackhawks @ Seattle Kraken             Under 6.5  -115    0.507   0.511 -0.004       -0.052       0.00
+        San Jose Sharks @ Anaheim Ducks      Anaheim Ducks ML  -135    0.590   0.553  0.037        0.027       0.91
+        San Jose Sharks @ Anaheim Ducks    San Jose Sharks ML   115    0.410   0.447 -0.037       -0.118       0.00
+        San Jose Sharks @ Anaheim Ducks              Over 6.5  -130    0.562   0.543  0.019       -0.006       0.00
+        San Jose Sharks @ Anaheim Ducks             Under 6.5   110    0.438   0.457 -0.019       -0.080       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Montreal Canadiens at Colorado Avalanche: Jacob Fowler (+0.18 goals/gm) vs Mackenzie Blackwood (+0.04 goals/gm); expected total 6.27
+  Chicago Blackhawks at Seattle Kraken: Spencer Knight, Unconfirmed (-0.01 goals/gm) vs Joey Daccord, Likely (-0.05 goals/gm); expected total 6.48
+  San Jose Sharks at Anaheim Ducks: Alex Nedeljkovic (+0.12 goals/gm) vs Laurent Brossoit (+0.04 goals/gm); expected total 6.92
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Montreal Canadiens: Mike Matheson (Injured Reserve, No. 2 D)
+Key players out, Colorado Avalanche: Nathan MacKinnon (Out, No. 1 F)
+Key players out, Chicago Blackhawks: Connor Bedard (Injured Reserve, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
+Key players out, San Jose Sharks: Jacob Trouba (Out, No. 1 D)
+Key players out, Anaheim Ducks: Beckett Sennecke (Injured Reserve, No. 2 F), Leo Carlsson (Out, No. 3 F)
