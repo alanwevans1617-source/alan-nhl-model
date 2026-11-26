@@ -486,6 +486,18 @@ date,model,game,bet,odds,model_p,fair_p,edge,result,units,final
 2026-11-23,v3,Anaheim Ducks @ Seattle Kraken,Over 6.5,-135,0.597,0.553,0.044,L,-1.0,Anaheim Ducks 2 - Seattle Kraken 3
 2026-11-23,v3,Minnesota Wild @ San Jose Sharks,Minnesota Wild ML,-180,0.652,0.616,0.036,W,0.556,Minnesota Wild 5 - San Jose Sharks 2
 2026-11-24,v3,Vegas Golden Knights @ Edmonton Oilers,Edmonton Oilers ML,100,0.52,0.478,0.042,L,-1.0,Vegas Golden Knights 5 - Edmonton Oilers 3
+2026-11-25,v3,New York Rangers @ Buffalo Sabres,New York Rangers ML,115,0.508,0.447,0.061,L,-1.0,New York Rangers 1 - Buffalo Sabres 5
+2026-11-25,v3,Carolina Hurricanes @ Tampa Bay Lightning,Carolina Hurricanes ML,-115,0.546,0.511,0.035,W,0.87,Carolina Hurricanes 3 - Tampa Bay Lightning 1
+2026-11-25,v3,Carolina Hurricanes @ Tampa Bay Lightning,Over 6.0,-120,0.581,0.522,0.059,L,-1.0,Carolina Hurricanes 3 - Tampa Bay Lightning 1
+2026-11-25,v3,Ottawa Senators @ Florida Panthers,Ottawa Senators ML,100,0.562,0.478,0.084,L,-1.0,Ottawa Senators 3 - Florida Panthers 5
+2026-11-25,v3,St. Louis Blues @ New York Islanders,St. Louis Blues ML,110,0.508,0.457,0.051,L,-1.0,St. Louis Blues 2 - New York Islanders 3 SO
+2026-11-25,v3,Calgary Flames @ Pittsburgh Penguins,Over 6.0,-110,0.547,0.5,0.047,W,0.909,Calgary Flames 6 - Pittsburgh Penguins 3
+2026-11-25,v3,Philadelphia Flyers @ Washington Capitals,Philadelphia Flyers ML,135,0.472,0.409,0.063,L,-1.0,Philadelphia Flyers 3 - Washington Capitals 7
+2026-11-25,v3,Nashville Predators @ Dallas Stars,Nashville Predators ML,140,0.457,0.398,0.059,W,1.4,Nashville Predators 3 - Dallas Stars 1
+2026-11-25,v3,Nashville Predators @ Dallas Stars,Under 5.5,100,0.549,0.478,0.071,W,1.0,Nashville Predators 3 - Dallas Stars 1
+2026-11-25,v3,Utah Mammoth @ Minnesota Wild,Minnesota Wild ML,-150,0.655,0.574,0.08,L,-1.0,Utah Mammoth 4 - Minnesota Wild 3
+2026-11-25,v3,Montreal Canadiens @ Colorado Avalanche,Colorado Avalanche ML,-120,0.584,0.522,0.062,W,0.833,Montreal Canadiens 0 - Colorado Avalanche 6
+2026-11-25,v3,San Jose Sharks @ Anaheim Ducks,Anaheim Ducks ML,-135,0.59,0.553,0.037,W,0.741,San Jose Sharks 0 - Anaheim Ducks 7
 2026-10-07,xg,Colorado Avalanche @ Winnipeg Jets,Under 6.5,-110,0.559,0.5,0.059,W,0.909,Colorado Avalanche 2 - Winnipeg Jets 3
 2026-10-07,xg,Pittsburgh Penguins @ Washington Capitals,Pittsburgh Penguins ML,135,0.496,0.409,0.087,L,-1.0,Pittsburgh Penguins 3 - Washington Capitals 5
 2026-10-07,xg,Edmonton Oilers @ Anaheim Ducks,Anaheim Ducks ML,115,0.486,0.447,0.038,L,-1.0,Edmonton Oilers 5 - Anaheim Ducks 2
