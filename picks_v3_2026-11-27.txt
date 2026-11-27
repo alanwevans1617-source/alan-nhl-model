@@ -23,3 +23,38 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Utah Mammoth at Nashville Predators: Karel Vejmelka, Unconfirmed (-0.09 goals/gm) vs Juuse Saros, Unconfirmed (+0.12 goals/gm); expected total 6.30
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
+
+Locked 12:32 PM ET: Dallas Stars at St. Louis Blues (02:00 PM); Ottawa Senators at Tampa Bay Lightning (03:00 PM); Vancouver Canucks at Philadelphia Flyers (03:00 PM); Florida Panthers at Washington Capitals (03:00 PM); Detroit Red Wings at Columbus Blue Jackets (03:00 PM)
+                                     game                      bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+           Dallas Stars @ St. Louis Blues       St. Louis Blues ML   115    0.519   0.444  0.076        0.117       2.00
+           Dallas Stars @ St. Louis Blues          Dallas Stars ML  -140    0.481   0.556 -0.076       -0.176       0.00
+           Dallas Stars @ St. Louis Blues                 Over 5.5  -118    0.453   0.517 -0.065       -0.164       0.00
+           Dallas Stars @ St. Louis Blues                Under 5.5  -102    0.547   0.483  0.065        0.084       2.00
+    Ottawa Senators @ Tampa Bay Lightning   Tampa Bay Lightning ML  -140    0.514   0.560 -0.046       -0.119       0.00
+    Ottawa Senators @ Tampa Bay Lightning       Ottawa Senators ML   118    0.486   0.440  0.046        0.059       1.25
+    Ottawa Senators @ Tampa Bay Lightning                 Over 6.0  -110    0.485   0.500 -0.015       -0.075       0.00
+    Ottawa Senators @ Tampa Bay Lightning                Under 6.0  -110    0.515   0.500  0.015       -0.016       0.00
+  Vancouver Canucks @ Philadelphia Flyers   Philadelphia Flyers ML  -250    0.669   0.682 -0.013       -0.063       0.00
+  Vancouver Canucks @ Philadelphia Flyers     Vancouver Canucks ML   200    0.331   0.318  0.013       -0.007       0.00
+  Vancouver Canucks @ Philadelphia Flyers                 Over 6.0  -120    0.601   0.522  0.080        0.102       2.00
+  Vancouver Canucks @ Philadelphia Flyers                Under 6.0   100    0.399   0.478 -0.080       -0.202       0.00
+   Florida Panthers @ Washington Capitals   Washington Capitals ML  -105    0.502   0.489  0.013       -0.019       0.00
+   Florida Panthers @ Washington Capitals      Florida Panthers ML  -115    0.498   0.511 -0.013       -0.070       0.00
+   Florida Panthers @ Washington Capitals                 Over 6.5  -120    0.575   0.522  0.054        0.055       1.65
+   Florida Panthers @ Washington Capitals                Under 6.5   100    0.425   0.478 -0.054       -0.151       0.00
+Detroit Red Wings @ Columbus Blue Jackets Columbus Blue Jackets ML  -135    0.458   0.547 -0.089       -0.203       0.00
+Detroit Red Wings @ Columbus Blue Jackets     Detroit Red Wings ML   110    0.542   0.453  0.089        0.138       2.00
+Detroit Red Wings @ Columbus Blue Jackets                 Over 5.5  -118    0.478   0.517 -0.039       -0.116       0.00
+Detroit Red Wings @ Columbus Blue Jackets                Under 5.5  -102    0.522   0.483  0.039        0.033       0.84
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Dallas Stars at St. Louis Blues: Jake Oettinger, Unconfirmed (+0.16 goals/gm) vs Joel Hofer, Unconfirmed (+0.16 goals/gm); expected total 5.57
+  Ottawa Senators at Tampa Bay Lightning: Linus Ullmark, Unconfirmed (+0.21 goals/gm) vs Andrei Vasilevskiy, Unconfirmed (+0.03 goals/gm); expected total 6.09
+  Vancouver Canucks at Philadelphia Flyers: Kevin Lankinen, Unconfirmed (-0.26 goals/gm) vs Dan Vladar, Unconfirmed (-0.06 goals/gm); expected total 6.75
+  Florida Panthers at Washington Capitals: Jacob Markstrom (+0.04 goals/gm) vs Logan Thompson, Unconfirmed (-0.02 goals/gm); expected total 7.01
+  Detroit Red Wings at Columbus Blue Jackets: Daniil Tarasov, Unconfirmed (+0.23 goals/gm) vs Jet Greaves (-0.09 goals/gm); expected total 5.72
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)

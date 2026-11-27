@@ -90,11 +90,16 @@
     "2026-11-27": [
       "Toronto Maple Leafs @ Boston Bruins",
       "Calgary Flames @ New Jersey Devils",
-      "Utah Mammoth @ Nashville Predators"
+      "Utah Mammoth @ Nashville Predators",
+      "Dallas Stars @ St. Louis Blues",
+      "Ottawa Senators @ Tampa Bay Lightning",
+      "Vancouver Canucks @ Philadelphia Flyers",
+      "Florida Panthers @ Washington Capitals",
+      "Detroit Red Wings @ Columbus Blue Jackets"
     ]
   },
   "morning_done": "2026-11-27",
-  "odds_credits_remaining": "394",
+  "odds_credits_remaining": "392",
   "odds_pulls": {
     "2026-11-16": 2,
     "2026-11-17": 3,
@@ -105,6 +110,6 @@
     "2026-11-23": 2,
     "2026-11-24": 1,
     "2026-11-25": 3,
-    "2026-11-27": 1
+    "2026-11-27": 2
   }
 }
