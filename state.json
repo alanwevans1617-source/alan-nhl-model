@@ -98,11 +98,12 @@
       "Detroit Red Wings @ Columbus Blue Jackets",
       "Colorado Avalanche @ Minnesota Wild",
       "Los Angeles Kings @ Anaheim Ducks",
-      "Vegas Golden Knights @ San Jose Sharks"
+      "Vegas Golden Knights @ San Jose Sharks",
+      "New York Rangers @ Chicago Blackhawks"
     ]
   },
   "morning_done": "2026-11-27",
-  "odds_credits_remaining": "390",
+  "odds_credits_remaining": "388",
   "odds_pulls": {
     "2026-11-16": 2,
     "2026-11-17": 3,
@@ -113,6 +114,6 @@
     "2026-11-23": 2,
     "2026-11-24": 1,
     "2026-11-25": 3,
-    "2026-11-27": 3
+    "2026-11-27": 4
   }
 }
