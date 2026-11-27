@@ -101,3 +101,28 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   New York Rangers at Chicago Blackhawks: Dylan Garand (+0.03 goals/gm) vs Spencer Knight, Unconfirmed (+0.01 goals/gm); expected total 6.20
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Chicago Blackhawks: Connor Bedard (Injured Reserve, No. 1 F), Bowen Byram (Injured Reserve, No. 1 D)
+
+Locked 05:32 PM ET: Winnipeg Jets at New York Islanders (07:30 PM); Pittsburgh Penguins at Buffalo Sabres (08:00 PM); Seattle Kraken at Edmonton Oilers (08:00 PM)
+                                game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+  Winnipeg Jets @ New York Islanders  New York Islanders ML  -120    0.521   0.522 -0.000       -0.044       0.00
+  Winnipeg Jets @ New York Islanders       Winnipeg Jets ML   100    0.479   0.478  0.000       -0.043       0.00
+  Winnipeg Jets @ New York Islanders               Over 6.5  -110    0.454   0.500 -0.046       -0.132       0.00
+  Winnipeg Jets @ New York Islanders              Under 6.5  -110    0.546   0.500  0.046        0.042       1.14
+Pittsburgh Penguins @ Buffalo Sabres      Buffalo Sabres ML  -135    0.569   0.553  0.017       -0.009       0.00
+Pittsburgh Penguins @ Buffalo Sabres Pittsburgh Penguins ML   115    0.431   0.447 -0.017       -0.074       0.00
+Pittsburgh Penguins @ Buffalo Sabres               Over 6.5  -120    0.538   0.522  0.016       -0.014       0.00
+Pittsburgh Penguins @ Buffalo Sabres              Under 6.5   100    0.462   0.478 -0.016       -0.075       0.00
+    Seattle Kraken @ Edmonton Oilers     Edmonton Oilers ML  -220    0.625   0.658 -0.033       -0.090       0.00
+    Seattle Kraken @ Edmonton Oilers      Seattle Kraken ML   180    0.375   0.342  0.033        0.049       0.68
+    Seattle Kraken @ Edmonton Oilers               Over 6.5  -105    0.468   0.489 -0.021       -0.087       0.00
+    Seattle Kraken @ Edmonton Oilers              Under 6.5  -115    0.532   0.511  0.021       -0.005       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Winnipeg Jets at New York Islanders: Stuart Skinner, Likely (+0.02 goals/gm) vs Semyon Varlamov (+0.03 goals/gm); expected total 6.23
+  Pittsburgh Penguins at Buffalo Sabres: Sergei Murashov (-0.01 goals/gm) vs Ukko-Pekka Luukkonen, Likely (+0.01 goals/gm); expected total 6.76
+  Seattle Kraken at Edmonton Oilers: Philipp Grubauer, Likely (+0.02 goals/gm) vs Tristan Jarry (+0.04 goals/gm); expected total 6.32
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Buffalo Sabres: Zach Benson (Out, No. 1 F)

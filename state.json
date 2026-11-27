@@ -99,11 +99,14 @@
       "Colorado Avalanche @ Minnesota Wild",
       "Los Angeles Kings @ Anaheim Ducks",
       "Vegas Golden Knights @ San Jose Sharks",
-      "New York Rangers @ Chicago Blackhawks"
+      "New York Rangers @ Chicago Blackhawks",
+      "Winnipeg Jets @ New York Islanders",
+      "Pittsburgh Penguins @ Buffalo Sabres",
+      "Seattle Kraken @ Edmonton Oilers"
     ]
   },
   "morning_done": "2026-11-27",
-  "odds_credits_remaining": "388",
+  "odds_credits_remaining": "386",
   "odds_pulls": {
     "2026-11-16": 2,
     "2026-11-17": 3,
@@ -114,6 +117,6 @@
     "2026-11-23": 2,
     "2026-11-24": 1,
     "2026-11-25": 3,
-    "2026-11-27": 4
+    "2026-11-27": 5
   }
 }
