@@ -1,0 +1,25 @@
+
+Locked 11:21 AM ET: Toronto Maple Leafs at Boston Bruins (01:00 PM); Calgary Flames at New Jersey Devils (01:00 PM); Utah Mammoth at Nashville Predators (01:00 PM)
+                               game                    bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+Toronto Maple Leafs @ Boston Bruins       Boston Bruins ML  -155    0.621   0.578  0.043        0.021       0.82
+Toronto Maple Leafs @ Boston Bruins Toronto Maple Leafs ML   125    0.379   0.422 -0.043       -0.147       0.00
+Toronto Maple Leafs @ Boston Bruins               Over 6.5  -118    0.497   0.517 -0.020       -0.081       0.00
+Toronto Maple Leafs @ Boston Bruins              Under 6.5  -102    0.503   0.483  0.020       -0.005       0.00
+ Calgary Flames @ New Jersey Devils   New Jersey Devils ML  -250    0.650   0.682 -0.032       -0.090       0.00
+ Calgary Flames @ New Jersey Devils      Calgary Flames ML   200    0.350   0.318  0.032        0.051       0.64
+ Calgary Flames @ New Jersey Devils               Over 6.5   100    0.501   0.478  0.023        0.002       0.00
+ Calgary Flames @ New Jersey Devils              Under 6.5  -120    0.499   0.522 -0.023       -0.085       0.00
+ Utah Mammoth @ Nashville Predators Nashville Predators ML  -102    0.552   0.483  0.070        0.094       2.00
+ Utah Mammoth @ Nashville Predators        Utah Mammoth ML  -118    0.448   0.517 -0.070       -0.173       0.00
+ Utah Mammoth @ Nashville Predators               Over 6.5  -105    0.465   0.489 -0.025       -0.093       0.00
+ Utah Mammoth @ Nashville Predators              Under 6.5  -115    0.535   0.511  0.025        0.001       0.00
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Toronto Maple Leafs at Boston Bruins: Anthony Stolarz (+0.02 goals/gm) vs Jeremy Swayman, Unconfirmed (+0.05 goals/gm); expected total 6.51
+  Calgary Flames at New Jersey Devils: Dustin Wolf, Unconfirmed (-0.10 goals/gm) vs Jake Allen (-0.13 goals/gm); expected total 6.53
+  Utah Mammoth at Nashville Predators: Karel Vejmelka, Unconfirmed (-0.09 goals/gm) vs Juuse Saros, Unconfirmed (+0.12 goals/gm); expected total 6.30
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Calgary Flames: Kevin Bahl (Injured Reserve, No. 1 D)
