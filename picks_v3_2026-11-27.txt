@@ -58,3 +58,31 @@ Starting goalie adjustment (+ = fewer goals expected against his team than V2 as
   Detroit Red Wings at Columbus Blue Jackets: Daniil Tarasov, Unconfirmed (+0.23 goals/gm) vs Jet Greaves (-0.09 goals/gm); expected total 5.72
 Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
 Key players out, Vancouver Canucks: Elias Pettersson (Out, No. 1 F)
+
+Locked 02:37 PM ET: Colorado Avalanche at Minnesota Wild (04:00 PM); Los Angeles Kings at Anaheim Ducks (04:00 PM); Vegas Golden Knights at San Jose Sharks (04:00 PM)
+                                  game                     bet  odds  model_p  fair_p   edge  ev_per_unit  stake_pct
+   Colorado Avalanche @ Minnesota Wild       Minnesota Wild ML  -118    0.543   0.517  0.025        0.003       0.00
+   Colorado Avalanche @ Minnesota Wild   Colorado Avalanche ML  -102    0.457   0.483 -0.025       -0.094       0.00
+   Colorado Avalanche @ Minnesota Wild                Over 6.0  -120    0.484   0.522 -0.038       -0.113       0.00
+   Colorado Avalanche @ Minnesota Wild               Under 6.0   100    0.516   0.478  0.038        0.032       0.81
+     Los Angeles Kings @ Anaheim Ducks        Anaheim Ducks ML   100    0.552   0.478  0.074        0.104       2.00
+     Los Angeles Kings @ Anaheim Ducks    Los Angeles Kings ML  -120    0.448   0.522 -0.074       -0.179       0.00
+     Los Angeles Kings @ Anaheim Ducks                Over 6.5  -110    0.494   0.500 -0.006       -0.058       0.00
+     Los Angeles Kings @ Anaheim Ducks               Under 6.5  -110    0.506   0.500  0.006       -0.033       0.00
+Vegas Golden Knights @ San Jose Sharks      San Jose Sharks ML   180    0.357   0.342  0.015       -0.001       0.00
+Vegas Golden Knights @ San Jose Sharks Vegas Golden Knights ML  -220    0.643   0.658 -0.015       -0.064       0.00
+Vegas Golden Knights @ San Jose Sharks                Over 6.5  -118    0.487   0.517 -0.030       -0.100       0.00
+Vegas Golden Knights @ San Jose Sharks               Under 6.5  -102    0.513   0.483  0.030        0.016       0.40
+
+stake_pct > 0 means edge >= min-edge (quarter Kelly, capped at 2% of bankroll).
+Ratings trained on 50% expected goals (Data: MoneyPuck.com).
+
+Starting goalie adjustment (+ = fewer goals expected against his team than V2 assumes):
+  Colorado Avalanche at Minnesota Wild: Mackenzie Blackwood, Unconfirmed (+0.07 goals/gm) vs Jesper Wallstedt, Unconfirmed (+0.16 goals/gm); expected total 6.08
+  Los Angeles Kings at Anaheim Ducks: Darcy Kuemper, Unconfirmed (-0.04 goals/gm) vs Laurent Brossoit (+0.09 goals/gm); expected total 6.48
+  Vegas Golden Knights at San Jose Sharks: Adin Hill, Unconfirmed (+0.04 goals/gm) vs Yaroslav Askarov (+0.01 goals/gm); expected total 6.45
+Goalie stats: this season only, shrunk toward league average (Data: MoneyPuck.com).
+Key players out, Colorado Avalanche: Nathan MacKinnon (Out, No. 1 F)
+Key players out, Minnesota Wild: Quinn Hughes (Injured Reserve, No. 1 D)
+Key players out, Anaheim Ducks: Leo Carlsson (Injured Reserve, No. 3 F)
+Key players out, San Jose Sharks: Jacob Trouba (Out, No. 1 D)
