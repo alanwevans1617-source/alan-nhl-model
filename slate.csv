@@ -1,16 +1,14 @@
 date,start_utc,away,home
-2026-11-27,2026-11-27T18:00:00Z,Toronto Maple Leafs,Boston Bruins
-2026-11-27,2026-11-27T18:00:00Z,Calgary Flames,New Jersey Devils
-2026-11-27,2026-11-27T18:00:00Z,Utah Mammoth,Nashville Predators
-2026-11-27,2026-11-27T19:00:00Z,Dallas Stars,St. Louis Blues
-2026-11-27,2026-11-27T20:00:00Z,Ottawa Senators,Tampa Bay Lightning
-2026-11-27,2026-11-27T20:00:00Z,Vancouver Canucks,Philadelphia Flyers
-2026-11-27,2026-11-27T20:00:00Z,Florida Panthers,Washington Capitals
-2026-11-27,2026-11-27T20:00:00Z,Detroit Red Wings,Columbus Blue Jackets
-2026-11-27,2026-11-27T21:00:00Z,Colorado Avalanche,Minnesota Wild
-2026-11-27,2026-11-27T21:00:00Z,Los Angeles Kings,Anaheim Ducks
-2026-11-27,2026-11-27T21:00:00Z,Vegas Golden Knights,San Jose Sharks
-2026-11-27,2026-11-27T22:30:00Z,New York Rangers,Chicago Blackhawks
-2026-11-27,2026-11-28T00:30:00Z,Winnipeg Jets,New York Islanders
-2026-11-27,2026-11-28T01:00:00Z,Pittsburgh Penguins,Buffalo Sabres
-2026-11-27,2026-11-28T01:00:00Z,Seattle Kraken,Edmonton Oilers
+2026-11-28,2026-11-28T21:00:00Z,Montreal Canadiens,Vegas Golden Knights
+2026-11-28,2026-11-28T23:00:00Z,Tampa Bay Lightning,Florida Panthers
+2026-11-28,2026-11-29T00:00:00Z,Nashville Predators,Detroit Red Wings
+2026-11-28,2026-11-29T00:00:00Z,Winnipeg Jets,New Jersey Devils
+2026-11-28,2026-11-29T00:00:00Z,Calgary Flames,New York Rangers
+2026-11-28,2026-11-29T00:00:00Z,Toronto Maple Leafs,Pittsburgh Penguins
+2026-11-28,2026-11-29T00:00:00Z,Ottawa Senators,Carolina Hurricanes
+2026-11-28,2026-11-29T00:00:00Z,Washington Capitals,St. Louis Blues
+2026-11-28,2026-11-29T00:30:00Z,New York Islanders,Philadelphia Flyers
+2026-11-28,2026-11-29T01:00:00Z,Utah Mammoth,Dallas Stars
+2026-11-28,2026-11-29T02:00:00Z,San Jose Sharks,Colorado Avalanche
+2026-11-28,2026-11-29T02:00:00Z,Anaheim Ducks,Los Angeles Kings
+2026-11-28,2026-11-29T03:00:00Z,Edmonton Oilers,Seattle Kraken
